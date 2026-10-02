@@ -1,6 +1,126 @@
 {
-  "updatedAt": "2026-10-02T06:42:58.372896+00:00",
+  "updatedAt": "2026-10-02T13:13:15.536587+00:00",
   "items": [
+    {
+      "title": "Search News Buzz Video Recap: Google Spam Update Impact, Google Not Paying Much For Your Content, Google Feels Sad & Terrible and more",
+      "link": "https://www.seroundtable.com/video-10-02-2026-42210.html",
+      "date": "2026-10-02T12:01:00+00:00",
+      "description": "This week, we covered the first impact felt by the Google September 2026 spam update. And then on Wednesday and Thursday we had the second impact of this spam update. Remember the AI contribution report...",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "When A Search Query Becomes A Standing Instruction via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/when-a-search-query-becomes-a-standing-instruction/591690/",
+      "date": "2026-10-02T12:00:09+00:00",
+      "description": "Google's AI Mode monitoring and OpenAI's dots keep requests active, with different tasks, sources, controls, and questions about site visibility. The post When A Search Query Becomes A Standing Instruction appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google Loyalty Customer Match Expands To AI Mode & More Regions",
+      "link": "https://www.seroundtable.com/google-loyalty-customer-match-expands-42216.html",
+      "date": "2026-10-02T11:51:00+00:00",
+      "description": "Google made several changes to the about merchant loyalty program within the Google Merchant Center help documentation. The key changes are that Loyalty Customer Match expanded to AI Mode and Gemini and to more regions, but there are even more changes noted in the help documentation.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Tests URL Tracking Parameters To AI Overviews & AI Mode",
+      "link": "https://www.seroundtable.com/google-ai-overview-link-tracking-parameters-42219.html",
+      "date": "2026-10-02T11:46:00+00:00",
+      "description": "Google seems to be testing adding tracking parameters to the link URLs within AI Overviews. If this rolls out fully, this will help you decipher when you get a click from an AI Overview in Google Search or just a click from the main Google Search web results.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Local Service Ads Hiding Phone Number By Default",
+      "link": "https://www.seroundtable.com/google-local-service-ads-hides-phone-number-42207.html",
+      "date": "2026-10-02T11:41:00+00:00",
+      "description": "Google Local Service Ads seems to hide the phone number until you hover your mouse over the ad. I am not sure if this is new or not, but there is a big button that says \"Get phone number\" which is not needed because the phone number does show up as soon as you move your mouse near the ad.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Bing Product Results With Recommended By Section",
+      "link": "https://www.seroundtable.com/bing-recommended-by-products-section-42193.html",
+      "date": "2026-10-02T11:31:00+00:00",
+      "description": "Microsoft Bing is testing a new'ish section labeled \"Recommended by\" followed by the company making the recommendations. The weird thing is, the specific product thumbnails link to various retailers and not the place that recommended it.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads Sponsored Products Results Missing Images",
+      "link": "https://www.seroundtable.com/google-sponsored-products-results-missing-images-42213.html",
+      "date": "2026-10-02T11:21:00+00:00",
+      "description": "Google Ads may have a bug or maybe it is testing, not showing images on sponsored product results. You can see from the screenshot below, the images that are generally shown above the ad titles and descriptions are missing from the Sponsored products carousel in Google Search.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads Sitelinks Format In AI Mode",
+      "link": "https://www.seroundtable.com/google-ads-sitelinks-ai-mode-42206.html",
+      "date": "2026-10-02T11:11:00+00:00",
+      "description": "Google Ads show up a lot within AI Mode these days and with that, Google is testing various ad formats to see which formats get the highest click-through rate (unlike links in AI Mode). Here is a screenshot of what may be the Google Ads Sitelinks within AI Mode.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads To Allow Some Advertisers To Use Different Business Names",
+      "link": "https://www.seroundtable.com/google-ads-business-name-policy-42214.html",
+      "date": "2026-10-02T11:05:00+00:00",
+      "description": "Google Ads will update its business name policy to allow some advertisers to use a business name that differs from the ad's destination domain. This is limited to certain cases, specifically three cases and it also excludes advertisers who are not the direct verified brand.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Helpful Content Doc With New Main Content & EOT/SA Sections",
+      "link": "https://www.seroundtable.com/google-helpful-content-main-content-and-eot-sa-42218.html",
+      "date": "2026-10-02T10:00:00+00:00",
+      "description": "Google has updated the creating helpful, reliable, people-first content help document to primarily add two new sections. First, it added that the main content is super critical, added what is main content and then explained how Search Quality raters review content quality of the main content.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Google: Manually Factcheck & Review AI-Generated Content For Accuracy",
       "link": "https://www.seroundtable.com/google-updates-ai-content-guidelines-factcheck-review-42217.html",
@@ -146,18 +266,6 @@
       ]
     },
     {
-      "title": "October 2026 Google Webmaster Report",
-      "link": "https://www.seroundtable.com/october-2026-google-webmaster-report-42185.html",
-      "date": "2026-10-01T11:51:00+00:00",
-      "description": "Here is the big Google webmaster report for October 2026, where I recap the most important organic and webmaster-focused Google Search news for the past month. Clearly, the Google September 2026 spam update, which started off strong and is still rolling out, is the big ticker. But we also have other unconfirmed Google updates to cover.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Judge Acknowledges Publisher Harm But Dismisses Google Antitrust Claims via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/judge-acknowledges-publisher-harm-but-dismisses-google-antitrust-claims/591748/",
       "date": "2026-10-01T11:49:28+00:00",
@@ -167,66 +275,6 @@
         "SEO",
         "AI Search",
         "Ads"
-      ]
-    },
-    {
-      "title": "Google AI Overviews Invade Team Rosters",
-      "link": "https://www.seroundtable.com/google-ai-overviews-team-rosters-42202.html",
-      "date": "2026-10-01T11:41:00+00:00",
-      "description": "Google seems to be going after team rosters with the latest Google AI Overview to overtake website content for its own AI-generated version of that content. If you search for certain team rosters, Google will generate an AI answer, an AI Overview, with the answer.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Microsoft Advertising Optimization Experiments Now Generally Available",
-      "link": "https://www.seroundtable.com/microsoft-advertising-optimization-experiments-42203.html",
-      "date": "2026-10-01T11:31:00+00:00",
-      "description": "Microsoft Advertising announced that optimization experiments is now generally available for Search, Shopping, Audience, and Performance Max campaigns. An Optimization experiment measures the impact of a campaign change through a controlled A/B test, Microsoft's help center explains.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Tests Dropping I'm Feeling Lucky Button From Search Bar",
-      "link": "https://www.seroundtable.com/google-search-im-feeling-lucky-button-42190.html",
-      "date": "2026-10-01T11:21:00+00:00",
-      "description": "Google seems to be testing dropping the historic I'm feeling lucky button for the main Google Search bar. It is totally gone for some searchers when you start to type your query, and in other cases, it is supplemented with AI buttons.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Search Tests 3 Products In Grid That Expands To More",
-      "link": "https://www.seroundtable.com/google-search-more-products-test-42191.html",
-      "date": "2026-10-01T11:11:00+00:00",
-      "description": "Google is testing showing three products in the more products grid within Google Search. In some tests, the grid can expand to show four or five or so products across or downsize to only show three.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads: Have At Least One Asset Group To Avoid Invalid Final URL Error",
-      "link": "https://www.seroundtable.com/google-ads-asset-groupinvalid-final-url-42204.html",
-      "date": "2026-10-01T11:05:00+00:00",
-      "description": "Google Ads updated its destination not working policy document to \"provide additional examples for destination issues for advertisers,\" the company said. But Google also added a new line that says \"Make sure your campaign has at least one asset group configured. If an asset group is missing, you may receive an \"invalid final URL\" error during setup even if your destination URL is working correctly.\"",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -290,30 +338,6 @@
       ]
     },
     {
-      "title": "Google AI Overviews Return For Many Large Brand Names",
-      "link": "https://www.seroundtable.com/google-ai-overviews-large-brand-names-42195.html",
-      "date": "2026-09-30T16:12:00+00:00",
-      "description": "Google seems to be showing more and more AI Overviews these days and even for many large brand names. It don't have a ton of data but Google does seems to be showing more and AI Overviews for almost every large brand name except for Google's own name and news publications.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "OpenAI ChatGPT Ads Gains Bulk Product Creation, Product Review Status & More",
-      "link": "https://www.seroundtable.com/openai-chatgpt-ads-updates-42194.html",
-      "date": "2026-09-30T15:33:00+00:00",
-      "description": "OpenAI just sent out an email to advertisers about new ChatGPT Ads product updates that include several new features. The new features include bulk creation for product feed campaigns, product review status, report conversions beyond your campaign goal through the API, separate account, brand, and legal names and ChatGPT Ads are live in Southeast Asia and Taiwan.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "OpenAI Dots Run Read-Only Research When Nobody Is Asking via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/openai-dots-read-only-proactive-research/591565/",
       "date": "2026-09-30T14:44:15+00:00",
@@ -347,18 +371,6 @@
         "SEO",
         "AI Search",
         "Ads"
-      ]
-    },
-    {
-      "title": "Daily Search Forum Recap: September 30, 2026",
-      "link": "https://www.seroundtable.com/recap-09-30-2026-42189.html",
-      "date": "2026-09-30T14:00:00+00:00",
-      "description": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google is only paying about 100 publishers in the AI contribution pilot...",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -402,18 +414,6 @@
       "link": "https://www.searchenginejournal.com/ai-crawlers-machine-layer-answershare-spa/590837/",
       "date": "2026-09-29T20:40:41+00:00",
       "description": "AnswerShare reports more recommendations in a client test after publishing sourced brand context. Here is how its machine-layer works & what it cannot fix. The post Yes, You Can Change AI&#8217;s Opinion. Here&#8217;s How. appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Trust As A Conversion Lever: How To Test Credibility In A Regulated Industry",
-      "link": "https://www.searchenginejournal.com/trust-as-a-conversion-lever-how-to-test-credibility-in-a-regulated-industry/589232/",
-      "date": "2026-09-29T19:00:11+00:00",
-      "description": "Test whether honest expectations and money-back guarantees build trust in health marketing, then judge results beyond the first conversion. The post Trust As A Conversion Lever: How To Test Credibility In A Regulated Industry appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
