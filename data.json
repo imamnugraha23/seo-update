@@ -1,5 +1,568 @@
 {
-  "updatedAt": null,
-  "items": [],
-  "sources": []
+  "updatedAt": "2026-10-02T06:42:58.372896+00:00",
+  "items": [
+    {
+      "title": "Google: Manually Factcheck & Review AI-Generated Content For Accuracy",
+      "link": "https://www.seroundtable.com/google-updates-ai-content-guidelines-factcheck-review-42217.html",
+      "date": "2026-10-02T00:10:00+00:00",
+      "description": "Google has updated Google Search's \"guidance on using generative AI content on your website\" document to tell those who use AI-generated content to \"manually factcheck and review all AI-generated content for accuracy and trustworthiness before publishing.\"",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Tells Sites To Fact-Check AI Content Before Publishing via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-fact-check-ai-content-before-publishing/591782/",
+      "date": "2026-10-02T00:03:36+00:00",
+      "description": "Google's guidance on AI-generated content now says to fact-check it by hand before publishing, and the review extends to titles, alt text, and other metadata. The post Google Tells Sites To Fact-Check AI Content Before Publishing appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "YouTube To Cut Reach Of Channels Reposting Barely Changed Clips via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/youtube-original-shorts-reposted-clips-reach/591774/",
+      "date": "2026-10-01T20:44:41+00:00",
+      "description": "YouTube is updating recommendations to favor original Shorts and reduce reach for channels that mainly re-upload others' clips without significant changes. The post YouTube To Cut Reach Of Channels Reposting Barely Changed Clips appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "ChatGPT Adds Virtually Try On Clothing & Accessories",
+      "link": "https://www.seroundtable.com/chatgpt-virtually-try-on-42215.html",
+      "date": "2026-10-01T19:32:00+00:00",
+      "description": "OpenAI announced that it is rolling out virtual try-on for clothing and accessories for ChatGPT on the mobile and web interfaces. This also includes saving these to your ChatGPT Library.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google AI Overview Lawsuit Dismissed Over No Agreement With Publishers",
+      "link": "https://www.seroundtable.com/google-ai-overview-lawsuit-dismissed-42211.html",
+      "date": "2026-10-01T15:31:00+00:00",
+      "description": "About a year ago, Penske, which operates and owns Rolling Stone, The Hollywood Reporter, Billboard, Variety, and others, sued Google over its AI Overviews. Well, that case was dismissed because Penske failed to prove that Google entered into any formal agreement with Penske to sell its content in exchange for any amount of traffic.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Phase Two Of The Google September 2026 Spam Update Hits On 9/30",
+      "link": "https://www.seroundtable.com/google-september-2026-spam-update-two-42209.html",
+      "date": "2026-10-01T14:30:00+00:00",
+      "description": "Google announced the Google September 2026 spam update a week ago today on September 24th. We most likely saw the first wave of sites getting hit on September 25th, 26th and into the 27th. Then things cooled a bit but it all heated back up yesterday, September 30th. September 30th may have been the second wave, the second phase of this Google spam update.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "AI Changed Your Buyer Faster Than Your Business Can Adapt via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/ai-changed-your-buyer-faster-than-your-business-can-adapt/591043/",
+      "date": "2026-10-01T14:00:52+00:00",
+      "description": "AI changed the buyer in 18 months. Most businesses still run on 12-month plans. Here's where the gap shows up and why it keeps widening. The post AI Changed Your Buyer Faster Than Your Business Can Adapt appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Daily Search Forum Recap: October 1, 2026",
+      "link": "https://www.seroundtable.com/recap-10-01-2026-42205.html",
+      "date": "2026-10-01T14:00:00+00:00",
+      "description": "Here is a recap of what happened in the search forums today...",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Nothing Is On Fire At Google via @sejournal, @pedrodias",
+      "link": "https://www.searchenginejournal.com/nothing-is-on-fire-at-google/591422/",
+      "date": "2026-10-01T13:00:47+00:00",
+      "description": "Google has data, chips and cash to lead in AI. The real question is whether it will disrupt the Search business that pays for everything. The post Nothing Is On Fire At Google appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google Gemini Adds UTM Parameters For Referral Attribution via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-gemini-adds-utm-parameters-for-referral-attribution/591754/",
+      "date": "2026-10-01T12:15:03+00:00",
+      "description": "Gemini's new UTM parameters give site owners clearer attribution for traffic coming from Google's AI platform. The post Google Gemini Adds UTM Parameters For Referral Attribution appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "What Are Common Structured Data Mistakes That Hurt AI Visibility? – Ask An SEO via @sejournal, @HelenPollitt1",
+      "link": "https://www.searchenginejournal.com/what-are-common-structured-data-mistakes-that-hurt-ai-visibility-ask-an-seo/589924/",
+      "date": "2026-10-01T12:00:54+00:00",
+      "description": "Understand the most common structured data mistakes that hurt AI visibility and how to avoid them The post What Are Common Structured Data Mistakes That Hurt AI Visibility? – Ask An SEO appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google Local Service Ads Bug Serving Wrong Locations",
+      "link": "https://www.seroundtable.com/google-local-service-ads-bug-42208.html",
+      "date": "2026-10-01T12:00:00+00:00",
+      "description": "There seems to be a bug with Google Local Service Ads showing ads from advertisers who are not targeting specific locations. With Local Service Ads, an advertiser can say they serve a specific city or location, but Google seems to be showing ads from advertisers who do not serve in those locations.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "October 2026 Google Webmaster Report",
+      "link": "https://www.seroundtable.com/october-2026-google-webmaster-report-42185.html",
+      "date": "2026-10-01T11:51:00+00:00",
+      "description": "Here is the big Google webmaster report for October 2026, where I recap the most important organic and webmaster-focused Google Search news for the past month. Clearly, the Google September 2026 spam update, which started off strong and is still rolling out, is the big ticker. But we also have other unconfirmed Google updates to cover.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Judge Acknowledges Publisher Harm But Dismisses Google Antitrust Claims via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/judge-acknowledges-publisher-harm-but-dismisses-google-antitrust-claims/591748/",
+      "date": "2026-10-01T11:49:28+00:00",
+      "description": "Google antitrust ruling shows how publishers can allege real harm yet still fail in a federal court. The post Judge Acknowledges Publisher Harm But Dismisses Google Antitrust Claims appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google AI Overviews Invade Team Rosters",
+      "link": "https://www.seroundtable.com/google-ai-overviews-team-rosters-42202.html",
+      "date": "2026-10-01T11:41:00+00:00",
+      "description": "Google seems to be going after team rosters with the latest Google AI Overview to overtake website content for its own AI-generated version of that content. If you search for certain team rosters, Google will generate an AI answer, an AI Overview, with the answer.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Microsoft Advertising Optimization Experiments Now Generally Available",
+      "link": "https://www.seroundtable.com/microsoft-advertising-optimization-experiments-42203.html",
+      "date": "2026-10-01T11:31:00+00:00",
+      "description": "Microsoft Advertising announced that optimization experiments is now generally available for Search, Shopping, Audience, and Performance Max campaigns. An Optimization experiment measures the impact of a campaign change through a controlled A/B test, Microsoft's help center explains.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Tests Dropping I'm Feeling Lucky Button From Search Bar",
+      "link": "https://www.seroundtable.com/google-search-im-feeling-lucky-button-42190.html",
+      "date": "2026-10-01T11:21:00+00:00",
+      "description": "Google seems to be testing dropping the historic I'm feeling lucky button for the main Google Search bar. It is totally gone for some searchers when you start to type your query, and in other cases, it is supplemented with AI buttons.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Search Tests 3 Products In Grid That Expands To More",
+      "link": "https://www.seroundtable.com/google-search-more-products-test-42191.html",
+      "date": "2026-10-01T11:11:00+00:00",
+      "description": "Google is testing showing three products in the more products grid within Google Search. In some tests, the grid can expand to show four or five or so products across or downsize to only show three.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads: Have At Least One Asset Group To Avoid Invalid Final URL Error",
+      "link": "https://www.seroundtable.com/google-ads-asset-groupinvalid-final-url-42204.html",
+      "date": "2026-10-01T11:05:00+00:00",
+      "description": "Google Ads updated its destination not working policy document to \"provide additional examples for destination issues for advertisers,\" the company said. But Google also added a new line that says \"Make sure your campaign has at least one asset group configured. If an asset group is missing, you may receive an \"invalid final URL\" error during setup even if your destination URL is working correctly.\"",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Where to Find the Exact Phrases That Get Your Content Cited in AI Search via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/where-to-find-the-exact-phrases-that-get-your-content-cited-in-ai-search/591562/",
+      "date": "2026-10-01T10:15:00+00:00",
+      "description": "Join CTM on October 13 to learn how first-party customer data can earn AI citations, improve FAQ content, and reveal which clicks become leads. The post Where to Find the Exact Phrases That Get Your Content Cited in AI Search appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Cloudflare Moves Monetization Gateway & Pay Per Use Into Beta via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/cloudflare-moves-monetization-gateway-pay-per-use-into-beta/591719/",
+      "date": "2026-10-01T08:30:55+00:00",
+      "description": "Cloudflare's Monetization Gateway charges AI agents per request in a closed beta, and Pay Per Use pays publishers for the AI uses that buyers report. The post Cloudflare Moves Monetization Gateway &#038; Pay Per Use Into Beta appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google AI Pilot Pays Some Sites Under 0.1% Of Ad Revenue via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-ai-pilot-pays-some-sites-under-0-1-of-ad-revenue/591717/",
+      "date": "2026-10-01T07:00:15+00:00",
+      "description": "A new report says Google's AI contribution pilot pays publishers widely different amounts, and some participants still can't tell how payouts are calculated. The post Google AI Pilot Pays Some Sites Under 0.1% Of Ad Revenue appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "LiveRamp Expands OpenAI Deal With First-Party Data Targeting via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/liveramp-expands-openai-partnership-chatgpt-ads/591510/",
+      "date": "2026-10-01T03:05:53+00:00",
+      "description": "LiveRamp expands its OpenAI partnership, bringing RampID first-party audiences to ChatGPT Ads as advertisers gain more targeting and bidding options. The post LiveRamp Expands OpenAI Deal With First-Party Data Targeting appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Using Local (AI) Compute To Reduce Reliance On Frontier Models via @sejournal, @chrisgreenseo",
+      "link": "https://www.searchenginejournal.com/using-local-ai-compute-to-reduce-reliance-on-frontier-models/591047/",
+      "date": "2026-09-30T19:00:04+00:00",
+      "description": "How much SEO work can you move off the cloud and onto the user's machine? A Chrome extension experiment with Gemini Nano has answers. The post Using Local (AI) Compute To Reduce Reliance On Frontier Models appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google AI Overviews Return For Many Large Brand Names",
+      "link": "https://www.seroundtable.com/google-ai-overviews-large-brand-names-42195.html",
+      "date": "2026-09-30T16:12:00+00:00",
+      "description": "Google seems to be showing more and more AI Overviews these days and even for many large brand names. It don't have a ton of data but Google does seems to be showing more and AI Overviews for almost every large brand name except for Google's own name and news publications.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "OpenAI ChatGPT Ads Gains Bulk Product Creation, Product Review Status & More",
+      "link": "https://www.seroundtable.com/openai-chatgpt-ads-updates-42194.html",
+      "date": "2026-09-30T15:33:00+00:00",
+      "description": "OpenAI just sent out an email to advertisers about new ChatGPT Ads product updates that include several new features. The new features include bulk creation for product feed campaigns, product review status, report conversions beyond your campaign goal through the API, separate account, brand, and legal names and ChatGPT Ads are live in Southeast Asia and Taiwan.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "OpenAI Dots Run Read-Only Research When Nobody Is Asking via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/openai-dots-read-only-proactive-research/591565/",
+      "date": "2026-09-30T14:44:15+00:00",
+      "description": "OpenAI's Dots can review connected apps and run scheduled checks between conversations, with read-only limits on proactive research. The post OpenAI Dots Run Read-Only Research When Nobody Is Asking appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Wikipedia, Podcasts & Reddit Now Drive AI Citations, Ask Your PR Team How They Did It via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/wikipedia-podcasts-reddit-now-drive-ai-citations-ask-your-pr-team-how-they-did-it/590994/",
+      "date": "2026-09-30T14:30:05+00:00",
+      "description": "Your PR team's Wikipedia, podcast, and Reddit expertise can help you build the third-party signals that support AI visibility. The post Wikipedia, Podcasts &#038; Reddit Now Drive AI Citations, Ask Your PR Team How They Did It appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google Analytics Adds App Conversions To Cross-Channel Reports via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-analytics-app-conversions-cross-channel-reports/591558/",
+      "date": "2026-09-30T14:23:27+00:00",
+      "description": "Google Analytics now supports app conversions in its performance and attribution reports. The post Google Analytics Adds App Conversions To Cross-Channel Reports appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Daily Search Forum Recap: September 30, 2026",
+      "link": "https://www.seroundtable.com/recap-09-30-2026-42189.html",
+      "date": "2026-09-30T14:00:00+00:00",
+      "description": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google is only paying about 100 publishers in the AI contribution pilot...",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "The AI Search Metrics I Use To Track Client Pipelines",
+      "link": "https://www.searchenginejournal.com/the-ai-search-metrics-i-use-to-track-client-pipelines/589123/",
+      "date": "2026-09-30T12:00:13+00:00",
+      "description": "See whether AI search reaches buyers and creates qualified opportunities with five measures covering brand presence, answer accuracy, and attribution. The post The AI Search Metrics I Use To Track Client Pipelines appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "OuterBox Launches OBxFrontier to Kill Busywork With Custom AI",
+      "link": "https://www.searchenginejournal.com/outerbox-launches-obxfrontier-to-kill-busywork-with-custom-ai-spn/591288/",
+      "date": "2026-09-30T11:00:00+00:00",
+      "description": "OuterBox launches OBxFrontier, a custom AI development service that maps client workflow problems and builds AI agents around their existing systems. The post OuterBox Launches OBxFrontier to Kill Busywork With Custom AI appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "How Are Enterprise SEO Pros Measuring AI Overviews & LLMs? [Webinar] via @sejournal, @lorenbaker",
+      "link": "https://www.searchenginejournal.com/how-are-enterprise-seo-pros-measuring-ai-overviews-llms-webinar/590971/",
+      "date": "2026-09-30T07:45:08+00:00",
+      "description": "Tom Capper of STAT walks through the biggest AI search measurement challenges and a tactical solution for each one: October 14 at 2 p.m. ET. The post How Are Enterprise SEO Pros Measuring AI Overviews &#038; LLMs? [Webinar] appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Yes, You Can Change AI’s Opinion. Here’s How.",
+      "link": "https://www.searchenginejournal.com/ai-crawlers-machine-layer-answershare-spa/590837/",
+      "date": "2026-09-29T20:40:41+00:00",
+      "description": "AnswerShare reports more recommendations in a client test after publishing sourced brand context. Here is how its machine-layer works & what it cannot fix. The post Yes, You Can Change AI&#8217;s Opinion. Here&#8217;s How. appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Trust As A Conversion Lever: How To Test Credibility In A Regulated Industry",
+      "link": "https://www.searchenginejournal.com/trust-as-a-conversion-lever-how-to-test-credibility-in-a-regulated-industry/589232/",
+      "date": "2026-09-29T19:00:11+00:00",
+      "description": "Test whether honest expectations and money-back guarantees build trust in health marketing, then judge results beyond the first conversion. The post Trust As A Conversion Lever: How To Test Credibility In A Regulated Industry appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Announcing web multimodal Search performance reporting in Search Console",
+      "link": "https://developers.google.com/search/blog/2026/09/web-multimodal-in-sc",
+      "date": "2026-09-24T00:00:00+00:00",
+      "description": "Understanding how users find your content is crucial for any publisher or site owner. As Search evolves to include more visual and multimodal experiences, we want to ensure you have the data you need to analyze your performance.",
+      "source": "Google Search Central",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Search Central Live Deep Dive Europe 2026: Meet the community speakers",
+      "link": "https://developers.google.com/search/blog/2026/09/scl-dd-europe-2026-community-speakers",
+      "date": "2026-09-16T00:00:00+00:00",
+      "description": "It&#39;s happening! We are absolutely pumped that we&#39;re just about two weeks away from Search Central Live Deep Dive Europe 2026! From September 30 to October 2, 2026, the Google Search Central team is heading to the gorgeous city of Barcelona, Spain for three days of deep technical exploration, networking, and collaboration.",
+      "source": "Google Search Central",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Search Central Live India 2026: Bengaluru, We're Coming (For Real This Time)",
+      "link": "https://developers.google.com/search/blog/2026/09/search-central-live-india-2026",
+      "date": "2026-09-14T00:00:00+00:00",
+      "description": "Remember back in March when we told our Indian community to &quot;sit tight&quot; while we figured out the APAC event calendar? Hopefully, you didn&#39;t take that too literally, because sitting tight for six months is probably not great for your back. In any case, you can finally stand up and stretch: Search Central Live is officially returning to India in 2026, specifically to Bengaluru!",
+      "source": "Google Search Central",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Search Central Live is coming to Bogota and Ciudad de México",
+      "link": "https://developers.google.com/search/blog/2026/09/search-central-live-mexico-and-colombia",
+      "date": "2026-09-08T00:00:00+00:00",
+      "description": "Leer en español",
+      "source": "Google Search Central",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Update to the Site Reputation Policy",
+      "link": "https://developers.google.com/search/blog/2026/08/update-site-reputation-policy",
+      "date": "2026-08-28T00:00:00+00:00",
+      "description": "In 2024, we introduced our site reputation policy to stop a practice where third-party content is published on a trusted website just to exploit that site&#39;s good reputation to rank higher in Search. This practice hurts search quality, and creates a bad experience for users.",
+      "source": "Google Search Central",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Platform properties roll out globally, plus a new social and video performance guide",
+      "link": "https://developers.google.com/search/blog/2026/07/platform-properties-social-video-guide",
+      "date": "2026-07-29T00:00:00+00:00",
+      "description": "Earlier this month, we announced platform properties for Search Console, allowing you to track how your social and video posts on Instagram, TikTok, X, and YouTube perform on Google Search, Discover, and Google News. Today, platform properties are globally available to everyone.",
+      "source": "Google Search Central",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "See how content from social and video platforms performs on Google Search",
+      "link": "https://developers.google.com/search/blog/2026/07/search-console-social-video-platforms",
+      "date": "2026-07-07T00:00:00+00:00",
+      "description": "Content creators and publishers use many channels beyond their own websites to reach their audiences. As people gravitate toward firsthand perspectives and different content formats, we want to make it easier for site owners and creators&amp;mdash;even those without their own website&amp;mdash;to get a consolidated view of how all of their content is getting discovered on Search.",
+      "source": "Google Search Central",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Search Central Deep Dive Europe 2026: Apparently we're going to Barcelona",
+      "link": "https://developers.google.com/search/blog/2026/07/search-central-live-deep-dive-europe-2026",
+      "date": "2026-07-06T00:00:00+00:00",
+      "description": "We&#39;re excited to officially announce the next stop for Search Central Live Deep Dive Europe 2026! Mark your calendars: based directly on your feedback, we&#39;re headed to Barcelona, Spain, from September 30 to October 2, 2026.",
+      "source": "Google Search Central",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Help Us Pick the Next Stop in Europe for Search Central Live Deep Dive 2026!",
+      "link": "https://developers.google.com/search/blog/2026/06/scl-deep-dive-europe-2026",
+      "date": "2026-06-18T00:00:00+00:00",
+      "description": "As we mentioned a few months ago, we are bringing the Search Central Live Deep Dive format to the EMEA region. This SCL format requires finding the absolute best home for the event&amp;mdash;a place where all of you can truly connect, learn, and enjoy.",
+      "source": "Google Search Central",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Introducing Search Generative AI performance reports in Search Console",
+      "link": "https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports",
+      "date": "2026-06-03T00:00:00+00:00",
+      "description": "Today, we&#39;re excited to announce the launch of new Search Generative AI performance reports in Search Console, including dedicated reports for Search and Discover, to help you understand your site&#39;s visibility within generative AI features on Search.",
+      "source": "Google Search Central",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "name": "Search Engine Journal",
+      "ok": true,
+      "count": 20
+    },
+    {
+      "name": "Google Search Central",
+      "ok": true,
+      "count": 10
+    },
+    {
+      "name": "Search Engine Roundtable",
+      "ok": true,
+      "count": 15
+    },
+    {
+      "name": "Search Engine Land",
+      "ok": false,
+      "count": 0,
+      "error": "HTTP Error 403: Forbidden"
+    }
+  ]
 }
