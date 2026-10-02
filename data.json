@@ -1,6 +1,54 @@
 {
-  "updatedAt": "2026-10-02T13:13:15.536587+00:00",
+  "updatedAt": "2026-10-02T18:26:32.991516+00:00",
   "items": [
+    {
+      "title": "OpenAI Founding Member: Make LLMs Write Like An Aircraft Manual via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/karpathy-llm-aircraft-manual-writing/591813/",
+      "date": "2026-10-02T15:49:43+00:00",
+      "description": "Andrej Karpathy suggests asking LLMs to explain topics in an aerospace writing standard, or to answer with diagrams, HTML pages, or custom explainer videos. The post OpenAI Founding Member: Make LLMs Write Like An Aircraft Manual appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google Adds Fake Author Warning To Helpful Content Guidance via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-fake-author-warning-site-owner-guidance/591806/",
+      "date": "2026-10-02T15:03:06+00:00",
+      "description": "Google's people-first content guidance now warns site owners against fabricated author profiles, a form of deception its rater guidelines already described. The post Google Adds Fake Author Warning To Helpful Content Guidance appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "How We Build An SEO Content Roadmap For The AI Search Era (Step-By-Step) via @sejournal, @coreydmorris",
+      "link": "https://www.searchenginejournal.com/how-we-build-an-seo-content-roadmap-for-the-ai-search-era-step-by-step/589944/",
+      "date": "2026-10-02T14:30:46+00:00",
+      "description": "A step-by-step process for building an SEO content roadmap that accounts for AI Overviews, from keyword gaps to a prioritized, citation-ready plan. The post How We Build An SEO Content Roadmap For The AI Search Era (Step-By-Step) appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Daily Search Forum Recap: October 2, 2026",
+      "link": "https://www.seroundtable.com/recap-10-02-2026-42220.html",
+      "date": "2026-10-02T14:00:00+00:00",
+      "description": "Here is a recap of what happened in the search forums today...",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Search News Buzz Video Recap: Google Spam Update Impact, Google Not Paying Much For Your Content, Google Feels Sad & Terrible and more",
       "link": "https://www.seroundtable.com/video-10-02-2026-42210.html",
@@ -254,18 +302,6 @@
       ]
     },
     {
-      "title": "Google Local Service Ads Bug Serving Wrong Locations",
-      "link": "https://www.seroundtable.com/google-local-service-ads-bug-42208.html",
-      "date": "2026-10-01T12:00:00+00:00",
-      "description": "There seems to be a bug with Google Local Service Ads showing ads from advertisers who are not targeting specific locations. With Local Service Ads, an advertiser can say they serve a specific city or location, but Google seems to be showing ads from advertisers who do not serve in those locations.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Judge Acknowledges Publisher Harm But Dismisses Google Antitrust Claims via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/judge-acknowledges-publisher-harm-but-dismisses-google-antitrust-claims/591748/",
       "date": "2026-10-01T11:49:28+00:00",
@@ -378,42 +414,6 @@
       "link": "https://www.searchenginejournal.com/the-ai-search-metrics-i-use-to-track-client-pipelines/589123/",
       "date": "2026-09-30T12:00:13+00:00",
       "description": "See whether AI search reaches buyers and creates qualified opportunities with five measures covering brand presence, answer accuracy, and attribution. The post The AI Search Metrics I Use To Track Client Pipelines appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "OuterBox Launches OBxFrontier to Kill Busywork With Custom AI",
-      "link": "https://www.searchenginejournal.com/outerbox-launches-obxfrontier-to-kill-busywork-with-custom-ai-spn/591288/",
-      "date": "2026-09-30T11:00:00+00:00",
-      "description": "OuterBox launches OBxFrontier, a custom AI development service that maps client workflow problems and builds AI agents around their existing systems. The post OuterBox Launches OBxFrontier to Kill Busywork With Custom AI appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "How Are Enterprise SEO Pros Measuring AI Overviews & LLMs? [Webinar] via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/how-are-enterprise-seo-pros-measuring-ai-overviews-llms-webinar/590971/",
-      "date": "2026-09-30T07:45:08+00:00",
-      "description": "Tom Capper of STAT walks through the biggest AI search measurement challenges and a tactical solution for each one: October 14 at 2 p.m. ET. The post How Are Enterprise SEO Pros Measuring AI Overviews &#038; LLMs? [Webinar] appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Yes, You Can Change AI’s Opinion. Here’s How.",
-      "link": "https://www.searchenginejournal.com/ai-crawlers-machine-layer-answershare-spa/590837/",
-      "date": "2026-09-29T20:40:41+00:00",
-      "description": "AnswerShare reports more recommendations in a client test after publishing sourced brand context. Here is how its machine-layer works & what it cannot fix. The post Yes, You Can Change AI&#8217;s Opinion. Here&#8217;s How. appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
