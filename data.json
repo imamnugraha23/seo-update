@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-04T18:23:20.657344+00:00",
+  "updatedAt": "2026-10-04T21:57:39.321964+00:00",
   "items": [
+    {
+      "title": "Google Shows How Long Crawling, Indexing & Recovery Can Take via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-crawling-indexing-recovery-timing-ranges/591829/",
+      "date": "2026-10-04T20:41:36+00:00",
+      "description": "Google's Gary Illyes showed timing ranges for crawling, indexing, site moves, and core update recovery at Search Central Live Deep Dive Europe in Barcelona. The post Google Shows How Long Crawling, Indexing &#038; Recovery Can Take appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
     {
       "title": "Google Wants AI Content Fact-Checked, Gemini UTM Tags – SEO Pulse via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/seo-pulse-google-ai-content-fact-check-gemini-utm-tags/591787/",
@@ -402,18 +414,6 @@
       "link": "https://www.searchenginejournal.com/openai-dots-read-only-proactive-research/591565/",
       "date": "2026-09-30T14:44:15+00:00",
       "description": "OpenAI's Dots can review connected apps and run scheduled checks between conversations, with read-only limits on proactive research. The post OpenAI Dots Run Read-Only Research When Nobody Is Asking appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Wikipedia, Podcasts & Reddit Now Drive AI Citations, Ask Your PR Team How They Did It via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/wikipedia-podcasts-reddit-now-drive-ai-citations-ask-your-pr-team-how-they-did-it/590994/",
-      "date": "2026-09-30T14:30:05+00:00",
-      "description": "Your PR team's Wikipedia, podcast, and Reddit expertise can help you build the third-party signals that support AI visibility. The post Wikipedia, Podcasts &#038; Reddit Now Drive AI Citations, Ask Your PR Team How They Did It appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
