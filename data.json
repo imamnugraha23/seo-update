@@ -1,6 +1,138 @@
 {
-  "updatedAt": "2026-10-05T07:03:59.198769+00:00",
+  "updatedAt": "2026-10-05T16:01:34.144839+00:00",
   "items": [
+    {
+      "title": "Google’s Hidden Data Layer: What Is It And What To Do About It via @sejournal, @demirie",
+      "link": "https://www.searchenginejournal.com/googles-hidden-data-layer-what-is-it-and-what-to-do-about-it/590234/",
+      "date": "2026-10-05T14:30:56+00:00",
+      "description": "Trace misleading sale badges and outdated product images to Google's hidden data layer, with checks that go beyond your current feed. The post Google&#8217;s Hidden Data Layer: What Is It And What To Do About It appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Daily Search Forum Recap: October 5, 2026",
+      "link": "https://www.seroundtable.com/recap-10-05-2026-42227.html",
+      "date": "2026-10-05T14:00:00+00:00",
+      "description": "Here is a recap of what happened in the search forums today...",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "How To Build A Content Distribution System That Compounds",
+      "link": "https://www.searchenginejournal.com/how-to-build-a-content-distribution-system-that-compounds/590545/",
+      "date": "2026-10-05T12:00:27+00:00",
+      "description": "Keep content working long after launch with a distribution owner, a repeatable checklist, and a 90-day plan to earn backlinks and AI citations. The post How To Build A Content Distribution System That Compounds appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Dark Mode Coming To Google Search Console",
+      "link": "https://www.seroundtable.com/google-search-console-dark-mode-42224.html",
+      "date": "2026-10-05T11:51:00+00:00",
+      "description": "Google will soon support dark mode in Google Search Console. Ariel Kroszynski, a Senior Software Engineer at Google, announced this at the Google Search Central Live Deep Dive Europe 2026 in Barcelona last week.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Search Spam Updates Use AI To Find AI Spam & More",
+      "link": "https://www.seroundtable.com/google-search-spam-updates-ai-42226.html",
+      "date": "2026-10-05T11:45:00+00:00",
+      "description": "Google spoke at the three-day Google Search Central Live Deep Dive event in Europe about why it has rolled out so many spam updates in 2026, according to John Campbell's recap at We Are Roast. He said that Google has been doing more spam updates because there is so much more new content than before. He also said Google is using AI to catch more spam.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads To Automated Promotions For Search & PMax Campaigns Soon",
+      "link": "https://www.seroundtable.com/google-ads-automated-promotions-october-12-42223.html",
+      "date": "2026-10-05T11:41:00+00:00",
+      "description": "Google Ads sent an email notifying some advertisers that it will automatically identify and extract high-quality promotions from your website and apply them directly to your campaigns starting on October 12, 2026. This is called automated promotions and only applies to Search and Performance Max campaigns with linked location assets.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads With Doubled About This Ad Button",
+      "link": "https://www.seroundtable.com/google-ads-double-dots-42222.html",
+      "date": "2026-10-05T11:31:00+00:00",
+      "description": "Google seems to have a bug of sorts where sometimes it can show the three dots about this ad or search result button twice, instead of just once. I can replicate this for some queries but not all.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Search Data On Crawling, Indexing & Serving Timelines",
+      "link": "https://www.seroundtable.com/google-crawling-indexing-serving-data-42225.html",
+      "date": "2026-10-05T11:21:00+00:00",
+      "description": "Gary Illyes from Google reportedly presented new data from Google Search on how long Google for crawling, indexing and serving on average. This is broken down by process, withing crawling, indexing and serving and shows the typical timeframe versus the slowest timeframe.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads AI Campaign Localization Tool (Beta)",
+      "link": "https://www.seroundtable.com/google-ads-ai-campaign-localization-tool-42221.html",
+      "date": "2026-10-05T11:11:00+00:00",
+      "description": "Google Ads has a new AI campaign localization tool for Search campaigns (beta), at least according to a new help document I found late last week. \"You can use the AI campaign localization tool to quickly localize entire Search campaigns for new languages and regions using generative AI,\" Google wrote in the help document.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "OpenAI To Test Visual ChatGPT Ad Format During AI Image Generation",
+      "link": "https://www.seroundtable.com/openai-visual-chatgpt-ad-format-42229.html",
+      "date": "2026-10-05T11:03:00+00:00",
+      "description": "OpenAI announced \"new visual ad format in ChatGPT\" that it will be testing \"later this month in the US with an initial group of advertisers.\" The new visual ad format is an \"ad format during image generation in ChatGPT.\" So if you ask ChatGPT to make an image for you, it will show a special ad for that process.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "What To Expect From Google’s Next Search Ranking Update via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/what-to-expect-from-googles-next-search-ranking-update/591928/",
+      "date": "2026-10-05T09:42:03+00:00",
+      "description": "Google's recent changes provide strong clues about major changes from the next core algorithm update. The post What To Expect From Google&#8217;s Next Search Ranking Update appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
     {
       "title": "Google Shows How Long Crawling, Indexing & Recovery Can Take via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/google-crawling-indexing-recovery-timing-ranges/591829/",
@@ -170,54 +302,6 @@
       ]
     },
     {
-      "title": "Google Ads Sitelinks Format In AI Mode",
-      "link": "https://www.seroundtable.com/google-ads-sitelinks-ai-mode-42206.html",
-      "date": "2026-10-02T11:11:00+00:00",
-      "description": "Google Ads show up a lot within AI Mode these days and with that, Google is testing various ad formats to see which formats get the highest click-through rate (unlike links in AI Mode). Here is a screenshot of what may be the Google Ads Sitelinks within AI Mode.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads To Allow Some Advertisers To Use Different Business Names",
-      "link": "https://www.seroundtable.com/google-ads-business-name-policy-42214.html",
-      "date": "2026-10-02T11:05:00+00:00",
-      "description": "Google Ads will update its business name policy to allow some advertisers to use a business name that differs from the ad's destination domain. This is limited to certain cases, specifically three cases and it also excludes advertisers who are not the direct verified brand.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Helpful Content Doc With New Main Content & EOT/SA Sections",
-      "link": "https://www.seroundtable.com/google-helpful-content-main-content-and-eot-sa-42218.html",
-      "date": "2026-10-02T10:00:00+00:00",
-      "description": "Google has updated the creating helpful, reliable, people-first content help document to primarily add two new sections. First, it added that the main content is super critical, added what is main content and then explained how Search Quality raters review content quality of the main content.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google: Manually Factcheck & Review AI-Generated Content For Accuracy",
-      "link": "https://www.seroundtable.com/google-updates-ai-content-guidelines-factcheck-review-42217.html",
-      "date": "2026-10-02T00:10:00+00:00",
-      "description": "Google has updated Google Search's \"guidance on using generative AI content on your website\" document to tell those who use AI-generated content to \"manually factcheck and review all AI-generated content for accuracy and trustworthiness before publishing.\"",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Google Tells Sites To Fact-Check AI Content Before Publishing via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/google-fact-check-ai-content-before-publishing/591782/",
       "date": "2026-10-02T00:03:36+00:00",
@@ -242,42 +326,6 @@
       ]
     },
     {
-      "title": "ChatGPT Adds Virtually Try On Clothing & Accessories",
-      "link": "https://www.seroundtable.com/chatgpt-virtually-try-on-42215.html",
-      "date": "2026-10-01T19:32:00+00:00",
-      "description": "OpenAI announced that it is rolling out virtual try-on for clothing and accessories for ChatGPT on the mobile and web interfaces. This also includes saving these to your ChatGPT Library.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google AI Overview Lawsuit Dismissed Over No Agreement With Publishers",
-      "link": "https://www.seroundtable.com/google-ai-overview-lawsuit-dismissed-42211.html",
-      "date": "2026-10-01T15:31:00+00:00",
-      "description": "About a year ago, Penske, which operates and owns Rolling Stone, The Hollywood Reporter, Billboard, Variety, and others, sued Google over its AI Overviews. Well, that case was dismissed because Penske failed to prove that Google entered into any formal agreement with Penske to sell its content in exchange for any amount of traffic.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Phase Two Of The Google September 2026 Spam Update Hits On 9/30",
-      "link": "https://www.seroundtable.com/google-september-2026-spam-update-two-42209.html",
-      "date": "2026-10-01T14:30:00+00:00",
-      "description": "Google announced the Google September 2026 spam update a week ago today on September 24th. We most likely saw the first wave of sites getting hit on September 25th, 26th and into the 27th. Then things cooled a bit but it all heated back up yesterday, September 30th. September 30th may have been the second wave, the second phase of this Google spam update.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "AI Changed Your Buyer Faster Than Your Business Can Adapt via @sejournal, @DuaneForrester",
       "link": "https://www.searchenginejournal.com/ai-changed-your-buyer-faster-than-your-business-can-adapt/591043/",
       "date": "2026-10-01T14:00:52+00:00",
@@ -287,18 +335,6 @@
         "SEO",
         "AI Search",
         "Ads"
-      ]
-    },
-    {
-      "title": "Daily Search Forum Recap: October 1, 2026",
-      "link": "https://www.seroundtable.com/recap-10-01-2026-42205.html",
-      "date": "2026-10-01T14:00:00+00:00",
-      "description": "Here is a recap of what happened in the search forums today...",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -378,42 +414,6 @@
       "link": "https://www.searchenginejournal.com/google-ai-pilot-pays-some-sites-under-0-1-of-ad-revenue/591717/",
       "date": "2026-10-01T07:00:15+00:00",
       "description": "A new report says Google's AI contribution pilot pays publishers widely different amounts, and some participants still can't tell how payouts are calculated. The post Google AI Pilot Pays Some Sites Under 0.1% Of Ad Revenue appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "LiveRamp Expands OpenAI Deal With First-Party Data Targeting via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/liveramp-expands-openai-partnership-chatgpt-ads/591510/",
-      "date": "2026-10-01T03:05:53+00:00",
-      "description": "LiveRamp expands its OpenAI partnership, bringing RampID first-party audiences to ChatGPT Ads as advertisers gain more targeting and bidding options. The post LiveRamp Expands OpenAI Deal With First-Party Data Targeting appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Using Local (AI) Compute To Reduce Reliance On Frontier Models via @sejournal, @chrisgreenseo",
-      "link": "https://www.searchenginejournal.com/using-local-ai-compute-to-reduce-reliance-on-frontier-models/591047/",
-      "date": "2026-09-30T19:00:04+00:00",
-      "description": "How much SEO work can you move off the cloud and onto the user's machine? A Chrome extension experiment with Gemini Nano has answers. The post Using Local (AI) Compute To Reduce Reliance On Frontier Models appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "OpenAI Dots Run Read-Only Research When Nobody Is Asking via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/openai-dots-read-only-proactive-research/591565/",
-      "date": "2026-09-30T14:44:15+00:00",
-      "description": "OpenAI's Dots can review connected apps and run scheduled checks between conversations, with read-only limits on proactive research. The post OpenAI Dots Run Read-Only Research When Nobody Is Asking appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
