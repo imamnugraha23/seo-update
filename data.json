@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-10-05T16:01:34.144839+00:00",
+  "updatedAt": "2026-10-05T22:38:24.147152+00:00",
   "items": [
+    {
+      "title": "Google Is Fighting SERP Tracking. AI Agents May Make It Worse via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-is-fighting-serp-tracking-ai-agents-may-make-it-worse/592000/",
+      "date": "2026-10-05T21:03:08+00:00",
+      "description": "Google is fighting back against SERP tracking. The explosion of AI agents may cause it to clamp down harder. The post Google Is Fighting SERP Tracking. AI Agents May Make It Worse appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "AI Cites Your Brand: How to Choose Your Next Move via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/ai-cites-your-brand-how-to-choose-your-next-move/589990/",
+      "date": "2026-10-05T16:16:34+00:00",
+      "description": "AI visibility gaps call for different fixes. Constance Tan shows how to decide between correcting information, earning mentions, creating content, and checking bot access. The post AI Cites Your Brand: How to Choose Your Next Move appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
     {
       "title": "Google’s Hidden Data Layer: What Is It And What To Do About It via @sejournal, @demirie",
       "link": "https://www.searchenginejournal.com/googles-hidden-data-layer-what-is-it-and-what-to-do-about-it/590234/",
@@ -390,30 +414,6 @@
       "link": "https://www.searchenginejournal.com/where-to-find-the-exact-phrases-that-get-your-content-cited-in-ai-search/591562/",
       "date": "2026-10-01T10:15:00+00:00",
       "description": "Join CTM on October 13 to learn how first-party customer data can earn AI citations, improve FAQ content, and reveal which clicks become leads. The post Where to Find the Exact Phrases That Get Your Content Cited in AI Search appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Cloudflare Moves Monetization Gateway & Pay Per Use Into Beta via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/cloudflare-moves-monetization-gateway-pay-per-use-into-beta/591719/",
-      "date": "2026-10-01T08:30:55+00:00",
-      "description": "Cloudflare's Monetization Gateway charges AI agents per request in a closed beta, and Pay Per Use pays publishers for the AI uses that buyers report. The post Cloudflare Moves Monetization Gateway &#038; Pay Per Use Into Beta appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Google AI Pilot Pays Some Sites Under 0.1% Of Ad Revenue via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-ai-pilot-pays-some-sites-under-0-1-of-ad-revenue/591717/",
-      "date": "2026-10-01T07:00:15+00:00",
-      "description": "A new report says Google's AI contribution pilot pays publishers widely different amounts, and some participants still can't tell how payouts are calculated. The post Google AI Pilot Pays Some Sites Under 0.1% Of Ad Revenue appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
