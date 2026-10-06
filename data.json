@@ -1,6 +1,162 @@
 {
-  "updatedAt": "2026-10-06T09:26:06.848015+00:00",
+  "updatedAt": "2026-10-06T16:16:52.353548+00:00",
   "items": [
+    {
+      "title": "Google Search Console Lets You Filter By Multiple Countries via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-search-console-multiple-countries-filter/592065/",
+      "date": "2026-10-06T15:53:04+00:00",
+      "description": "Google is updating Search Console's Performance report filters so you can view combined Google Search traffic for several countries in a single filtered view. The post Google Search Console Lets You Filter By Multiple Countries appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google Changed Its Helpful Content Guidelines To Emphasize Good ‘Main Content’ via @sejournal, @marie_haynes",
+      "link": "https://www.searchenginejournal.com/google-changed-its-helpful-content-guidelines-to-emphasize-good-main-content/591943/",
+      "date": "2026-10-06T14:30:10+00:00",
+      "description": "Why don't SEOs talk more about Google's helpful content documentation? Its latest update shows exactly what the ranking systems are being trained to reward. The post Google Changed Its Helpful Content Guidelines To Emphasize Good &#8216;Main Content&#8217; appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Daily Search Forum Recap: October 6, 2026",
+      "link": "https://www.seroundtable.com/recap-10-06-2026-42240.html",
+      "date": "2026-10-06T14:00:00+00:00",
+      "description": "Here is a recap of what happened in the search forums today...",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "How To Structure A Full-Funnel Ecommerce Account For Q4 via @sejournal, @tonyadam",
+      "link": "https://www.searchenginejournal.com/how-to-structure-a-full-funnel-ecommerce-account-for-q4/589145/",
+      "date": "2026-10-06T12:00:36+00:00",
+      "description": "Keep Google and Meta from exhausting your ecommerce budget on existing demand by funding prospecting and rebuilding customer exclusions before Q4. The post How To Structure A Full-Funnel Ecommerce Account For Q4 appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Final Phase Of Google September 2026 Spam Update Rollout Oct 4-6?",
+      "link": "https://www.seroundtable.com/google-september-2026-spam-update-phase-3-42239.html",
+      "date": "2026-10-06T11:55:00+00:00",
+      "description": "I believe we are seeing the final phase of the Google September 2026 Spam update rolling out between October 4th and October 6th, today. The update should be done any day now, so there may be another spike in volatility, but I suspect this is it - we are pretty much done with this spam update.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Updated Google Maps Policy: What Merchants Can't Post In Listings Or Posts",
+      "link": "https://www.seroundtable.com/google-maps-policy-listings-or-posts-42228.html",
+      "date": "2026-10-06T11:51:00+00:00",
+      "description": "Google has updated the Google Maps and Business Profiles Prohibited & restricted content policy's advertising and solicitation section to list what merchants and business owners cannot post on their listings and posts.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Search Generative AI Control Page Adds Top-Level Domain Details",
+      "link": "https://www.seroundtable.com/google-search-generative-ai-control-add-42236.html",
+      "date": "2026-10-06T11:41:00+00:00",
+      "description": "Google has added information to the Search generative AI control page in Search Console about when a child property overrides the parent setting for AI controls.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads Call Extensions Includes Advertiser Name",
+      "link": "https://www.seroundtable.com/google-ads-call-extensions-advertiser-name-42231.html",
+      "date": "2026-10-06T11:31:00+00:00",
+      "description": "Google Ads is testing displaying the advertiser's name within the click to call phone number call asset on the sponsored listings. Normally, Google will just show the phone number but in this test, Google is also adding the advertiser's name.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Search Console Performance Report Multi-Select Country Filters",
+      "link": "https://www.seroundtable.com/google-search-console-performance-report-country-filters-42241.html",
+      "date": "2026-10-06T11:25:00+00:00",
+      "description": "Google now lets you check off multiple countries within the Google Search Console country filter in the performance reports. This lets you group countries together, to see how your search performance is doing for multiple countries at once, instead of one country at a time.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google On Large Product Aggregator Websites",
+      "link": "https://www.seroundtable.com/google-seo-large-product-aggregator-42232.html",
+      "date": "2026-10-06T11:21:00+00:00",
+      "description": "Google's John Mueller was asked why Google continues to crawl tons of pages on a large website but indexes only four of them, and why the home page isn't indexed. John categorized the site as a \"large product aggregator.\"",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Warns Against Deceptive Authorship Information Within Content",
+      "link": "https://www.seroundtable.com/google-warns-against-deceptive-authorship-information-42238.html",
+      "date": "2026-10-06T11:11:00+00:00",
+      "description": "Around the same time Google updated its helpful content search documentation with defining main content and the new EOT/SA sections, Google also posted a warning to \"avoid using deceptive authorship information.\"",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "OpenAI Tests New Product Labels On ChatGPT Results",
+      "link": "https://www.seroundtable.com/product-labels-on-chatgpt-results-42237.html",
+      "date": "2026-10-06T10:02:00+00:00",
+      "description": "OpenAI is testing new labels appended to the ChatGPT product results. These labels can add information about the product it is displaying, such as \"best all-rounder,\" \"best for beginners,\" \"best cushioning,\" and so on.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Explains Couldn’t Fetch Sitemap Errors via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-explains-couldnt-fetch-sitemap-errors/592040/",
+      "date": "2026-10-06T09:52:43+00:00",
+      "description": "Google admits a \"couldn't fetch\" sitemap error may have nothing to do with whether Google can actually fetch it. The post Google Explains Couldn&#8217;t Fetch Sitemap Errors appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
     {
       "title": "OpenAI To Watermark ChatGPT Text In The EU, Opens API Opt-In via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/openai-to-watermark-chatgpt-text-in-the-eu-opens-api-opt-in/592014/",
@@ -11,6 +167,18 @@
         "SEO",
         "AI Search",
         "Ads"
+      ]
+    },
+    {
+      "title": "New learning paths: curated YouTube playlists for Search fundamentals and Technical SEO",
+      "link": "https://developers.google.com/search/blog/2026/10/seo-learning-paths",
+      "date": "2026-10-06T00:00:00+00:00",
+      "description": "Over the years, the Search Central YouTube channel has published hundreds of videos across various series, from Search for Beginners and Ask Googlebot to Search Console Training and Search Off the Record. While our series structure works well for deep dives and episodic updates, we know that finding a clear, sequential learning path from scratch can sometimes be challenging.",
+      "source": "Google Search Central",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
       ]
     },
     {
@@ -146,30 +314,6 @@
       ]
     },
     {
-      "title": "Google Ads AI Campaign Localization Tool (Beta)",
-      "link": "https://www.seroundtable.com/google-ads-ai-campaign-localization-tool-42221.html",
-      "date": "2026-10-05T11:11:00+00:00",
-      "description": "Google Ads has a new AI campaign localization tool for Search campaigns (beta), at least according to a new help document I found late last week. \"You can use the AI campaign localization tool to quickly localize entire Search campaigns for new languages and regions using generative AI,\" Google wrote in the help document.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "OpenAI To Test Visual ChatGPT Ad Format During AI Image Generation",
-      "link": "https://www.seroundtable.com/openai-visual-chatgpt-ad-format-42229.html",
-      "date": "2026-10-05T11:03:00+00:00",
-      "description": "OpenAI announced \"new visual ad format in ChatGPT\" that it will be testing \"later this month in the US with an initial group of advertisers.\" The new visual ad format is an \"ad format during image generation in ChatGPT.\" So if you ask ChatGPT to make an image for you, it will show a special ad for that process.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "What To Expect From Google’s Next Search Ranking Update via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/what-to-expect-from-googles-next-search-ranking-update/591928/",
       "date": "2026-10-05T09:42:03+00:00",
@@ -254,30 +398,6 @@
       ]
     },
     {
-      "title": "Daily Search Forum Recap: October 2, 2026",
-      "link": "https://www.seroundtable.com/recap-10-02-2026-42220.html",
-      "date": "2026-10-02T14:00:00+00:00",
-      "description": "Here is a recap of what happened in the search forums today...",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Search News Buzz Video Recap: Google Spam Update Impact, Google Not Paying Much For Your Content, Google Feels Sad & Terrible and more",
-      "link": "https://www.seroundtable.com/video-10-02-2026-42210.html",
-      "date": "2026-10-02T12:01:00+00:00",
-      "description": "This week, we covered the first impact felt by the Google September 2026 spam update. And then on Wednesday and Thursday we had the second impact of this spam update. Remember the AI contribution report...",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "When A Search Query Becomes A Standing Instruction via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/when-a-search-query-becomes-a-standing-instruction/591690/",
       "date": "2026-10-02T12:00:09+00:00",
@@ -287,66 +407,6 @@
         "SEO",
         "AI Search",
         "Ads"
-      ]
-    },
-    {
-      "title": "Google Loyalty Customer Match Expands To AI Mode & More Regions",
-      "link": "https://www.seroundtable.com/google-loyalty-customer-match-expands-42216.html",
-      "date": "2026-10-02T11:51:00+00:00",
-      "description": "Google made several changes to the about merchant loyalty program within the Google Merchant Center help documentation. The key changes are that Loyalty Customer Match expanded to AI Mode and Gemini and to more regions, but there are even more changes noted in the help documentation.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Tests URL Tracking Parameters To AI Overviews & AI Mode",
-      "link": "https://www.seroundtable.com/google-ai-overview-link-tracking-parameters-42219.html",
-      "date": "2026-10-02T11:46:00+00:00",
-      "description": "Google seems to be testing adding tracking parameters to the link URLs within AI Overviews. If this rolls out fully, this will help you decipher when you get a click from an AI Overview in Google Search or just a click from the main Google Search web results.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Local Service Ads Hiding Phone Number By Default",
-      "link": "https://www.seroundtable.com/google-local-service-ads-hides-phone-number-42207.html",
-      "date": "2026-10-02T11:41:00+00:00",
-      "description": "Google Local Service Ads seems to hide the phone number until you hover your mouse over the ad. I am not sure if this is new or not, but there is a big button that says \"Get phone number\" which is not needed because the phone number does show up as soon as you move your mouse near the ad.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Bing Product Results With Recommended By Section",
-      "link": "https://www.seroundtable.com/bing-recommended-by-products-section-42193.html",
-      "date": "2026-10-02T11:31:00+00:00",
-      "description": "Microsoft Bing is testing a new'ish section labeled \"Recommended by\" followed by the company making the recommendations. The weird thing is, the specific product thumbnails link to various retailers and not the place that recommended it.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads Sponsored Products Results Missing Images",
-      "link": "https://www.seroundtable.com/google-sponsored-products-results-missing-images-42213.html",
-      "date": "2026-10-02T11:21:00+00:00",
-      "description": "Google Ads may have a bug or maybe it is testing, not showing images on sponsored product results. You can see from the screenshot below, the images that are generally shown above the ad titles and descriptions are missing from the Sponsored products carousel in Google Search.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -366,54 +426,6 @@
       "link": "https://www.searchenginejournal.com/youtube-original-shorts-reposted-clips-reach/591774/",
       "date": "2026-10-01T20:44:41+00:00",
       "description": "YouTube is updating recommendations to favor original Shorts and reduce reach for channels that mainly re-upload others' clips without significant changes. The post YouTube To Cut Reach Of Channels Reposting Barely Changed Clips appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "AI Changed Your Buyer Faster Than Your Business Can Adapt via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/ai-changed-your-buyer-faster-than-your-business-can-adapt/591043/",
-      "date": "2026-10-01T14:00:52+00:00",
-      "description": "AI changed the buyer in 18 months. Most businesses still run on 12-month plans. Here's where the gap shows up and why it keeps widening. The post AI Changed Your Buyer Faster Than Your Business Can Adapt appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Nothing Is On Fire At Google via @sejournal, @pedrodias",
-      "link": "https://www.searchenginejournal.com/nothing-is-on-fire-at-google/591422/",
-      "date": "2026-10-01T13:00:47+00:00",
-      "description": "Google has data, chips and cash to lead in AI. The real question is whether it will disrupt the Search business that pays for everything. The post Nothing Is On Fire At Google appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Google Gemini Adds UTM Parameters For Referral Attribution via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-gemini-adds-utm-parameters-for-referral-attribution/591754/",
-      "date": "2026-10-01T12:15:03+00:00",
-      "description": "Gemini's new UTM parameters give site owners clearer attribution for traffic coming from Google's AI platform. The post Google Gemini Adds UTM Parameters For Referral Attribution appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "What Are Common Structured Data Mistakes That Hurt AI Visibility? – Ask An SEO via @sejournal, @HelenPollitt1",
-      "link": "https://www.searchenginejournal.com/what-are-common-structured-data-mistakes-that-hurt-ai-visibility-ask-an-seo/589924/",
-      "date": "2026-10-01T12:00:54+00:00",
-      "description": "Understand the most common structured data mistakes that hurt AI visibility and how to avoid them The post What Are Common Structured Data Mistakes That Hurt AI Visibility? – Ask An SEO appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -522,18 +534,6 @@
       "link": "https://developers.google.com/search/blog/2026/06/scl-deep-dive-europe-2026",
       "date": "2026-06-18T00:00:00+00:00",
       "description": "As we mentioned a few months ago, we are bringing the Search Central Live Deep Dive format to the EMEA region. This SCL format requires finding the absolute best home for the event&amp;mdash;a place where all of you can truly connect, learn, and enjoy.",
-      "source": "Google Search Central",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Introducing Search Generative AI performance reports in Search Console",
-      "link": "https://developers.google.com/search/blog/2026/06/gen-ai-performance-reports",
-      "date": "2026-06-03T00:00:00+00:00",
-      "description": "Today, we&#39;re excited to announce the launch of new Search Generative AI performance reports in Search Console, including dedicated reports for Search and Discover, to help you understand your site&#39;s visibility within generative AI features on Search.",
       "source": "Google Search Central",
       "tags": [
         "Google",
