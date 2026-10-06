@@ -1,6 +1,114 @@
 {
-  "updatedAt": "2026-10-06T16:16:52.353548+00:00",
+  "updatedAt": "2026-10-06T21:02:39.099528+00:00",
   "items": [
+    {
+      "title": "WordPress 7.1.3 Fixes 7 Vulnerabilities And 1 Critical Flaw via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/wordpress-7-1-3-fixes-7-vulnerabilities-and-1-critical-flaw/592109/",
+      "date": "2026-10-06T20:05:17+00:00",
+      "description": "WordPress 7.1.3 fixes seven security vulnerabilities and a critical bug affecting image uploads that can result in a fatal error. The post WordPress 7.1.3 Fixes 7 Vulnerabilities And 1 Critical Flaw appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Using AI To Assist With SEO Work, Not Replace The Worker via @sejournal, @chrisgreenseo",
+      "link": "https://www.searchenginejournal.com/using-ai-to-assist-with-seo-work-not-replace-the-worker/591045/",
+      "date": "2026-10-06T19:00:47+00:00",
+      "description": "Here's how one technical SEO splits audit work: deterministic checks for facts, a local LLM to explain them, and a human to judge. The post Using AI To Assist With SEO Work, Not Replace The Worker appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google Search Crawl Rate Doc Adds Retry-After HTTP & More",
+      "link": "https://www.seroundtable.com/google-crawl-rate-documentation-update-42247.html",
+      "date": "2026-10-06T18:59:00+00:00",
+      "description": "Google has just pushed some updates to the reduce the Google crawl rate documentation. Most of the changes are just organizational to the content on the page but under the \"Urgently reduce crawler traffic (for emergencies)\" section, Google added new information on how to use Retry-After HTTP header.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "OpenAI To Test Visual Ads In ChatGPT Image Generation via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/openai-chatgpt-image-generation-visual-ads-test/591981/",
+      "date": "2026-10-06T17:21:56+00:00",
+      "description": "OpenAI plans a limited U.S. test of visual ads during image generation, alongside measurement updates that give advertisers more ways to assess results. The post OpenAI To Test Visual Ads In ChatGPT Image Generation appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google Opens Search Profiles In India & Canada, Brazil Next via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-search-profiles-india-canada-brazil/592092/",
+      "date": "2026-10-06T17:12:37+00:00",
+      "description": "Google is opening Search profiles to creators and publishers in India and Canada, with Brazil to follow soon. The post Google Opens Search Profiles In India &#038; Canada, Brazil Next appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Nano Banana 2.1 In Google AI Mode In Search",
+      "link": "https://www.seroundtable.com/nano-banana-21-google-ai-mode-42246.html",
+      "date": "2026-10-06T17:10:00+00:00",
+      "description": "Google released Nano Banana 2.1 today, and it is already working within AI Mode in Google Search. Nano Banana 2.1 is Google's latest image generation and editing model.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Data Shows Which Negative Search Results Can Actually Be Removed via @sejournal, @EraseDotCom",
+      "link": "https://www.searchenginejournal.com/negative-search-result-removal-erase-spa/590856/",
+      "date": "2026-10-06T17:00:45+00:00",
+      "description": "Learn how to address negative search results and identify which links can be removed or hidden effectively. The post Data Shows Which Negative Search Results Can Actually Be Removed appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google Search Profiles Expand To India & Canada With Brazil Coming Soon",
+      "link": "https://www.seroundtable.com/google-search-profiles-india-canada-brazil-42245.html",
+      "date": "2026-10-06T16:36:00+00:00",
+      "description": "Google is expanding the Search profiles feature to more countries. Starting today, those in India and Canada are now eligible for a Search profile in Google Search. And soon, Google will also support users in Brazil.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Email Shares Number Of Preferred Source Subscribers",
+      "link": "https://www.seroundtable.com/google-preferred-source-subscribers-email-42244.html",
+      "date": "2026-10-06T16:15:00+00:00",
+      "description": "Google Search Console is sending out emails informing site owners how many people are subscribing or following them as a preferred source on Google. It says \"people are choosing domain as a preferred source\" and then lists the number of \"Preferred source selections.\"",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Google Search Console Lets You Filter By Multiple Countries via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/google-search-console-multiple-countries-filter/592065/",
@@ -146,10 +254,10 @@
       ]
     },
     {
-      "title": "Google Explains Couldn’t Fetch Sitemap Errors via @sejournal, @martinibuster",
+      "title": "Google Explains The “Couldn’t Fetch” Sitemap Errors via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/google-explains-couldnt-fetch-sitemap-errors/592040/",
       "date": "2026-10-06T09:52:43+00:00",
-      "description": "Google admits a \"couldn't fetch\" sitemap error may have nothing to do with whether Google can actually fetch it. The post Google Explains Couldn&#8217;t Fetch Sitemap Errors appeared first on Search Engine Journal .",
+      "description": "Google admits a \"couldn't fetch\" sitemap error may have nothing to do with whether Google can actually fetch it. The post Google Explains The &#8220;Couldn&#8217;t Fetch&#8221; Sitemap Errors appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -266,54 +374,6 @@
       ]
     },
     {
-      "title": "Google Search Spam Updates Use AI To Find AI Spam & More",
-      "link": "https://www.seroundtable.com/google-search-spam-updates-ai-42226.html",
-      "date": "2026-10-05T11:45:00+00:00",
-      "description": "Google spoke at the three-day Google Search Central Live Deep Dive event in Europe about why it has rolled out so many spam updates in 2026, according to John Campbell's recap at We Are Roast. He said that Google has been doing more spam updates because there is so much more new content than before. He also said Google is using AI to catch more spam.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads To Automated Promotions For Search & PMax Campaigns Soon",
-      "link": "https://www.seroundtable.com/google-ads-automated-promotions-october-12-42223.html",
-      "date": "2026-10-05T11:41:00+00:00",
-      "description": "Google Ads sent an email notifying some advertisers that it will automatically identify and extract high-quality promotions from your website and apply them directly to your campaigns starting on October 12, 2026. This is called automated promotions and only applies to Search and Performance Max campaigns with linked location assets.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads With Doubled About This Ad Button",
-      "link": "https://www.seroundtable.com/google-ads-double-dots-42222.html",
-      "date": "2026-10-05T11:31:00+00:00",
-      "description": "Google seems to have a bug of sorts where sometimes it can show the three dots about this ad or search result button twice, instead of just once. I can replicate this for some queries but not all.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Search Data On Crawling, Indexing & Serving Timelines",
-      "link": "https://www.seroundtable.com/google-crawling-indexing-serving-data-42225.html",
-      "date": "2026-10-05T11:21:00+00:00",
-      "description": "Gary Illyes from Google reportedly presented new data from Google Search on how long Google for crawling, indexing and serving on average. This is broken down by process, withing crawling, indexing and serving and shows the typical timeframe versus the slowest timeframe.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "What To Expect From Google’s Next Search Ranking Update via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/what-to-expect-from-googles-next-search-ranking-update/591928/",
       "date": "2026-10-05T09:42:03+00:00",
@@ -366,66 +426,6 @@
       "link": "https://www.searchenginejournal.com/karpathy-llm-aircraft-manual-writing/591813/",
       "date": "2026-10-02T15:49:43+00:00",
       "description": "Andrej Karpathy suggests asking LLMs to explain topics in an aerospace writing standard, or to answer with diagrams, HTML pages, or custom explainer videos. The post OpenAI Founding Member: Make LLMs Write Like An Aircraft Manual appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Google Adds Fake Author Warning To Helpful Content Guidance via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-fake-author-warning-site-owner-guidance/591806/",
-      "date": "2026-10-02T15:03:06+00:00",
-      "description": "Google's people-first content guidance now warns site owners against fabricated author profiles, a form of deception its rater guidelines already described. The post Google Adds Fake Author Warning To Helpful Content Guidance appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "How We Build An SEO Content Roadmap For The AI Search Era (Step-By-Step) via @sejournal, @coreydmorris",
-      "link": "https://www.searchenginejournal.com/how-we-build-an-seo-content-roadmap-for-the-ai-search-era-step-by-step/589944/",
-      "date": "2026-10-02T14:30:46+00:00",
-      "description": "A step-by-step process for building an SEO content roadmap that accounts for AI Overviews, from keyword gaps to a prioritized, citation-ready plan. The post How We Build An SEO Content Roadmap For The AI Search Era (Step-By-Step) appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "When A Search Query Becomes A Standing Instruction via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/when-a-search-query-becomes-a-standing-instruction/591690/",
-      "date": "2026-10-02T12:00:09+00:00",
-      "description": "Google's AI Mode monitoring and OpenAI's dots keep requests active, with different tasks, sources, controls, and questions about site visibility. The post When A Search Query Becomes A Standing Instruction appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Google Tells Sites To Fact-Check AI Content Before Publishing via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-fact-check-ai-content-before-publishing/591782/",
-      "date": "2026-10-02T00:03:36+00:00",
-      "description": "Google's guidance on AI-generated content now says to fact-check it by hand before publishing, and the review extends to titles, alt text, and other metadata. The post Google Tells Sites To Fact-Check AI Content Before Publishing appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "YouTube To Cut Reach Of Channels Reposting Barely Changed Clips via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/youtube-original-shorts-reposted-clips-reach/591774/",
-      "date": "2026-10-01T20:44:41+00:00",
-      "description": "YouTube is updating recommendations to favor original Shorts and reduce reach for channels that mainly re-upload others' clips without significant changes. The post YouTube To Cut Reach Of Channels Reposting Barely Changed Clips appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
