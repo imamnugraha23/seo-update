@@ -1,6 +1,114 @@
 {
-  "updatedAt": "2026-10-07T06:32:37.836069+00:00",
+  "updatedAt": "2026-10-07T13:57:49.271481+00:00",
   "items": [
+    {
+      "title": "AI Search Is Changing Your Website’s Job, Here’s How To Adapt via @sejournal, @lorenbaker",
+      "link": "https://www.searchenginejournal.com/ai-search-is-changing-the-websites-job-not-replacing-it/592134/",
+      "date": "2026-10-07T13:30:50+00:00",
+      "description": "Sachin Puri explains why AI discovery makes accurate business information, customer trust, and measurement beyond clicks more important for small businesses. The post AI Search Is Changing Your Website’s Job, Here’s How To Adapt appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "The Business Case For SEO Is Changing; Budget Justifications Should Too via @sejournal, @cshel",
+      "link": "https://www.searchenginejournal.com/the-business-case-for-seo-is-changing-budget-justifications-should-too/590358/",
+      "date": "2026-10-07T12:00:32+00:00",
+      "description": "Learn how to justify SEO budgets in the AI era by aligning investments with revenue generation, risk reduction, infrastructure, and business value. The post The Business Case For SEO Is Changing; Budget Justifications Should Too appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google Drops Review Snippets For Healthcare Web Pages",
+      "link": "https://www.seroundtable.com/google-drops-healthcare-review-snippets-42248.html",
+      "date": "2026-10-07T11:51:00+00:00",
+      "description": "Google seems to no longer be showing review rich reviews in Google Search when review schema or structured data is added to healthcare web pages.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google AI Overviews Add To Calendar Feature",
+      "link": "https://www.seroundtable.com/google-ai-overviews-add-to-calendar-42233.html",
+      "date": "2026-10-07T11:41:00+00:00",
+      "description": "Google is testing allowing AI Overviews to add items to your calendar with an add to calendar link on event dates. I can't replicate this and the truth is, every time i refresh the queries I am testing on, I get a slightly different AI Overview, so who knows.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads Updated Billing Menu With More Links",
+      "link": "https://www.seroundtable.com/google-ads-updated-billing-menu-42242.html",
+      "date": "2026-10-07T11:31:00+00:00",
+      "description": "Google Ads is testing a new billing menu bar or tab that adds more options and links to the billing section. It looks like Google added double the amount of links in the menu.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Merchant Center New UCP Integration Hub",
+      "link": "https://www.seroundtable.com/google-merchant-center-ucp-integration-hub-42243.html",
+      "date": "2026-10-07T11:21:00+00:00",
+      "description": "Google Merchant Center is rolling out the UCP integration hub in the United States. The UCP integration hub allows you to onboard to UCP program from your Merchant Center account.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Local Panel Gains WhatsApp Button",
+      "link": "https://www.seroundtable.com/google-local-panel-whatsapp-button-42230.html",
+      "date": "2026-10-07T11:11:00+00:00",
+      "description": "Google is now showing WhatsApp buttons, in place of chat or in addition to the other action buttons, in the local panel results within Google Search. Next to the call, directions. website, share buttons can be a WhatsApp button to let searchers chat with the store or company over WhatsApp.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "WordPress Releases Canonical MCP Adapter Plugin via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/wordpress-releases-canonical-mcp-adapter-plugin/592159/",
+      "date": "2026-10-07T10:48:53+00:00",
+      "description": "WordPress released a canonical MCP Adapter that connects AI with sites while maintaining compatibility across MCP versions. The post WordPress Releases Canonical MCP Adapter Plugin appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "This Is My 50,000 Published Story On Search",
+      "link": "https://www.seroundtable.com/barry-schwartz-50000-stories-42234.html",
+      "date": "2026-10-07T10:04:00+00:00",
+      "description": "50,000 is a big number, so I figured I'd document it here by letting you all know that this \"story\" is my 50,000th published story for the search industry. Yes, I've written 50,000 stories on search and on the search industry over the past almost 23 years.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Google’s Search Antitrust Ruling: What Advertisers Should Check Next",
       "link": "https://www.searchenginejournal.com/google-search-antitrust-ruling-silverarbitration-spa/591591/",
@@ -218,54 +326,6 @@
       ]
     },
     {
-      "title": "Google Search Console Performance Report Multi-Select Country Filters",
-      "link": "https://www.seroundtable.com/google-search-console-performance-report-country-filters-42241.html",
-      "date": "2026-10-06T11:25:00+00:00",
-      "description": "Google now lets you check off multiple countries within the Google Search Console country filter in the performance reports. This lets you group countries together, to see how your search performance is doing for multiple countries at once, instead of one country at a time.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google On Large Product Aggregator Websites",
-      "link": "https://www.seroundtable.com/google-seo-large-product-aggregator-42232.html",
-      "date": "2026-10-06T11:21:00+00:00",
-      "description": "Google's John Mueller was asked why Google continues to crawl tons of pages on a large website but indexes only four of them, and why the home page isn't indexed. John categorized the site as a \"large product aggregator.\"",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Warns Against Deceptive Authorship Information Within Content",
-      "link": "https://www.seroundtable.com/google-warns-against-deceptive-authorship-information-42238.html",
-      "date": "2026-10-06T11:11:00+00:00",
-      "description": "Around the same time Google updated its helpful content search documentation with defining main content and the new EOT/SA sections, Google also posted a warning to \"avoid using deceptive authorship information.\"",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "OpenAI Tests New Product Labels On ChatGPT Results",
-      "link": "https://www.seroundtable.com/product-labels-on-chatgpt-results-42237.html",
-      "date": "2026-10-06T10:02:00+00:00",
-      "description": "OpenAI is testing new labels appended to the ChatGPT product results. These labels can add information about the product it is displaying, such as \"best all-rounder,\" \"best for beginners,\" \"best cushioning,\" and so on.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Google Explains The “Couldn’t Fetch” Sitemap Errors via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/google-explains-couldnt-fetch-sitemap-errors/592040/",
       "date": "2026-10-06T09:52:43+00:00",
@@ -350,18 +410,6 @@
       ]
     },
     {
-      "title": "Daily Search Forum Recap: October 5, 2026",
-      "link": "https://www.seroundtable.com/recap-10-05-2026-42227.html",
-      "date": "2026-10-05T14:00:00+00:00",
-      "description": "Here is a recap of what happened in the search forums today...",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "How To Build A Content Distribution System That Compounds",
       "link": "https://www.searchenginejournal.com/how-to-build-a-content-distribution-system-that-compounds/590545/",
       "date": "2026-10-05T12:00:27+00:00",
@@ -374,58 +422,10 @@
       ]
     },
     {
-      "title": "Dark Mode Coming To Google Search Console",
-      "link": "https://www.seroundtable.com/google-search-console-dark-mode-42224.html",
-      "date": "2026-10-05T11:51:00+00:00",
-      "description": "Google will soon support dark mode in Google Search Console. Ariel Kroszynski, a Senior Software Engineer at Google, announced this at the Google Search Central Live Deep Dive Europe 2026 in Barcelona last week.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "What To Expect From Google’s Next Search Ranking Update via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/what-to-expect-from-googles-next-search-ranking-update/591928/",
       "date": "2026-10-05T09:42:03+00:00",
       "description": "Google's recent changes provide strong clues about major changes from the next core algorithm update. The post What To Expect From Google&#8217;s Next Search Ranking Update appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Google Shows How Long Crawling, Indexing & Recovery Can Take via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-crawling-indexing-recovery-timing-ranges/591829/",
-      "date": "2026-10-04T20:41:36+00:00",
-      "description": "Google's Gary Illyes showed timing ranges for crawling, indexing, site moves, and core update recovery at Search Central Live Deep Dive Europe in Barcelona. The post Google Shows How Long Crawling, Indexing &#038; Recovery Can Take appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Google Wants AI Content Fact-Checked, Gemini UTM Tags – SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-google-ai-content-fact-check-gemini-utm-tags/591787/",
-      "date": "2026-10-03T12:00:26+00:00",
-      "description": "Google adds fact-checking to its AI content guidance, Gemini links show UTM tags, desktop CTR fell in Q2, and a judge dismisses two AI suits. The post Google Wants AI Content Fact-Checked, Gemini UTM Tags – SEO Pulse appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Shopify Now Enrolls Your Store In Every New AI Shopping Channel via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/shopify-now-enrolls-your-store-in-every-new-ai-shopping-channel/591049/",
-      "date": "2026-10-02T19:00:52+00:00",
-      "description": "Shopify merchants: your agentic storefronts setting now shares products with Meta and unnamed startups. Leave it on, and watch what Shopify adds. The post Shopify Now Enrolls Your Store In Every New AI Shopping Channel appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
