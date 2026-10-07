@@ -1,6 +1,54 @@
 {
-  "updatedAt": "2026-10-07T13:57:49.271481+00:00",
+  "updatedAt": "2026-10-07T19:59:20.243350+00:00",
   "items": [
+    {
+      "title": "Google Opens Its SynthID Watermark Detector To The Public via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-opens-synthid-watermark-detector-to-public/592226/",
+      "date": "2026-10-07T19:38:35+00:00",
+      "description": "Google opened its SynthID Detector to everyone, allowing users to check images, video, and audio for watermarks from Google and partner AI tools. The post Google Opens Its SynthID Watermark Detector To The Public appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Why Legacy PPC Account Structures Are Sabotaging Your Smart Bidding Strategy",
+      "link": "https://www.searchenginejournal.com/why-legacy-ppc-account-structures-are-sabotaging-your-smart-bidding-strategy/588832/",
+      "date": "2026-10-07T19:00:23+00:00",
+      "description": "Consolidate redundant PPC campaigns to give Smart Bidding stronger signals without erasing the business distinctions that keep your account profitable. The post Why Legacy PPC Account Structures Are Sabotaging Your Smart Bidding Strategy appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Prediction: The Next Massive Google Update Is Around The Corner via @sejournal, @lilyraynyc",
+      "link": "https://www.searchenginejournal.com/prediction-the-next-massive-google-update-is-around-the-corner/591952/",
+      "date": "2026-10-07T17:30:46+00:00",
+      "description": "Is another major Google update coming? The documentation changes, spam update pace, and Google's own statements all point the same way. The post Prediction: The Next Massive Google Update Is Around The Corner appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Daily Search Forum Recap: October 7, 2026",
+      "link": "https://www.seroundtable.com/recap-10-07-2026-42249.html",
+      "date": "2026-10-07T14:00:00+00:00",
+      "description": "Here is a recap of what happened in the search forums today...",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "AI Search Is Changing Your Website’s Job, Here’s How To Adapt via @sejournal, @lorenbaker",
       "link": "https://www.searchenginejournal.com/ai-search-is-changing-the-websites-job-not-replacing-it/592134/",
@@ -314,18 +362,6 @@
       ]
     },
     {
-      "title": "Google Ads Call Extensions Includes Advertiser Name",
-      "link": "https://www.seroundtable.com/google-ads-call-extensions-advertiser-name-42231.html",
-      "date": "2026-10-06T11:31:00+00:00",
-      "description": "Google Ads is testing displaying the advertiser's name within the click to call phone number call asset on the sponsored listings. Normally, Google will just show the phone number but in this test, Google is also adding the advertiser's name.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Google Explains The “Couldn’t Fetch” Sitemap Errors via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/google-explains-couldnt-fetch-sitemap-errors/592040/",
       "date": "2026-10-06T09:52:43+00:00",
@@ -390,42 +426,6 @@
       "link": "https://www.searchenginejournal.com/ai-cites-your-brand-how-to-choose-your-next-move/589990/",
       "date": "2026-10-05T16:16:34+00:00",
       "description": "AI visibility gaps call for different fixes. Constance Tan shows how to decide between correcting information, earning mentions, creating content, and checking bot access. The post AI Cites Your Brand: How to Choose Your Next Move appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Google’s Hidden Data Layer: What Is It And What To Do About It via @sejournal, @demirie",
-      "link": "https://www.searchenginejournal.com/googles-hidden-data-layer-what-is-it-and-what-to-do-about-it/590234/",
-      "date": "2026-10-05T14:30:56+00:00",
-      "description": "Trace misleading sale badges and outdated product images to Google's hidden data layer, with checks that go beyond your current feed. The post Google&#8217;s Hidden Data Layer: What Is It And What To Do About It appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "How To Build A Content Distribution System That Compounds",
-      "link": "https://www.searchenginejournal.com/how-to-build-a-content-distribution-system-that-compounds/590545/",
-      "date": "2026-10-05T12:00:27+00:00",
-      "description": "Keep content working long after launch with a distribution owner, a repeatable checklist, and a 90-day plan to earn backlinks and AI citations. The post How To Build A Content Distribution System That Compounds appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "What To Expect From Google’s Next Search Ranking Update via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/what-to-expect-from-googles-next-search-ranking-update/591928/",
-      "date": "2026-10-05T09:42:03+00:00",
-      "description": "Google's recent changes provide strong clues about major changes from the next core algorithm update. The post What To Expect From Google&#8217;s Next Search Ranking Update appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
