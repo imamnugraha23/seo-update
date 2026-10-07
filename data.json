@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-07T00:43:38.280936+00:00",
+  "updatedAt": "2026-10-07T06:32:37.836069+00:00",
   "items": [
+    {
+      "title": "Google’s Search Antitrust Ruling: What Advertisers Should Check Next",
+      "link": "https://www.searchenginejournal.com/google-search-antitrust-ruling-silverarbitration-spa/591591/",
+      "date": "2026-10-07T05:00:12+00:00",
+      "description": "Federal rulings in 2024 and 2025 examined how Google runs its advertising business. The post Google’s Search Antitrust Ruling: What Advertisers Should Check Next appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
     {
       "title": "WordPress 7.1.3 Fixes 7 Vulnerabilities And 1 Critical Flaw via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/wordpress-7-1-3-fixes-7-vulnerabilities-and-1-critical-flaw/592109/",
@@ -414,18 +426,6 @@
       "link": "https://www.searchenginejournal.com/shopify-now-enrolls-your-store-in-every-new-ai-shopping-channel/591049/",
       "date": "2026-10-02T19:00:52+00:00",
       "description": "Shopify merchants: your agentic storefronts setting now shares products with Meta and unnamed startups. Leave it on, and watch what Shopify adds. The post Shopify Now Enrolls Your Store In Every New AI Shopping Channel appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "OpenAI Founding Member: Make LLMs Write Like An Aircraft Manual via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/karpathy-llm-aircraft-manual-writing/591813/",
-      "date": "2026-10-02T15:49:43+00:00",
-      "description": "Andrej Karpathy suggests asking LLMs to explain topics in an aerospace writing standard, or to answer with diagrams, HTML pages, or custom explainer videos. The post OpenAI Founding Member: Make LLMs Write Like An Aircraft Manual appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
