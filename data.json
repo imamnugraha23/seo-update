@@ -1,11 +1,71 @@
 {
-  "updatedAt": "2026-10-08T13:31:35.216563+00:00",
+  "updatedAt": "2026-10-08T19:27:45.226388+00:00",
   "items": [
+    {
+      "title": "AI In Regulated Paid Media: The Default Settings That Put Compliance At Risk via @sejournal, @timothyjjensen",
+      "link": "https://www.searchenginejournal.com/ai-in-regulated-paid-media-the-default-settings-that-put-compliance-at-risk/589188/",
+      "date": "2026-10-08T19:00:44+00:00",
+      "description": "Understand how to address both ad platform and organizational AI concerns for paid media advertisers in regulated industries The post AI In Regulated Paid Media: The Default Settings That Put Compliance At Risk appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google Reveals The UGC Fresh Data Program",
+      "link": "https://www.seroundtable.com/google-ugc-fresh-data-program-42265.html",
+      "date": "2026-10-08T15:15:00+00:00",
+      "description": "Google has announced its UGC Fresh Data Program, which Google says \"is an initiative designed to help platforms display fresh, high quality, and authentic user-generated content (UGC) across various features on Search.\" Basically, it seems like an API UCG sites like Reddit can use to push content to Google Search faster.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Now Has The Math To Rank Without An Index, And The Results Page Does Not Survive It via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/google-now-has-the-math-to-rank-without-an-index-and-the-results-page-does-not-survive-it/591945/",
+      "date": "2026-10-08T14:30:43+00:00",
+      "description": "Google DeepMind proved one model can theoretically rank without a separate index. If it ships, visibility stops being a position and becomes inclusion or absence. The post Google Now Has The Math To Rank Without An Index, And The Results Page Does Not Survive It appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Daily Search Forum Recap: October 8, 2026",
+      "link": "https://www.seroundtable.com/recap-10-08-2026-42260.html",
+      "date": "2026-10-08T14:00:00+00:00",
+      "description": "Here is a recap of what happened in the search forums today...",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "How To Scale AI Video Ads For Small Business Clients: One Storyline For TikTok, Reels & AI Search",
+      "link": "https://www.searchenginejournal.com/scale-ai-video-tiktok-leadzai-spa/591522/",
+      "date": "2026-10-08T13:49:33+00:00",
+      "description": "Explore how to scale AI video ads with a single storyline for TikTok, Reels, and AI search to maximize impact. The post How To Scale AI Video Ads For Small Business Clients: One Storyline For TikTok, Reels &amp; AI Search appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
     {
       "title": "Google Completes September 2026 Spam Update After Nearly 14 Days via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/google-september-2026-spam-update-complete/592283/",
       "date": "2026-10-08T12:58:07+00:00",
-      "description": "Google's latest spam update has finished rolling out after nearly two weeks, taking longer than any of the three spam updates it ran this year. The post Google Completes September 2026 Spam Update After Nearly 14 Days appeared first on Search Engine Journal .",
+      "description": "Google's latest spam update has finished rolling out after nearly two weeks, taking longer than any of the three earlier spam updates it ran this year. The post Google Completes September 2026 Spam Update After Nearly 14 Days appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -314,18 +374,6 @@
       ]
     },
     {
-      "title": "Google Search Crawl Rate Doc Adds Retry-After HTTP & More",
-      "link": "https://www.seroundtable.com/google-crawl-rate-documentation-update-42247.html",
-      "date": "2026-10-06T18:59:00+00:00",
-      "description": "Google has just pushed some updates to the reduce the Google crawl rate documentation. Most of the changes are just organizational to the content on the page but under the \"Urgently reduce crawler traffic (for emergencies)\" section, Google added new information on how to use Retry-After HTTP header.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "OpenAI To Test Visual Ads In ChatGPT Image Generation via @sejournal, @brookeosmundson",
       "link": "https://www.searchenginejournal.com/openai-chatgpt-image-generation-visual-ads-test/591981/",
       "date": "2026-10-06T17:21:56+00:00",
@@ -350,18 +398,6 @@
       ]
     },
     {
-      "title": "Nano Banana 2.1 In Google AI Mode In Search",
-      "link": "https://www.seroundtable.com/nano-banana-21-google-ai-mode-42246.html",
-      "date": "2026-10-06T17:10:00+00:00",
-      "description": "Google released Nano Banana 2.1 today, and it is already working within AI Mode in Google Search. Nano Banana 2.1 is Google's latest image generation and editing model.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Data Shows Which Negative Search Results Can Actually Be Removed via @sejournal, @EraseDotCom",
       "link": "https://www.searchenginejournal.com/negative-search-result-removal-erase-spa/590856/",
       "date": "2026-10-06T17:00:45+00:00",
@@ -378,42 +414,6 @@
       "link": "https://www.searchenginejournal.com/google-search-console-multiple-countries-filter/592065/",
       "date": "2026-10-06T15:53:04+00:00",
       "description": "Google is updating Search Console's Performance report filters so you can view combined Google Search traffic for several countries in a single filtered view. The post Google Search Console Lets You Filter By Multiple Countries appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Google Changed Its Helpful Content Guidelines To Emphasize Good ‘Main Content’ via @sejournal, @marie_haynes",
-      "link": "https://www.searchenginejournal.com/google-changed-its-helpful-content-guidelines-to-emphasize-good-main-content/591943/",
-      "date": "2026-10-06T14:30:10+00:00",
-      "description": "Why don't SEOs talk more about Google's helpful content documentation? Its latest update shows exactly what the ranking systems are being trained to reward. The post Google Changed Its Helpful Content Guidelines To Emphasize Good &#8216;Main Content&#8217; appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "How To Structure A Full-Funnel Ecommerce Account For Q4 via @sejournal, @tonyadam",
-      "link": "https://www.searchenginejournal.com/how-to-structure-a-full-funnel-ecommerce-account-for-q4/589145/",
-      "date": "2026-10-06T12:00:36+00:00",
-      "description": "Keep Google and Meta from exhausting your ecommerce budget on existing demand by funding prospecting and rebuilding customer exclusions before Q4. The post How To Structure A Full-Funnel Ecommerce Account For Q4 appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Google Explains The “Couldn’t Fetch” Sitemap Errors via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-explains-couldnt-fetch-sitemap-errors/592040/",
-      "date": "2026-10-06T09:52:43+00:00",
-      "description": "Google admits a \"couldn't fetch\" sitemap error may have nothing to do with whether Google can actually fetch it. The post Google Explains The &#8220;Couldn&#8217;t Fetch&#8221; Sitemap Errors appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
