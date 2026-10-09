@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-08T23:58:33.334778+00:00",
+  "updatedAt": "2026-10-09T06:10:38.748852+00:00",
   "items": [
+    {
+      "title": "Jetpack 16.3 WordPress Plugin Update Is A Winner via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/jetpack-16-3-wordpress-plugin-update-is-a-winner/592452/",
+      "date": "2026-10-09T05:06:52+00:00",
+      "description": "Jetpack announced the release of version 16.3, a major update that adds three new blocks, expands existing features, improves accessibility and security, and reorganizes settings to bring related controls together in the user interface. Three New Blocks That Add Useful Functionalities Jetpack 16.3 introduces three new blocks that make it easier to showcase video content, help visitors discover videos, and schedule appointments directly on a website. 1. Latest Videos Playlist Block Automatically keeps a playlist populated with a site’s newest VideoPress videos, removing the need to update it manually as new videos are published. The block can be added within […] The post Jetpack 16.3 WordPress Plugin Update Is A Winner appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
     {
       "title": "AI In Regulated Paid Media: The Default Settings That Put Compliance At Risk via @sejournal, @timothyjjensen",
       "link": "https://www.searchenginejournal.com/ai-in-regulated-paid-media-the-default-settings-that-put-compliance-at-risk/589188/",
@@ -402,18 +414,6 @@
       "link": "https://www.searchenginejournal.com/negative-search-result-removal-erase-spa/590856/",
       "date": "2026-10-06T17:00:45+00:00",
       "description": "Learn how to address negative search results and identify which links can be removed or hidden effectively. The post Data Shows Which Negative Search Results Can Actually Be Removed appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Google Search Console Lets You Filter By Multiple Countries via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-search-console-multiple-countries-filter/592065/",
-      "date": "2026-10-06T15:53:04+00:00",
-      "description": "Google is updating Search Console's Performance report filters so you can view combined Google Search traffic for several countries in a single filtered view. The post Google Search Console Lets You Filter By Multiple Countries appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
