@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-11T08:53:07.705741+00:00",
+  "updatedAt": "2026-10-11T15:42:30.755686+00:00",
   "items": [
+    {
+      "title": "Google Search Console Performance Report Extremely Delayed",
+      "link": "https://www.seroundtable.com/google-search-console-performance-report-delayed-42271.html",
+      "date": "2026-10-11T11:15:00+00:00",
+      "description": "The search performance reports in Google Search Console is now over 64 hours delayed, which is incredibly unusual for this report. Generally, we see this report updated within a few hours but over the past few days, post-spam update, the report has been lagging.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Google Ends Spam Update, Shares Crawl Timing Ranges – SEO Pulse via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/seo-pulse-google-spam-update-crawl-timing-ranges/592469/",
@@ -282,18 +294,6 @@
       "link": "https://www.seroundtable.com/google-ads-conversion-lift-measurement-self-service-42250.html",
       "date": "2026-10-08T11:11:00+00:00",
       "description": "Google Ads now lets advertisers set up Conversion Lift measurement themselves. Google updated its help documentation to say that you no longer need a Google Ads representative to set up Conversion Lift measurement; you just need at least 1,000 observed conversions and a $5,000 budget.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google September 2026 Spam Update Has Finished Rolling Out",
-      "link": "https://www.seroundtable.com/google-september-2026-spam-update-done-42235.html",
-      "date": "2026-10-08T09:20:00+00:00",
-      "description": "The Google September 2026 spam update is now done rolling out. It started on Thursday, September 28, 2026 at around 12:00 pm ET and completed on October 8, 2026 at 4:37 am ET. This was different from the previous few spam updates in that this one took two weeks to roll out whereas the others took only two days to roll out.",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
