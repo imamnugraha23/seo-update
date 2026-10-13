@@ -1,6 +1,150 @@
 {
-  "updatedAt": "2026-10-13T08:28:43.421739+00:00",
+  "updatedAt": "2026-10-13T16:27:40.497206+00:00",
   "items": [
+    {
+      "title": "Topics Portfolio In Bing Webmaster Tools AI Reports",
+      "link": "https://www.seroundtable.com/topics-portfolio-bing-webmaster-tools-42288.html",
+      "date": "2026-10-13T15:59:00+00:00",
+      "description": "Microsoft Bing just announced a new addition to the AI performance reports in Bing Webmaster Tools named Topics Portfolio. Topics Portfolio shows you the \"presence is distributed across themes, how much demand each theme represents, how competitive each theme is and where your site has room to grow.\"",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Test Like A Scientist: 6 Mistakes That Undermine Your SEO Experiments via @sejournal, @SequinsNsearch",
+      "link": "https://www.searchenginejournal.com/test-like-a-scientist-mistakes-that-undermine-your-seo-experiments/591411/",
+      "date": "2026-10-13T14:00:21+00:00",
+      "description": "Learn six common SEO testing mistakes and how scientific thinking can help you design better experiments, interpret results, and make more reliable decisions. The post Test Like A Scientist: 6 Mistakes That Undermine Your SEO Experiments appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Daily Search Forum Recap: October 13, 2026",
+      "link": "https://www.seroundtable.com/recap-10-13-2026-42284.html",
+      "date": "2026-10-13T14:00:00+00:00",
+      "description": "Here is a recap of what happened in the search forums today...",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Lost In Translation: How Language Changes Which Brand AI Recommends",
+      "link": "https://www.searchenginejournal.com/lost-in-translation-how-language-changes-which-brand-ai-recommends/591585/",
+      "date": "2026-10-13T12:00:05+00:00",
+      "description": "Your AI visibility check was probably in English. However, new research across 1,650 responses shows AI recommends different brands in different languages. The post Lost In Translation: How Language Changes Which Brand AI Recommends appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google Search Showing Sites Old Domain Fourth Months After Domain Move?",
+      "link": "https://www.seroundtable.com/google-search-old-domain-42279.html",
+      "date": "2026-10-13T11:43:00+00:00",
+      "description": "I spotted a thread on Reddit that seemed off from an SEO perspective. A site owner said he switched to a new domain four months ago, Google indexed and served the new domain but then all of a sudden, Google started to show the old domain again four months after the migration.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google May Show Pharmaceutical & Drug Ads In AI Mode & AI Overviews",
+      "link": "https://www.seroundtable.com/google-ads-drugs-ai-mode-ai-overviews-42277.html",
+      "date": "2026-10-13T11:41:00+00:00",
+      "description": "Google may show \"certain pharmaceutical products\" and pharmaceutical drugs within ads in AI Mode and AI Overviews. A Google spokesperson told Adweek it has \"recently expanded to include certain pharmaceutical products\" within these surfaces.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Discover To Transform Into Hyper-Personalized Concierge",
+      "link": "https://www.seroundtable.com/google-discover-hyper-personalized-concierge-experience-42276.html",
+      "date": "2026-10-13T11:31:00+00:00",
+      "description": "Google posted a new job posting to hire a Principal, UX, Search Discover who will lead efforts to transform Google Discover into a \"proactive, hyper-personalized concierge experience.\"",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Says Why Site Migrations Can Exceed 4 Months via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-says-why-site-migrations-can-exceed-4-months/592757/",
+      "date": "2026-10-13T11:23:58+00:00",
+      "description": "Google may process a site migration for months, then blow it and rank the old URLs anyway. Mueller says what to focus on. The post Google Says Why Site Migrations Can Exceed 4 Months appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google Merchant Center Videos Stuck In Preview Processing",
+      "link": "https://www.seroundtable.com/google-merchant-center-videos-in-preview-processing-42285.html",
+      "date": "2026-10-13T11:21:00+00:00",
+      "description": "There are reports of an error in Google Merchant Center with video uploads getting stuck in the \"preview processing\" status. This causes the videos to look static both in your product listings in Google Search and other surfaces.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Search Console Performance Report Date Picker Not Working",
+      "link": "https://www.seroundtable.com/google-search-console-performance-report-date-picker-broken-42286.html",
+      "date": "2026-10-13T11:16:00+00:00",
+      "description": "The date picker in the performance reports in Google Search Console seems to be currently broken. The end date seems to be stuck in 1969 and when I try to change it, it says \"Date can't be after 1969-12-31.\"",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "New Google Local Dietary Attributes: Gluten-Free, Dairy-Free, Halal & Kosher",
+      "link": "https://www.seroundtable.com/google-business-profiles-dietary-attributes-42281.html",
+      "date": "2026-10-13T11:11:00+00:00",
+      "description": "Google is rolling out new dietary attributes for local restaurants within Google Business Profiles. Google added gluten-free, dairy-free, halal and kosher attributes, in addition to vegetarian and vegan attributes that were already there.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads Data Strength Best Practices Updated",
+      "link": "https://www.seroundtable.com/google-ads-data-strength-best-practices-42282.html",
+      "date": "2026-10-13T11:05:00+00:00",
+      "description": "Google has revamped its Data Strength Best Practices help document with much greater emphasis on sending more first-party data and identifiers, using Data Manager correctly, adopting AI-powered campaigns, and supporting its recommendations with performance statistics. It is a big update to the document.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "YouTube To Test Ask YouTube Inside The Shorts Player via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/youtube-test-ask-youtube-shorts-player/592723/",
@@ -146,18 +290,6 @@
       ]
     },
     {
-      "title": "Google: Poor Image Quality Won't Stop Products From Showing In Search Or Ads",
-      "link": "https://www.seroundtable.com/google-merchant-center-poor-image-inclusion-42273.html",
-      "date": "2026-10-12T11:11:00+00:00",
-      "description": "Google has updated its Google Merchant Center low image quality help document to now say that poor image quality will not stop those products from showing in Google Search or Google Ads.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Anthropic’s Thariq Shihipar Recommends Using Artifacts via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/anthropics-thariq-shihipar-recommends-using-artifacts/592550/",
       "date": "2026-10-12T09:31:25+00:00",
@@ -194,18 +326,6 @@
       ]
     },
     {
-      "title": "Google Search Console Performance Report Extremely Delayed",
-      "link": "https://www.seroundtable.com/google-search-console-performance-report-delayed-42271.html",
-      "date": "2026-10-11T11:15:00+00:00",
-      "description": "The search performance reports in Google Search Console is now over 64 hours delayed, which is incredibly unusual for this report. Generally, we see this report updated within a few hours but over the past few days, post-spam update, the report has been lagging.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Google Ends Spam Update, Shares Crawl Timing Ranges – SEO Pulse via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/seo-pulse-google-spam-update-crawl-timing-ranges/592469/",
       "date": "2026-10-10T12:00:00+00:00",
@@ -230,30 +350,6 @@
       ]
     },
     {
-      "title": "Daily Search Forum Recap: October 9, 2026",
-      "link": "https://www.seroundtable.com/recap-10-09-2026-42266.html",
-      "date": "2026-10-09T14:00:00+00:00",
-      "description": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google launched a new UGC fresh data program document that Reddit...",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Search News Buzz Video Recap: Google Spam Update Done, Penalties Rise, Factcheck AI, Content Quality, Fake Authors, Ads & So Much More",
-      "link": "https://www.seroundtable.com/video-10-09-2026-42263.html",
-      "date": "2026-10-09T12:01:00+00:00",
-      "description": "was a super busy week, so there is a lot more content in this recap compared to most. We start off with the Google September 2026 spam update completing, it had its third and final phase earlier in the week. Google may be issuing more manual action search penalties...",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "AI Overviews Have Spread To Most Big-Brand Searches via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/ai-overviews-big-brand-searches/592280/",
       "date": "2026-10-09T12:00:00+00:00",
@@ -263,66 +359,6 @@
         "SEO",
         "AI Search",
         "Ads"
-      ]
-    },
-    {
-      "title": "Google Ads Enables Text Customization Asset Previews",
-      "link": "https://www.seroundtable.com/google-ads-text-customization-asset-previews-42264.html",
-      "date": "2026-10-09T11:51:00+00:00",
-      "description": "Google Ads now lets you preview the assets generated by Google AI for your Google Ads AI Max campaigns. Google added these details to the About text customization in Search campaigns help page under a new section named \"Text customization asset previews.\"",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Bing Testing Local Pack Without Borders",
-      "link": "https://www.seroundtable.com/bing-local-pack-without-borders-42257.html",
-      "date": "2026-10-09T11:41:00+00:00",
-      "description": "Microsoft Bing is testing showing the local pack results without borders. Normally, the local pack has a small outline border around the results, but for some reason, Microsoft is testing not placing the outline around the local results.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Updates Reader Revenue Manager Home Page",
-      "link": "https://www.seroundtable.com/google-updates-reader-revenue-manager-42261.html",
-      "date": "2026-10-09T11:31:00+00:00",
-      "description": "Google has made major updates to the Reader Revenue Manager homepage. It was a large redesign of the page, it also now lists AI Mode, AI Overviews, and Gemini, added a matrix to the page and moved things around as well.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Bing Tests Faded Stylish Line Separators",
-      "link": "https://www.seroundtable.com/bing-faded-line-separators-42192.html",
-      "date": "2026-10-09T11:21:00+00:00",
-      "description": "Microsoft Bing is getting fancy and stylish with its line separators in Bing Search. Bing is testing fading the line separators at the end of the lines.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Bing Tests Removing Favicons From Search Result Snippets",
-      "link": "https://www.seroundtable.com/bing-no-favicons-snippets-42262.html",
-      "date": "2026-10-09T11:11:00+00:00",
-      "description": "Microsoft Bing is testing dropping favicons from Bing search result snippets. This makes the search results page look much less graphical.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -378,42 +414,6 @@
       "link": "https://www.searchenginejournal.com/scale-ai-video-tiktok-leadzai-spa/591522/",
       "date": "2026-10-08T13:49:33+00:00",
       "description": "Explore how to scale AI video ads with a single storyline for TikTok, Reels, and AI search to maximize impact. The post How To Scale AI Video Ads For Small Business Clients: One Storyline For TikTok, Reels &amp; AI Search appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Google Completes September 2026 Spam Update After Nearly 14 Days via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-september-2026-spam-update-complete/592283/",
-      "date": "2026-10-08T12:58:07+00:00",
-      "description": "Google's latest spam update has finished rolling out after nearly two weeks, taking longer than any of the three earlier spam updates it ran this year. The post Google Completes September 2026 Spam Update After Nearly 14 Days appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Why Google Search Updates Cannot Be Judged During Early Rollout via @sejournal, @TaylorDanRW",
-      "link": "https://www.searchenginejournal.com/why-google-search-updates-cannot-be-judged-during-early-rollout/591345/",
-      "date": "2026-10-08T12:00:19+00:00",
-      "description": "Avoid costly site changes during a Google spam update by separating early ranking volatility from lasting losses and setting clear milestones for leadership. The post Why Google Search Updates Cannot Be Judged During Early Rollout appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Link Building Strategies for 2027: What to Keep and Cut via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/link-building-strategies-for-2027-what-to-keep-and-cut/592119/",
-      "date": "2026-10-08T07:45:34+00:00",
-      "description": "Decide which link building tactics to keep or cut for 2027. Join Resolve for a free webinar on off-page SEO, rankings, and AI visibility. The post Link Building Strategies for 2027: What to Keep and Cut appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
