@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-10-14T05:26:09.008880+00:00",
+  "updatedAt": "2026-10-14T10:37:54.652134+00:00",
   "items": [
+    {
+      "title": "Google Explains How They Rank PDFs And What It Means For SEO/GEO via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-explains-how-they-rank-pdfs-and-what-it-means-for-seo-geo/592902/",
+      "date": "2026-10-14T09:50:10+00:00",
+      "description": "Google explains how it ranks PDFs in Search and AI Mode and how to check if a PDF is SEO friendly. The post Google Explains How They Rank PDFs And What It Means For SEO/GEO appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Analysis: Google Is Poisoning Search Results For Rank Trackers via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/analysis-google-is-poisoning-search-results-for-rank-trackers/592873/",
+      "date": "2026-10-14T09:17:05+00:00",
+      "description": "Google’s reported search results poisoning undermines confidence in SEO data that businesses use to make decisions. The post Analysis: Google Is Poisoning Search Results For Rank Trackers appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "How To Help AI Shopping Agents Find Your Products via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/how-to-help-ai-shopping-agents-find-your-products/592677/",
+      "date": "2026-10-14T07:45:07+00:00",
+      "description": "Join seoClarity on October 28 at 2 p.m. ET to learn how product-page language, competitor recommendations, and readable product data affect AI shopping discovery. The post How To Help AI Shopping Agents Find Your Products appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
     {
       "title": "Bing Webmaster Tools Sorts AI Search Queries Into Topics via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/bing-webmaster-tools-topics-portfolio-ai-performance/592874/",
@@ -378,42 +414,6 @@
       "link": "https://www.searchenginejournal.com/google-explains-how-to-use-html-sitemaps-for-seo/592508/",
       "date": "2026-10-09T21:31:30+00:00",
       "description": "Google explains why HTML sitemaps may still be useful even though the XML standard has largely replaced it. The post Google Explains How To Use HTML Sitemaps For SEO appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "AI Overviews Have Spread To Most Big-Brand Searches via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/ai-overviews-big-brand-searches/592280/",
-      "date": "2026-10-09T12:00:00+00:00",
-      "description": "Recent tracking data found AI Overviews on most brand-name searches it checked. The post AI Overviews Have Spread To Most Big-Brand Searches appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Claude’s New Rules Target Fake Sources Built To Sway AI Answers via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/claude-rules-fake-sources-ai-answers/592456/",
-      "date": "2026-10-09T08:00:16+00:00",
-      "description": "Anthropic's updated usage policy names seeding search and AI answer sources with misleading content, and drops automated publishing from its high-risk list. The post Claude&#8217;s New Rules Target Fake Sources Built To Sway AI Answers appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Jetpack 16.3 WordPress Plugin Update Is A Winner via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/jetpack-16-3-wordpress-plugin-update-is-a-winner/592452/",
-      "date": "2026-10-09T05:06:52+00:00",
-      "description": "Jetpack announced the release of version 16.3, a major update that adds three new blocks, expands existing features, improves accessibility and security, and reorganizes settings to bring related controls together in the user interface. Three New Blocks That Add Useful Functionalities Jetpack 16.3 introduces three new blocks that make it easier to showcase video content, help visitors discover videos, and schedule appointments directly on a website. 1. Latest Videos Playlist Block Automatically keeps a playlist populated with a site’s newest VideoPress videos, removing the need to update it manually as new videos are published. The block can be added within […] The post Jetpack 16.3 WordPress Plugin Update Is A Winner appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
