@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-14T15:30:43.018462+00:00",
+  "updatedAt": "2026-10-14T19:42:30.246431+00:00",
   "items": [
+    {
+      "title": "Google Launches A Video Series For Odd Technical SEO Questions via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-launches-a-video-series-for-odd-technical-seo-questions/592952/",
+      "date": "2026-10-14T18:51:41+00:00",
+      "description": "Google's new Search Central video series tackles unusual technical SEO questions, starting with emoji, non-English characters, and keywords in your URLs. The post Google Launches A Video Series For Odd Technical SEO Questions appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
     {
       "title": "Google Ads Introduces Channel Prioritization And Budget Allocation via @sejournal, @brookeosmundson",
       "link": "https://www.searchenginejournal.com/google-ads-introduces-channel-prioritization-and-budget-allocation/592833/",
@@ -11,6 +23,30 @@
         "SEO",
         "AI Search",
         "Ads"
+      ]
+    },
+    {
+      "title": "New Google Ads Controls: Channel Prioritization & Budget Allocation",
+      "link": "https://www.seroundtable.com/google-ads-channel-prioritization-budget-allocation-42297.html",
+      "date": "2026-10-14T15:00:00+00:00",
+      "description": "Google Ads is rolling out two new \"controls\" in the advertising platform named channel prioritization and budget allocation. These are rolling out globally across Google Search, Google Shopping, Performance Max, and soon Demand Gen.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Search On URLs: Ranking Factor, Hyphens vs Underscores & Emojis",
+      "link": "https://www.seroundtable.com/google-search-urls-42305.html",
+      "date": "2026-10-14T14:57:00+00:00",
+      "description": "Google posted its first video in a series of what they are calling The Non-Canonical Cabinet. In this video, Cherry Prommawin and Gary Illyes discussed how Google Search deals with URLs. They discuss URLs as a ranking signal, hyphens versus underscores, emojis and much more.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
       ]
     },
     {
@@ -302,18 +338,6 @@
       ]
     },
     {
-      "title": "Google Discover To Transform Into Hyper-Personalized Concierge",
-      "link": "https://www.seroundtable.com/google-discover-hyper-personalized-concierge-experience-42276.html",
-      "date": "2026-10-13T11:31:00+00:00",
-      "description": "Google posted a new job posting to hire a Principal, UX, Search Discover who will lead efforts to transform Google Discover into a \"proactive, hyper-personalized concierge experience.\"",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Google Says Why Site Migrations Can Exceed 4 Months via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/google-says-why-site-migrations-can-exceed-4-months/592757/",
       "date": "2026-10-13T11:23:58+00:00",
@@ -323,18 +347,6 @@
         "SEO",
         "AI Search",
         "Ads"
-      ]
-    },
-    {
-      "title": "Google Merchant Center Videos Stuck In Preview Processing",
-      "link": "https://www.seroundtable.com/google-merchant-center-videos-in-preview-processing-42285.html",
-      "date": "2026-10-13T11:21:00+00:00",
-      "description": "There are reports of an error in Google Merchant Center with video uploads getting stuck in the \"preview processing\" status. This causes the videos to look static both in your product listings in Google Search and other surfaces.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -402,18 +414,6 @@
       "link": "https://www.searchenginejournal.com/google-discover-to-undergo-dramatic-changes/592626/",
       "date": "2026-10-12T11:13:13+00:00",
       "description": "Google is planning to reinvent Discover to become an AI Concierge with a tighter integration with YouTube. The post Google Discover To Undergo Dramatic Changes appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Anthropic’s Thariq Shihipar Recommends Using Artifacts via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/anthropics-thariq-shihipar-recommends-using-artifacts/592550/",
-      "date": "2026-10-12T09:31:25+00:00",
-      "description": "Anthropic's Thariq Shihipar says Artifacts brings project information and agent activity into one interface, giving users more oversight. The post Anthropic&#8217;s Thariq Shihipar Recommends Using Artifacts appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
