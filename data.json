@@ -1,6 +1,138 @@
 {
-  "updatedAt": "2026-10-14T10:37:54.652134+00:00",
+  "updatedAt": "2026-10-14T15:30:43.018462+00:00",
   "items": [
+    {
+      "title": "Google Ads Introduces Channel Prioritization And Budget Allocation via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/google-ads-introduces-channel-prioritization-and-budget-allocation/592833/",
+      "date": "2026-10-14T15:00:33+00:00",
+      "description": "Google Ads introduces channel prioritization and budget allocation controls, giving advertisers more flexibility over spending across Search, Performance Max, and other campaigns. The post Google Ads Introduces Channel Prioritization And Budget Allocation appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Why SEO Isn’t Enough Anymore – And Why That’s A Good Thing",
+      "link": "https://www.searchenginejournal.com/why-seo-isnt-enough-anymore-and-why-thats-a-good-thing/592601/",
+      "date": "2026-10-14T14:00:20+00:00",
+      "description": "If search is your only presence, you’re exposed. Google has been purging SEO-first sites since the Helpful Content Update. Here’s what replaces them. The post Why SEO Isn’t Enough Anymore – And Why That’s A Good Thing appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Daily Search Forum Recap: October 14, 2026",
+      "link": "https://www.seroundtable.com/recap-10-14-2026-42300.html",
+      "date": "2026-10-14T14:00:00+00:00",
+      "description": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google has rolled out its latest Gemini model, Argon 4...",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "How To Remove Negative Search Results: What 22,620 Links Reveal via @sejournal, @EraseDotCom",
+      "link": "https://www.searchenginejournal.com/negative-search-result-removal-erase-spa/590856/",
+      "date": "2026-10-14T13:50:53+00:00",
+      "description": "Learn how to address negative search results and identify which links can be removed or hidden effectively. The post How To Remove Negative Search Results: What 22,620 Links Reveal appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Your Store Is ‘Agent-Ready’ By Default, We Tested 122 Shopify Stores To See What That Actually Means via @sejournal, @billhunt",
+      "link": "https://www.searchenginejournal.com/your-store-is-agent-ready-by-default-we-tested-122-shopify-stores/591767/",
+      "date": "2026-10-14T12:00:06+00:00",
+      "description": "A store can look agent-ready by default and still fail the moment a buyer asks about shipping, pickup, or cancellation. Here's what to verify. The post Your Store Is &#8216;Agent-Ready&#8217; By Default, We Tested 122 Shopify Stores To See What That Actually Means appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google Ads Search Terms & Ad Combinations As One Report",
+      "link": "https://www.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-42287.html",
+      "date": "2026-10-14T11:51:00+00:00",
+      "description": "Google Ads seems to be testing a new report named the Search terms and ad combinations report. This report shows how search queries, ad creatives, and landing pages work together.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Tests AI Mode Left Sidebar On Main Google Search Results Page",
+      "link": "https://www.seroundtable.com/google-ai-mode-left-sidebar-42298.html",
+      "date": "2026-10-14T11:41:00+00:00",
+      "description": "Google is testing placing the left vertical sidebar you see in AI Mode results on the main Google web search results page. This places the small super G Google logo on the left, with the chat history lines, a way to start a chat with AI Mode and the settings icon all on the left side.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Bing Tests Large Single Sponsored Ad Unit At Top Of Search Results",
+      "link": "https://www.seroundtable.com/bing-large-single-sponsored-ad-42283.html",
+      "date": "2026-10-14T11:31:00+00:00",
+      "description": "Microsoft Bing is testing placing a large single ad unit at the top of the Bing Search results page. The sponsored ad has a gray background, with an image and call to action button, and of course, the url, title and ad description.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "OpenAI ChatGPT Ads Account Manager Representatives",
+      "link": "https://www.seroundtable.com/openai-chatgpt-ads-account-manager-42278.html",
+      "date": "2026-10-14T11:21:00+00:00",
+      "description": "OpenAI has humans who are reaching out to advertisers to help them manage their ChatGPT Ads. These ad representatives are called ChatGPT Ads Account Managers and I guess are real humans who help agencies manage ads for their customers?",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads Policies Adds Prediction Markets Section",
+      "link": "https://www.seroundtable.com/google-ads-policies-prediction-markets-section-42268.html",
+      "date": "2026-10-14T11:11:00+00:00",
+      "description": "Google added a section for prediction markets to the main Google Ads policies documentation last week. Google has posted updates and policies on advertising for prediction markets on Google Ads numerous times before, but now it has been added to the main policy document.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "OpenAI Drops UTM Parameters From ChatGPT Results (GPT-6)",
+      "link": "https://www.seroundtable.com/utm-parameters-missing-chatgpt-42299.html",
+      "date": "2026-10-14T11:05:00+00:00",
+      "description": "OpenAI seems to have removed or replaced the UTM parameters it placed on links within the ChatGPT results. This makes it harder to know if a click came from ChatGPT versus some other platform. This seems to have started with the release of GPT''6, which was a week ago.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Google Explains How They Rank PDFs And What It Means For SEO/GEO via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/google-explains-how-they-rank-pdfs-and-what-it-means-for-seo-geo/592902/",
@@ -26,10 +158,10 @@
       ]
     },
     {
-      "title": "How To Help AI Shopping Agents Find Your Products via @sejournal, @hethr_campbell",
+      "title": "How To Help AI Shopping Agents Find Your Products [Webinar] via @sejournal, @hethr_campbell",
       "link": "https://www.searchenginejournal.com/how-to-help-ai-shopping-agents-find-your-products/592677/",
       "date": "2026-10-14T07:45:07+00:00",
-      "description": "Join seoClarity on October 28 at 2 p.m. ET to learn how product-page language, competitor recommendations, and readable product data affect AI shopping discovery. The post How To Help AI Shopping Agents Find Your Products appeared first on Search Engine Journal .",
+      "description": "Join seoClarity on October 28 at 2 p.m. ET to learn how product-page language, competitor recommendations, and readable product data affect AI shopping discovery. The post How To Help AI Shopping Agents Find Your Products [Webinar] appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -206,42 +338,6 @@
       ]
     },
     {
-      "title": "Google Search Console Performance Report Date Picker Not Working",
-      "link": "https://www.seroundtable.com/google-search-console-performance-report-date-picker-broken-42286.html",
-      "date": "2026-10-13T11:16:00+00:00",
-      "description": "The date picker in the performance reports in Google Search Console seems to be currently broken. The end date seems to be stuck in 1969 and when I try to change it, it says \"Date can't be after 1969-12-31.\"",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "New Google Local Dietary Attributes: Gluten-Free, Dairy-Free, Halal & Kosher",
-      "link": "https://www.seroundtable.com/google-business-profiles-dietary-attributes-42281.html",
-      "date": "2026-10-13T11:11:00+00:00",
-      "description": "Google is rolling out new dietary attributes for local restaurants within Google Business Profiles. Google added gluten-free, dairy-free, halal and kosher attributes, in addition to vegetarian and vegan attributes that were already there.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads Data Strength Best Practices Updated",
-      "link": "https://www.seroundtable.com/google-ads-data-strength-best-practices-42282.html",
-      "date": "2026-10-13T11:05:00+00:00",
-      "description": "Google has revamped its Data Strength Best Practices help document with much greater emphasis on sending more first-party data and identifiers, using Data Manager correctly, adopting AI-powered campaigns, and supporting its recommendations with performance statistics. It is a big update to the document.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "YouTube To Test Ask YouTube Inside The Shorts Player via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/youtube-test-ask-youtube-shorts-player/592723/",
       "date": "2026-10-12T22:16:40+00:00",
@@ -278,18 +374,6 @@
       ]
     },
     {
-      "title": "The Industry Mourns The Loss Of Nick Wilsdon - Loved By Industry",
-      "link": "https://www.seroundtable.com/rip-nick-wilsdon-42280.html",
-      "date": "2026-10-12T18:00:00+00:00",
-      "description": "I am sad to report that Nick Wilsdon has passed away yesterday, October 11, 2026. Nick Wilsdon has been in the SEO industry for over two decades and was a close friend to many in the search marketing industry.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Negative Signals, Positive Intent: PPC Leads Hiding In ‘Cancel’ Searches",
       "link": "https://www.searchenginejournal.com/negative-signals-positive-intent-ppc-leads-hiding-in-cancel-searches/590734/",
       "date": "2026-10-12T14:30:17+00:00",
@@ -302,18 +386,6 @@
       ]
     },
     {
-      "title": "Daily Search Forum Recap: October 12, 2026",
-      "link": "https://www.seroundtable.com/recap-10-12-2026-42274.html",
-      "date": "2026-10-12T14:00:00+00:00",
-      "description": "Here is a recap of what happened in the search forums today...",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Your First 30 Days As A Growth Leader – The Challenge From Day One",
       "link": "https://www.searchenginejournal.com/your-first-30-days-as-a-growth-leader-the-challenge-from-day-one/591036/",
       "date": "2026-10-12T12:00:07+00:00",
@@ -323,30 +395,6 @@
         "SEO",
         "AI Search",
         "Ads"
-      ]
-    },
-    {
-      "title": "Third-Party Google Rank Tracking Struggling Now",
-      "link": "https://www.seroundtable.com/third-party-google-rank-tracking-broken-42272.html",
-      "date": "2026-10-12T11:51:00+00:00",
-      "description": "Google seems to be successfully blocking enough of the attempts of scrapers from trying to scrape data from its search results page over the past few weeks than it has in a long time. We reported this a few weeks ago, and I am surprised to see that many tools still struggle with Google Search reporting.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads Tests Using Google AI For Goals & Assets",
-      "link": "https://www.seroundtable.com/google-ai-ads-goals-and-assets-42269.html",
-      "date": "2026-10-12T11:41:00+00:00",
-      "description": "Google is testing using AI to come up with suggested goals and assets for your Google Ads campaigns. Google has confirmed this is a current test.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -366,54 +414,6 @@
       "link": "https://www.searchenginejournal.com/anthropics-thariq-shihipar-recommends-using-artifacts/592550/",
       "date": "2026-10-12T09:31:25+00:00",
       "description": "Anthropic's Thariq Shihipar says Artifacts brings project information and agent activity into one interface, giving users more oversight. The post Anthropic&#8217;s Thariq Shihipar Recommends Using Artifacts appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Google Is Hiring To Generate AI Content For Discover via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-hiring-ai-content-discover/592543/",
-      "date": "2026-10-11T23:31:25+00:00",
-      "description": "Open job listings describe teams that generate and recommend AI content for Discover, plus a design lead to turn it into a proactive concierge experience. The post Google Is Hiring To Generate AI Content For Discover appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Anthropic Says Claude Bypassed Site Limits During Internal Tests via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/anthropic-cuts-live-web-access-internal-tests/592534/",
-      "date": "2026-10-11T22:07:32+00:00",
-      "description": "Anthropic cut live web access for internal evaluations after Claude submitted real forms and worked around website restrictions. The post Anthropic Says Claude Bypassed Site Limits During Internal Tests appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Google Ends Spam Update, Shares Crawl Timing Ranges – SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-google-spam-update-crawl-timing-ranges/592469/",
-      "date": "2026-10-10T12:00:00+00:00",
-      "description": "Google's spam update finishes, a talk recap puts site moves in months, Search Console combines countries, and new guidance targets fake author profiles. The post Google Ends Spam Update, Shares Crawl Timing Ranges – SEO Pulse appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Google Explains How To Use HTML Sitemaps For SEO via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-explains-how-to-use-html-sitemaps-for-seo/592508/",
-      "date": "2026-10-09T21:31:30+00:00",
-      "description": "Google explains why HTML sitemaps may still be useful even though the XML standard has largely replaced it. The post Google Explains How To Use HTML Sitemaps For SEO appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
