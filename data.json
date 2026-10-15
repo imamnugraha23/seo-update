@@ -1,6 +1,114 @@
 {
-  "updatedAt": "2026-10-15T11:31:10.433627+00:00",
+  "updatedAt": "2026-10-15T15:44:46.120410+00:00",
   "items": [
+    {
+      "title": "SERPs Stop Being The Default Between 2028 & 2030 via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/serps-stop-being-the-default-between-2028-2030/592619/",
+      "date": "2026-10-15T14:00:33+00:00",
+      "description": "Google flips its default from ranked results to AI answers when answer-layer ad yield matches the SERP. That crossover lands between 2028 and 2030. The post SERPs Stop Being The Default Between 2028 &#038; 2030 appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Daily Search Forum Recap: October 15, 2026",
+      "link": "https://www.seroundtable.com/recap-10-15-2026-42309.html",
+      "date": "2026-10-15T14:00:00+00:00",
+      "description": "Here is a recap of what happened in the search forums today...",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Universal Cart Launches In Google Search (U.S.)",
+      "link": "https://www.seroundtable.com/universal-cart-google-search-42312.html",
+      "date": "2026-10-15T13:40:00+00:00",
+      "description": "Google has launched its Universal Cart today in Google Search and Gemini within the United States. This is powered by the Universal Commerce Protocol (UCP) and it was launched right before the big holiday shopping season.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "96.8% Chance Of A Panda-Style Update Within A Month According To Prediction Model Signals via @sejournal, @TaylorDanRW",
+      "link": "https://www.searchenginejournal.com/a-panda-style-update-within-a-month-according-to-prediction-model-signals/591955/",
+      "date": "2026-10-15T12:00:21+00:00",
+      "description": "Prepare for a potential Panda-style Google update by addressing scaled AI content and fake authors that could threaten rankings across your site. The post 96.8% Chance Of A Panda-Style Update Within A Month According To Prediction Model Signals appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google Automotive Model Feeds On Search Ads (Vehicle Top Ads)",
+      "link": "https://www.seroundtable.com/google-vehicle-top-ads-42301.html",
+      "date": "2026-10-15T11:51:00+00:00",
+      "description": "Google has a new Google Ads beta format named automotive model feeds on search ads, also known as Vehicle Top Ads (Beta). This is a new search ad format designed specifically for vehicle manufacturers to showcase vehicles with rich visuals and key details in the search results.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Tests New Search Bar In Google App",
+      "link": "https://www.seroundtable.com/google-app-new-search-bar-42267.html",
+      "date": "2026-10-15T11:41:00+00:00",
+      "description": "Google is testing a redesigned search bar within the Google mobile app. The new search bar is now has the + sign in it, and instead of saying \"Search,\" it says \"Ask Google.\" The search bar is also white, as opposed to gray and is thinner and higher up on the page.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads API Version 26 Now Out Available",
+      "link": "https://www.seroundtable.com/google-ads-api-version-26-42307.html",
+      "date": "2026-10-15T11:31:00+00:00",
+      "description": "Google Ads has released version 26 of the Google Ads API. This is a major release of the Google Ads API updates including SMS messaging, local services, hotel center accounts, lift measurements, EU political items, conversion features, and so much more.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads Updates Sexual Content Policy With More Examples",
+      "link": "https://www.seroundtable.com/google-ads-updates-sexual-content-policy-42306.html",
+      "date": "2026-10-15T11:21:00+00:00",
+      "description": "Google Ads has updated the sexual content policies to \"provide additional examples and clearer information to advertisers,\" the company wrote. The main section that was updated was the \"Sexually suggestive elements and themes\" section.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Bing Tests Related Searches Based On Your Browsing",
+      "link": "https://www.seroundtable.com/bing-related-searches-based-on-your-browsing-42302.html",
+      "date": "2026-10-15T11:11:00+00:00",
+      "description": "Bing is testing showing \"Related searches based on your browsing\" similar to how Google is/was showing this a few months ago. In Bing's test, this is below the Microsoft Ads in the search results.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Coywolf Pack EmDash SEO Plugin Makes Sites Absurdly Fast via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/coywolf-pack-emdash-seo-plugin-makes-sites-absurdly-fast/593026/",
@@ -170,18 +278,6 @@
       ]
     },
     {
-      "title": "OpenAI Drops UTM Parameters From ChatGPT Results (GPT-6)",
-      "link": "https://www.seroundtable.com/utm-parameters-missing-chatgpt-42299.html",
-      "date": "2026-10-14T11:05:00+00:00",
-      "description": "OpenAI seems to have removed or replaced the UTM parameters it placed on links within the ChatGPT results. This makes it harder to know if a click came from ChatGPT versus some other platform. This seems to have started with the release of GPT''6, which was a week ago.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Google Explains How They Rank PDFs And What It Means For SEO/GEO via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/google-explains-how-they-rank-pdfs-and-what-it-means-for-seo-geo/592902/",
       "date": "2026-10-14T09:50:10+00:00",
@@ -242,18 +338,6 @@
       ]
     },
     {
-      "title": "Google Search On PDFs: Conversion, Links, HTML, Ranking, Limits, Crawling...",
-      "link": "https://www.seroundtable.com/google-search-on-pdfs-42291.html",
-      "date": "2026-10-13T19:27:00+00:00",
-      "description": "Google's Martin Splitt and John Mueller just posted a Search Off the Record podcast on the topic of PDFs, it is named PDFs in Search: Indexing, AI & Pitfalls. It goes over how PDFs are converted for crawling and indexing, how Google processes links, images, what are the file limits and do they rank in search and AI search.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Google Adds Gemini 4 Argon To AI Mode For Pro & Ultra Subscribers via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/google-gemini-4-argon-ai-mode/592806/",
       "date": "2026-10-13T17:18:44+00:00",
@@ -263,30 +347,6 @@
         "SEO",
         "AI Search",
         "Ads"
-      ]
-    },
-    {
-      "title": "Gemini 4 Argon In Google Search Via AI Mode",
-      "link": "https://www.seroundtable.com/google-ai-mode-gemini-4-argon-42289.html",
-      "date": "2026-10-13T16:13:00+00:00",
-      "description": "Google announced Gemini 4 Argon a couple of weeks ago and today announced that it is now an option in Google Search via AI Mode for Google AI Pro and Ultra subscribers globally.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Topics Portfolio In Bing Webmaster Tools AI Reports",
-      "link": "https://www.seroundtable.com/topics-portfolio-bing-webmaster-tools-42288.html",
-      "date": "2026-10-13T15:59:00+00:00",
-      "description": "Microsoft Bing just announced a new addition to the AI performance reports in Bing Webmaster Tools named Topics Portfolio. Topics Portfolio shows you the \"presence is distributed across themes, how much demand each theme represents, how competitive each theme is and where your site has room to grow.\"",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -302,18 +362,6 @@
       ]
     },
     {
-      "title": "Daily Search Forum Recap: October 13, 2026",
-      "link": "https://www.seroundtable.com/recap-10-13-2026-42284.html",
-      "date": "2026-10-13T14:00:00+00:00",
-      "description": "Here is a recap of what happened in the search forums today...",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Lost In Translation: How Language Changes Which Brand AI Recommends",
       "link": "https://www.searchenginejournal.com/lost-in-translation-how-language-changes-which-brand-ai-recommends/591585/",
       "date": "2026-10-13T12:00:05+00:00",
@@ -323,30 +371,6 @@
         "SEO",
         "AI Search",
         "Ads"
-      ]
-    },
-    {
-      "title": "Google Search Showing Sites Old Domain Fourth Months After Domain Move?",
-      "link": "https://www.seroundtable.com/google-search-old-domain-42279.html",
-      "date": "2026-10-13T11:43:00+00:00",
-      "description": "I spotted a thread on Reddit that seemed off from an SEO perspective. A site owner said he switched to a new domain four months ago, Google indexed and served the new domain but then all of a sudden, Google started to show the old domain again four months after the migration.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google May Show Pharmaceutical & Drug Ads In AI Mode & AI Overviews",
-      "link": "https://www.seroundtable.com/google-ads-drugs-ai-mode-ai-overviews-42277.html",
-      "date": "2026-10-13T11:41:00+00:00",
-      "description": "Google may show \"certain pharmaceutical products\" and pharmaceutical drugs within ads in AI Mode and AI Overviews. A Google spokesperson told Adweek it has \"recently expanded to include certain pharmaceutical products\" within these surfaces.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -390,30 +414,6 @@
       "link": "https://www.searchenginejournal.com/chatgpt-most-cited-sites-primary-sources-ahrefs/592682/",
       "date": "2026-10-12T18:41:59+00:00",
       "description": "Government health, research, and regulator sites climbed ChatGPT's U.S. citation ranks while explainers fell. The post ChatGPT&#8217;s Most-Cited Sites Tilt Toward Primary Sources, Data Shows appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Negative Signals, Positive Intent: PPC Leads Hiding In ‘Cancel’ Searches",
-      "link": "https://www.searchenginejournal.com/negative-signals-positive-intent-ppc-leads-hiding-in-cancel-searches/590734/",
-      "date": "2026-10-12T14:30:17+00:00",
-      "description": "Turn competitor complaints and cancellation searches into PPC leads with tailored offers that address customer frustrations and make switching easier. The post Negative Signals, Positive Intent: PPC Leads Hiding In &#8216;Cancel&#8217; Searches appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Your First 30 Days As A Growth Leader – The Challenge From Day One",
-      "link": "https://www.searchenginejournal.com/your-first-30-days-as-a-growth-leader-the-challenge-from-day-one/591036/",
-      "date": "2026-10-12T12:00:07+00:00",
-      "description": "Use your first 30 days as a growth leader to identify where B2B buyers lose trust and rethink the channels meant to engage them. The post Your First 30 Days As A Growth Leader – The Challenge From Day One appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
