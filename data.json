@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-10-15T19:27:18.435463+00:00",
+  "updatedAt": "2026-10-15T22:41:10.852790+00:00",
   "items": [
+    {
+      "title": "ChatGPT Traffic Drop Appears To Be A Tracking Problem via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/chatgpt-traffic-drop-appears-to-be-a-tracking-problem/593157/",
+      "date": "2026-10-15T21:48:30+00:00",
+      "description": "ChatGPT-attributed traffic fell sharply in several analytics datasets this month, and analysts tie the drop to ChatGPT links that open without tracking tags. The post ChatGPT Traffic Drop Appears To Be A Tracking Problem appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google’s Universal Cart Is Live: How Carts Get To Your Store via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-universal-cart-store-handoff/593145/",
+      "date": "2026-10-15T20:43:38+00:00",
+      "description": "Universal Cart is rolling out across Search and the Gemini app, with checkout inside the cart or a one-way handoff to the store's own site. The post Google&#8217;s Universal Cart Is Live: How Carts Get To Your Store appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
     {
       "title": "How Do I Measure And Attribute When Clicks Only Tell Part Of The Story? – Ask A PPC via @sejournal, @navahf",
       "link": "https://www.searchenginejournal.com/ask-a-ppc-how-do-i-measure-and-attribute-when-clicks-are-no-longer-the-whole-story/591521/",
@@ -390,30 +414,6 @@
       "link": "https://www.searchenginejournal.com/lost-in-translation-how-language-changes-which-brand-ai-recommends/591585/",
       "date": "2026-10-13T12:00:05+00:00",
       "description": "Your AI visibility check was probably in English. However, new research across 1,650 responses shows AI recommends different brands in different languages. The post Lost In Translation: How Language Changes Which Brand AI Recommends appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Google Says Why Site Migrations Can Exceed 4 Months via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-says-why-site-migrations-can-exceed-4-months/592757/",
-      "date": "2026-10-13T11:23:58+00:00",
-      "description": "Google may process a site migration for months, then blow it and rank the old URLs anyway. Mueller says what to focus on. The post Google Says Why Site Migrations Can Exceed 4 Months appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "YouTube To Test Ask YouTube Inside The Shorts Player via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/youtube-test-ask-youtube-shorts-player/592723/",
-      "date": "2026-10-12T22:16:40+00:00",
-      "description": "YouTube is planning a limited, English-only test of Ask YouTube on select Shorts and says the watch-page feature will soon reach Shorts and live streams. The post YouTube To Test Ask YouTube Inside The Shorts Player appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
