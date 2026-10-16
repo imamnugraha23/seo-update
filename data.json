@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-10-16T18:49:10.903362+00:00",
+  "updatedAt": "2026-10-16T22:06:13.764822+00:00",
   "items": [
+    {
+      "title": "Meta’s New Terms Expand Crawling Rights Beyond Advertisers via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/metas-new-terms-expand-crawling-rights-beyond-advertisers/593217/",
+      "date": "2026-10-16T21:38:49+00:00",
+      "description": "New terms let Meta crawl sites tied to business users and use the content to train its products, widening rights ad buyers had already granted. The post Meta&#8217;s New Terms Expand Crawling Rights Beyond Advertisers appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Why The New York Times Puts Free Content First",
+      "link": "https://www.searchenginejournal.com/why-the-new-york-times-puts-free-content-first/593021/",
+      "date": "2026-10-16T19:00:23+00:00",
+      "description": "The New York Times gives prime homepage space to free articles and tells readers they’re free. Here’s why that works. The post Why The New York Times Puts Free Content First appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
     {
       "title": "It’s Possible Your Migration Issues May Be Due To Site Quality via @sejournal, @marie_haynes",
       "link": "https://www.searchenginejournal.com/its-possible-your-migration-issues-may-be-due-to-site-quality/592899/",
@@ -390,30 +414,6 @@
       "link": "https://www.searchenginejournal.com/bing-webmaster-tools-topics-portfolio-ai-performance/592874/",
       "date": "2026-10-14T00:19:30+00:00",
       "description": "Bing's AI Performance report adds a view that sorts cited queries into topics and lists queries where other sites are cited but your site isn't. The post Bing Webmaster Tools Sorts AI Search Queries Into Topics appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Google Adds Experimental Soft Navigation Metrics To CrUX via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-experimental-soft-navigation-metrics-crux/592820/",
-      "date": "2026-10-13T21:31:39+00:00",
-      "description": "Experimental Core Web Vitals that count in-app page changes are now in the Chrome UX Report, with Search Console set to follow. The post Google Adds Experimental Soft Navigation Metrics To CrUX appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Google Adds Gemini 4 Argon To AI Mode For Pro & Ultra Subscribers via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-gemini-4-argon-ai-mode/592806/",
-      "date": "2026-10-13T17:18:44+00:00",
-      "description": "Google added Gemini 4 Argon to AI Mode for paid subscribers and opened the model to developers, enterprises, and the Gemini app. The post Google Adds Gemini 4 Argon To AI Mode For Pro &#038; Ultra Subscribers appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
