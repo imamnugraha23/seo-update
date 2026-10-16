@@ -1,6 +1,138 @@
 {
-  "updatedAt": "2026-10-16T09:51:16.119733+00:00",
+  "updatedAt": "2026-10-16T14:51:59.855964+00:00",
   "items": [
+    {
+      "title": "It’s Possible Your Migration Issues May Be Due To Site Quality via @sejournal, @marie_haynes",
+      "link": "https://www.searchenginejournal.com/its-possible-your-migration-issues-may-be-due-to-site-quality/592899/",
+      "date": "2026-10-16T14:00:20+00:00",
+      "description": "If your new domain won’t index and there’s no technical fix, the problem may be originality. Read Marie Haynes’ theory and what to do next. The post It&#8217;s Possible Your Migration Issues May Be Due To Site Quality appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Daily Search Forum Recap: October 16, 2026",
+      "link": "https://www.seroundtable.com/recap-10-16-2026-42318.html",
+      "date": "2026-10-16T14:00:00+00:00",
+      "description": "Here is a recap of what happened in the search forums today...",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Search News Buzz Video Recap: Google Poisoning Tracking Tools, Google AI Results Updates, Discover To Change, Google Ads, ChatGPT & SEO",
+      "link": "https://www.seroundtable.com/video-09-16-2026-42313.html",
+      "date": "2026-10-16T12:01:00+00:00",
+      "description": "Google seems to be poisoning the third-party tracking tools with fake data and paywalls; this is wreaking havoc on keyword tracking. Google launched Gemini 4 Argon and it is in AI Mode. Google made several...",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Takes Applications For A UGC Pipeline Separate From Crawling via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-ugc-fresh-data-program-applications/593113/",
+      "date": "2026-10-16T12:00:00+00:00",
+      "description": "Google is accepting applications from forums and social platforms for a UGC pipeline separate from crawling. The post Google Takes Applications For A UGC Pipeline Separate From Crawling appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google Search Ranking Volatility & Chatter Spike Today",
+      "link": "https://www.seroundtable.com/google-search-ranking-volatility-chatter-42317.html",
+      "date": "2026-10-16T11:55:00+00:00",
+      "description": "It has been a while since I reported on a Google Search ranking update. I blame the tools, but in all seriousness, I am seeing a spike in volatility and, now probably more importantly, a spike in chatter over the past 24 hours, related to Google Search ranking changes, referral traffic changes and overall disruption in the Google Search results.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads To Allow Certification For Online Gambling Advertisers",
+      "link": "https://www.seroundtable.com/google-ads-online-gambling-certification-42314.html",
+      "date": "2026-10-16T11:51:00+00:00",
+      "description": "Google Ads will allow some advertisers to apply for certification for the category of online gambling. This started this month, October 2026, and will gradually be available to some advertisers in Google Ads.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Bing Tests Read More Links In Search Result Snippets",
+      "link": "https://www.seroundtable.com/bing-read-more-links-42311.html",
+      "date": "2026-10-16T11:41:00+00:00",
+      "description": "Microsoft is testing placing \"read more\" links within the Bing Search result snippets, like Google officially did a year or so ago. I am able to replicate this on some browsers, where Bing adds a \"Read more\" link at the end of the search result snippet that links to the same place the main title links to.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads Lead Form Adds Lead Scoring For Lead Qualification",
+      "link": "https://www.seroundtable.com/google-ads-lead-form-scoring-42310.html",
+      "date": "2026-10-16T11:31:00+00:00",
+      "description": "Google added the ability to add lead scoring by indicating answers that qualify a lead for your business to get higher-quality leads. You can add up to 12 answers per question and check off whether they qualify under the lead scoring section.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Bing Search Testing Popular Links On Snippets",
+      "link": "https://www.seroundtable.com/bing-testing-popular-links-42304.html",
+      "date": "2026-10-16T11:21:00+00:00",
+      "description": "Microsoft is testing adding the label \"Popular Links\" to the Bing search results sitelinks. This reminds me of the Google top pages test and variations of that.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads API Releases Twice Per Month Going Forward",
+      "link": "https://www.seroundtable.com/google-ads-api-twice-a-month-42303.html",
+      "date": "2026-10-16T11:11:00+00:00",
+      "description": "Google Ads is planning on pushing twice as many Google Ads API updates for the remainder of this year and into 2027 compared to its previous schedule. Last year, Google said it would release an Ads API update monthly and now Google is switching that to two updates per month.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Updated Indexing API Quota Details & More",
+      "link": "https://www.seroundtable.com/google-updates-indexing-api-quota-information-42316.html",
+      "date": "2026-10-16T10:05:00+00:00",
+      "description": "Google has updated the indexing API documentation; this includes three different pages within the documentation. I think the big takeaway is that Google removed the old approval process and initial testing explanation, the sitemap recommendation, and, most importantly, the default quota details.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Google Dataset Search Currently Not Returning Search Results",
       "link": "https://www.seroundtable.com/google-dataset-search-broken-42315.html",
@@ -146,42 +278,6 @@
       ]
     },
     {
-      "title": "Google Ads API Version 26 Now Out Available",
-      "link": "https://www.seroundtable.com/google-ads-api-version-26-42307.html",
-      "date": "2026-10-15T11:31:00+00:00",
-      "description": "Google Ads has released version 26 of the Google Ads API. This is a major release of the Google Ads API updates including SMS messaging, local services, hotel center accounts, lift measurements, EU political items, conversion features, and so much more.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads Updates Sexual Content Policy With More Examples",
-      "link": "https://www.seroundtable.com/google-ads-updates-sexual-content-policy-42306.html",
-      "date": "2026-10-15T11:21:00+00:00",
-      "description": "Google Ads has updated the sexual content policies to \"provide additional examples and clearer information to advertisers,\" the company wrote. The main section that was updated was the \"Sexually suggestive elements and themes\" section.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Bing Tests Related Searches Based On Your Browsing",
-      "link": "https://www.seroundtable.com/bing-related-searches-based-on-your-browsing-42302.html",
-      "date": "2026-10-15T11:11:00+00:00",
-      "description": "Bing is testing showing \"Related searches based on your browsing\" similar to how Google is/was showing this a few months ago. In Bing's test, this is below the Microsoft Ads in the search results.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Coywolf Pack EmDash SEO Plugin Makes Sites Absurdly Fast via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/coywolf-pack-emdash-seo-plugin-makes-sites-absurdly-fast/593026/",
       "date": "2026-10-15T10:32:28+00:00",
@@ -218,30 +314,6 @@
       ]
     },
     {
-      "title": "New Google Ads Controls: Channel Prioritization & Budget Allocation",
-      "link": "https://www.seroundtable.com/google-ads-channel-prioritization-budget-allocation-42297.html",
-      "date": "2026-10-14T15:00:00+00:00",
-      "description": "Google Ads is rolling out two new \"controls\" in the advertising platform named channel prioritization and budget allocation. These are rolling out globally across Google Search, Google Shopping, Performance Max, and soon Demand Gen.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Search On URLs: Ranking Factor, Hyphens vs Underscores & Emojis",
-      "link": "https://www.seroundtable.com/google-search-urls-42305.html",
-      "date": "2026-10-14T14:57:00+00:00",
-      "description": "Google posted its first video in a series of what they are calling The Non-Canonical Cabinet. In this video, Cherry Prommawin and Gary Illyes discussed how Google Search deals with URLs. They discuss URLs as a ranking signal, hyphens versus underscores, emojis and much more.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Why SEO Isn’t Enough Anymore – And Why That’s A Good Thing",
       "link": "https://www.searchenginejournal.com/why-seo-isnt-enough-anymore-and-why-thats-a-good-thing/592601/",
       "date": "2026-10-14T14:00:20+00:00",
@@ -251,18 +323,6 @@
         "SEO",
         "AI Search",
         "Ads"
-      ]
-    },
-    {
-      "title": "Daily Search Forum Recap: October 14, 2026",
-      "link": "https://www.seroundtable.com/recap-10-14-2026-42300.html",
-      "date": "2026-10-14T14:00:00+00:00",
-      "description": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google has rolled out its latest Gemini model, Argon 4...",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -287,42 +347,6 @@
         "SEO",
         "AI Search",
         "Ads"
-      ]
-    },
-    {
-      "title": "Google Ads Search Terms & Ad Combinations As One Report",
-      "link": "https://www.seroundtable.com/google-ads-search-terms-and-ad-combinations-report-42287.html",
-      "date": "2026-10-14T11:51:00+00:00",
-      "description": "Google Ads seems to be testing a new report named the Search terms and ad combinations report. This report shows how search queries, ad creatives, and landing pages work together.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Tests AI Mode Left Sidebar On Main Google Search Results Page",
-      "link": "https://www.seroundtable.com/google-ai-mode-left-sidebar-42298.html",
-      "date": "2026-10-14T11:41:00+00:00",
-      "description": "Google is testing placing the left vertical sidebar you see in AI Mode results on the main Google web search results page. This places the small super G Google logo on the left, with the chat history lines, a way to start a chat with AI Mode and the settings icon all on the left side.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Bing Tests Large Single Sponsored Ad Unit At Top Of Search Results",
-      "link": "https://www.seroundtable.com/bing-large-single-sponsored-ad-42283.html",
-      "date": "2026-10-14T11:31:00+00:00",
-      "description": "Microsoft Bing is testing placing a large single ad unit at the top of the Bing Search results page. The sponsored ad has a gray background, with an image and call to action button, and of course, the url, title and ad description.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -390,30 +414,6 @@
       "link": "https://www.searchenginejournal.com/google-gemini-4-argon-ai-mode/592806/",
       "date": "2026-10-13T17:18:44+00:00",
       "description": "Google added Gemini 4 Argon to AI Mode for paid subscribers and opened the model to developers, enterprises, and the Gemini app. The post Google Adds Gemini 4 Argon To AI Mode For Pro &#038; Ultra Subscribers appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Test Like A Scientist: 6 Mistakes That Undermine Your SEO Experiments via @sejournal, @SequinsNsearch",
-      "link": "https://www.searchenginejournal.com/test-like-a-scientist-mistakes-that-undermine-your-seo-experiments/591411/",
-      "date": "2026-10-13T14:00:21+00:00",
-      "description": "Learn six common SEO testing mistakes and how scientific thinking can help you design better experiments, interpret results, and make more reliable decisions. The post Test Like A Scientist: 6 Mistakes That Undermine Your SEO Experiments appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Lost In Translation: How Language Changes Which Brand AI Recommends",
-      "link": "https://www.searchenginejournal.com/lost-in-translation-how-language-changes-which-brand-ai-recommends/591585/",
-      "date": "2026-10-13T12:00:05+00:00",
-      "description": "Your AI visibility check was probably in English. However, new research across 1,650 responses shows AI recommends different brands in different languages. The post Lost In Translation: How Language Changes Which Brand AI Recommends appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
