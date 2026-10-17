@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-17T16:28:03.007976+00:00",
+  "updatedAt": "2026-10-17T18:51:12.202431+00:00",
   "items": [
+    {
+      "title": "Google’s Indexing API Docs No Longer Explain How To Get Approval via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-indexing-api-docs-approval-form-removed/593292/",
+      "date": "2026-10-17T18:15:44+00:00",
+      "description": "Google removed the Indexing API approval form and steps from its docs. Default quotas are listed, but the pages don't say how to request more. The post Google&#8217;s Indexing API Docs No Longer Explain How To Get Approval appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
     {
       "title": "Rank Tracker Data, ChatGPT Tags & AI Search Links – SEO Pulse via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/seo-pulse-rank-tracker-data-chatgpt-tags-ai-search-links/593171/",
@@ -402,18 +414,6 @@
       "link": "https://www.searchenginejournal.com/analysis-google-is-poisoning-search-results-for-rank-trackers/592873/",
       "date": "2026-10-14T09:17:05+00:00",
       "description": "Google’s reported search results poisoning undermines confidence in SEO data that businesses use to make decisions. The post Analysis: Google Is Poisoning Search Results For Rank Trackers appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "How To Help AI Shopping Agents Find Your Products [Webinar] via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/how-to-help-ai-shopping-agents-find-your-products/592677/",
-      "date": "2026-10-14T07:45:07+00:00",
-      "description": "Join seoClarity on October 28 at 2 p.m. ET to learn how product-page language, competitor recommendations, and readable product data affect AI shopping discovery. The post How To Help AI Shopping Agents Find Your Products [Webinar] appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
