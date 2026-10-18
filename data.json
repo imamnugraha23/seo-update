@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-18T06:37:14.262650+00:00",
+  "updatedAt": "2026-10-18T11:44:13.944918+00:00",
   "items": [
+    {
+      "title": "OpenAI’s API Only Partly Matched ChatGPT’s Citations, Paper Finds via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/openais-api-only-partly-matched-chatgpts-citations-paper-finds/593304/",
+      "date": "2026-10-18T08:00:00+00:00",
+      "description": "A paper tested whether Google results and OpenAI's API can stand in for ChatGPT's citations. They matched cited sites more often than the exact pages. The post OpenAI&#8217;s API Only Partly Matched ChatGPT&#8217;s Citations, Paper Finds appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
     {
       "title": "Google’s Indexing API Docs No Longer Explain How To Get Approval via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/google-indexing-api-docs-approval-form-removed/593292/",
@@ -402,18 +414,6 @@
       "link": "https://www.searchenginejournal.com/google-explains-how-they-rank-pdfs-and-what-it-means-for-seo-geo/592902/",
       "date": "2026-10-14T09:50:10+00:00",
       "description": "Google explains how it ranks PDFs in Search and AI Mode and how to check if a PDF is SEO friendly. The post Google Explains How They Rank PDFs And What It Means For SEO/GEO appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Analysis: Google Is Poisoning Search Results For Rank Trackers via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/analysis-google-is-poisoning-search-results-for-rank-trackers/592873/",
-      "date": "2026-10-14T09:17:05+00:00",
-      "description": "Google’s reported search results poisoning undermines confidence in SEO data that businesses use to make decisions. The post Analysis: Google Is Poisoning Search Results For Rank Trackers appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
