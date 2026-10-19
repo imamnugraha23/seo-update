@@ -1,6 +1,114 @@
 {
-  "updatedAt": "2026-10-19T11:17:04.489924+00:00",
+  "updatedAt": "2026-10-19T17:34:21.931009+00:00",
   "items": [
+    {
+      "title": "DeepSeek Opens Its In-House Search Engine To Developers via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/deepseek-opens-its-in-house-search-engine-to-developers/593526/",
+      "date": "2026-10-19T15:02:15+00:00",
+      "description": "A Chinese AI lab opened its search engine to developers. Each result carries a page-level authority tier, and DeepSeek says it filters GEO manipulation. The post DeepSeek Opens Its In-House Search Engine To Developers appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "It Knew Every Word via @sejournal, @pedrodias",
+      "link": "https://www.searchenginejournal.com/it-knew-every-word/592680/",
+      "date": "2026-10-19T14:00:20+00:00",
+      "description": "A model can recite your brand’s description and still fail the buyer’s question. Research on training data shows why “knowing” is the hard part. The post It Knew Every Word appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Daily Search Forum Recap: October 19, 2026",
+      "link": "https://www.seroundtable.com/recap-10-19-2026-42326.html",
+      "date": "2026-10-19T14:00:00+00:00",
+      "description": "Here is a recap of what happened in the search forums today...",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "AI Search Tools Cited A Made-Up Concept Within A Week, Paper Finds via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/ai-search-tools-cited-a-made-up-concept-within-a-week-paper-finds/593472/",
+      "date": "2026-10-19T13:34:28+00:00",
+      "description": "Researchers posted about a made-up concept on sites AI search tools cite. Four English-web tools cited it within a week. Other topics mostly didn't land. The post AI Search Tools Cited A Made-Up Concept Within A Week, Paper Finds appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "The New Rules Of Journalist Outreach, Based On Millions Of Emails",
+      "link": "https://www.searchenginejournal.com/the-new-rules-of-journalist-outreach-based-on-millions-of-emails/592060/",
+      "date": "2026-10-19T12:00:45+00:00",
+      "description": "Get journalist outreach pitches seen and understood with relevant targeting, authenticated domains, concrete subject lines, and clear openings that shape AI inbox summaries. The post The New Rules Of Journalist Outreach, Based On Millions Of Emails appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Is It New? AI Scan Tool",
+      "link": "https://www.seroundtable.com/is-it-new-ai-scan-tool-42322.html",
+      "date": "2026-10-19T11:51:00+00:00",
+      "description": "Here is something new for you - the Is it new? AI scan tool. It is a feature I thought would be neat to build, where instead of you reaching out to me to see if this or that is a new Google, Bing, etc search feature, you can upload a screenshot, add some descriptive text and then have the AI figure out if it is new.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Moves Google Posts Higher Up On Local Panel",
+      "link": "https://www.seroundtable.com/google-posts-higher-42319.html",
+      "date": "2026-10-19T11:41:00+00:00",
+      "description": "Google seems to have moved the Google Posts section of a local knowledge panel higher up on the page. In 2018, Google moved the Google Posts section to the bottom of the local panel. Now it seems Google is moving it back up.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads Now In AI Mode With Personal Intelligence",
+      "link": "https://www.seroundtable.com/google-ads-ai-mode-personal-intelligence-42320.html",
+      "date": "2026-10-19T11:31:00+00:00",
+      "description": "Google confirmed it will now show ads in AI Mode results with Personal Intelligence enabled. Back in March, Google said AI Mode with Personal Intelligence turned on would be ad-free, but that is now changing.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google AI Mode Citations With Preferred Source Preferences",
+      "link": "https://www.seroundtable.com/google-ai-mode-citations-preferred-sources-42323.html",
+      "date": "2026-10-19T11:21:00+00:00",
+      "description": "Google is testing letting users view and modify their preferred sources list directly from within the AI Mode citations sidebar. There is a new button named \"Source preferences\" and when you click on it, it opens up your preferred sources list where you can add or remove preferred sources.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "ChatGPT Ads New Ad Formats, Updated Conversion Page, Performance Emails...",
       "link": "https://www.seroundtable.com/openai-chatgpt-ads-updates-42321.html",
@@ -206,30 +314,6 @@
       ]
     },
     {
-      "title": "Google Updated Indexing API Quota Details & More",
-      "link": "https://www.seroundtable.com/google-updates-indexing-api-quota-information-42316.html",
-      "date": "2026-10-16T10:05:00+00:00",
-      "description": "Google has updated the indexing API documentation; this includes three different pages within the documentation. I think the big takeaway is that Google removed the old approval process and initial testing explanation, the sitemap recommendation, and, most importantly, the default quota details.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Dataset Search Currently Not Returning Search Results",
-      "link": "https://www.seroundtable.com/google-dataset-search-broken-42315.html",
-      "date": "2026-10-16T01:37:00+00:00",
-      "description": "For the past several hours, Google Dataset Search has not been able to return any search results or matches. Google Dataset Search returns a response that says \"Your search - [keyword phrase here] - did not match any datasets.\"",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "ChatGPT Traffic Drop Appears To Be A Tracking Problem via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/chatgpt-traffic-drop-appears-to-be-a-tracking-problem/593157/",
       "date": "2026-10-15T21:48:30+00:00",
@@ -278,18 +362,6 @@
       ]
     },
     {
-      "title": "Google Updates Links In AI Mode & AI Overviews Again, Won't Show Click Data",
-      "link": "https://www.seroundtable.com/google-updates-links-in-ai-mode-and-ai-overviews-again-42308.html",
-      "date": "2026-10-15T16:00:00+00:00",
-      "description": "Google, for the umpteenth time, has updated how it shows links and carousel link cards in AI Mode and AI Overviews. Google always says this is to encourage searchers to click from the AI response to the publisher or creator, but it feels as if those efforts to drive clicks from AI search continue to fail.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "SERPs Stop Being The Default Between 2028 & 2030 via @sejournal, @DuaneForrester",
       "link": "https://www.searchenginejournal.com/serps-stop-being-the-default-between-2028-2030/592619/",
       "date": "2026-10-15T14:00:33+00:00",
@@ -299,30 +371,6 @@
         "SEO",
         "AI Search",
         "Ads"
-      ]
-    },
-    {
-      "title": "Daily Search Forum Recap: October 15, 2026",
-      "link": "https://www.seroundtable.com/recap-10-15-2026-42309.html",
-      "date": "2026-10-15T14:00:00+00:00",
-      "description": "Here is a recap of what happened in the search forums today...",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Universal Cart Launches In Google Search (U.S.)",
-      "link": "https://www.seroundtable.com/universal-cart-google-search-42312.html",
-      "date": "2026-10-15T13:40:00+00:00",
-      "description": "Google has launched its Universal Cart today in Google Search and Gemini within the United States. This is powered by the Universal Commerce Protocol (UCP) and it was launched right before the big holiday shopping season.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -366,54 +414,6 @@
       "link": "https://www.searchenginejournal.com/google-ads-introduces-channel-prioritization-and-budget-allocation/592833/",
       "date": "2026-10-14T15:00:33+00:00",
       "description": "Google Ads introduces channel prioritization and budget allocation controls, giving advertisers more flexibility over spending across Search, Performance Max, and other campaigns. The post Google Ads Introduces Channel Prioritization And Budget Allocation appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Why SEO Isn’t Enough Anymore – And Why That’s A Good Thing",
-      "link": "https://www.searchenginejournal.com/why-seo-isnt-enough-anymore-and-why-thats-a-good-thing/592601/",
-      "date": "2026-10-14T14:00:20+00:00",
-      "description": "If search is your only presence, you’re exposed. Google has been purging SEO-first sites since the Helpful Content Update. Here’s what replaces them. The post Why SEO Isn’t Enough Anymore – And Why That’s A Good Thing appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "How To Remove Negative Search Results: What 22,620 Links Reveal via @sejournal, @EraseDotCom",
-      "link": "https://www.searchenginejournal.com/negative-search-result-removal-erase-spa/590856/",
-      "date": "2026-10-14T13:50:53+00:00",
-      "description": "Learn how to address negative search results and identify which links can be removed or hidden effectively. The post How To Remove Negative Search Results: What 22,620 Links Reveal appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Your Store Is ‘Agent-Ready’ By Default, We Tested 122 Shopify Stores To See What That Actually Means via @sejournal, @billhunt",
-      "link": "https://www.searchenginejournal.com/your-store-is-agent-ready-by-default-we-tested-122-shopify-stores/591767/",
-      "date": "2026-10-14T12:00:06+00:00",
-      "description": "A store can look agent-ready by default and still fail the moment a buyer asks about shipping, pickup, or cancellation. Here's what to verify. The post Your Store Is &#8216;Agent-Ready&#8217; By Default, We Tested 122 Shopify Stores To See What That Actually Means appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Google Explains How They Rank PDFs And What It Means For SEO/GEO via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-explains-how-they-rank-pdfs-and-what-it-means-for-seo-geo/592902/",
-      "date": "2026-10-14T09:50:10+00:00",
-      "description": "Google explains how it ranks PDFs in Search and AI Mode and how to check if a PDF is SEO friendly. The post Google Explains How They Rank PDFs And What It Means For SEO/GEO appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
