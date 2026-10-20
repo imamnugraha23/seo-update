@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-10-20T15:23:16.128911+00:00",
+  "updatedAt": "2026-10-20T19:36:50.373870+00:00",
   "items": [
+    {
+      "title": "Your Audience Uses AI But Doesn’t Trust It – Build Content For The Gap via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/your-audience-uses-ai-but-doesnt-trust-it-build-content-for-the-gap/592818/",
+      "date": "2026-10-20T19:00:30+00:00",
+      "description": "Build an SEO and content strategy for audiences who use AI but distrust it, with clearer sourcing, audience segmentation, and honest product limits. The post Your Audience Uses AI But Doesn’t Trust It – Build Content For The Gap appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google Ads Expands Financial Services Verification To US & Canada",
+      "link": "https://www.seroundtable.com/google-ads-financial-services-verification-expand-42338.html",
+      "date": "2026-10-20T15:20:00+00:00",
+      "description": "Google has announced it is expanding its Google Ads Financial Services Verification requirements to the United States and Canada. Google is working with the American Bankers Association and Canadian Bankers Association for this.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "ChatGPT Search Can Draw On More Pages After A Cloudflare Pilot via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/chatgpt-search-can-draw-on-more-pages-after-a-cloudflare-pilot/593720/",
@@ -159,7 +183,7 @@
     },
     {
       "title": "A New Place To Look: Where Your Next AI Citations & Clicks Come From via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/sej-webinar-recap-c252a32e4209/592892/",
+      "link": "https://www.searchenginejournal.com/where-your-next-ai-citations-clicks-come-from/592892/",
       "date": "2026-10-20T07:45:18+00:00",
       "description": "CTM’s Lisa Salvatore and Brian Barranger show how to mine customer conversations for useful content, qualified-lead criteria, conversion feedback, and product-demand signals. The post A New Place To Look: Where Your Next AI Citations &#038; Clicks Come From appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
@@ -314,18 +338,6 @@
       ]
     },
     {
-      "title": "Google Ads To No Longer Show Featured Professionals, Headshots Are Optional",
-      "link": "https://www.seroundtable.com/google-ads-featured-professionals-headshots-42325.html",
-      "date": "2026-10-19T11:05:00+00:00",
-      "description": "Google Ads posted a message to Local Service Ads advertisers saying that featured professionals will no longer show on your ads, and headshots will be optional and won't impact ad serving.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "OpenAI’s API Only Partly Matched ChatGPT’s Citations, Paper Finds via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/openais-api-only-partly-matched-chatgpts-citations-paper-finds/593304/",
       "date": "2026-10-18T08:00:00+00:00",
@@ -402,18 +414,6 @@
       "link": "https://www.searchenginejournal.com/google-ugc-fresh-data-program-applications/593113/",
       "date": "2026-10-16T12:00:00+00:00",
       "description": "Google is accepting applications from forums and social platforms for a UGC pipeline separate from crawling. The post Google Takes Applications For A UGC Pipeline Separate From Crawling appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "ChatGPT Traffic Drop Appears To Be A Tracking Problem via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/chatgpt-traffic-drop-appears-to-be-a-tracking-problem/593157/",
-      "date": "2026-10-15T21:48:30+00:00",
-      "description": "ChatGPT-attributed traffic fell sharply in several analytics datasets this month, and analysts tie the drop to ChatGPT links that open without tracking tags. The post ChatGPT Traffic Drop Appears To Be A Tracking Problem appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
