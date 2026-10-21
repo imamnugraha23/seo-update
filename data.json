@@ -1,6 +1,54 @@
 {
-  "updatedAt": "2026-10-21T17:13:46.941189+00:00",
+  "updatedAt": "2026-10-21T20:39:20.066978+00:00",
   "items": [
+    {
+      "title": "Google Reminds Sites To Serve A 503 During PHP Patch Downtime via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-reminds-sites-to-serve-503s-during-server-downtime/593873/",
+      "date": "2026-10-21T20:19:40+00:00",
+      "description": "Taking a site offline to patch PHP? Serve a 503 from outside PHP and keep robots.txt reachable. Days of server errors may get URLs dropped. The post Google Reminds Sites To Serve A 503 During PHP Patch Downtime appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Rank Tracking Broke In September – The Future Is Measured By Brand & Revenue via @sejournal, @TaylorDanRW",
+      "link": "https://www.searchenginejournal.com/rank-tracking-broke-in-september-the-future-is-measured-by-brand-revenue/592783/",
+      "date": "2026-10-21T19:00:57+00:00",
+      "description": "Measure SEO beyond keyword positions with brand visibility, AI citations, and revenue as rank tracking outages expose gaps in traditional reporting. The post Rank Tracking Broke In September – The Future Is Measured By Brand &#038; Revenue appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google On robots.txt Rules For AI Crawlers, Emojis, International URLs & More",
+      "link": "https://www.seroundtable.com/google-video-robots-txt-rules-42355.html",
+      "date": "2026-10-21T17:25:00+00:00",
+      "description": "Gary Illyes and Chery Prommawin released their second video in the Non-Canonical Cabinet series; this one is named What can you actually put in a robots.txt? Here they discuss what is, and is not, supported by robots.txt files. And while Google may support features or directives, other search engines or AI crawlers might not.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google On Taking Sites Down When Fixing The Emergency PHP Exploit - PHP2Shell",
+      "link": "https://www.seroundtable.com/google-php2shell-42353.html",
+      "date": "2026-10-21T15:35:00+00:00",
+      "description": "The World Wide Web is rushing now to fix and patch its servers for the critical PHP exploit known as PHP2Shell. Most are able to patch these without downtime but many sites are going offline until the patch is implemented, just to be super safe. Google's John Mueller offered advice on how to handle Google Search if you decide to take down your site while patching it for the PHP security vulnerability.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Wiretapping The SERP: Reverse Engineering Network Data",
       "link": "https://www.searchenginejournal.com/wiretapping-the-serp-reverse-engineering-network-data/593419/",
@@ -290,30 +338,6 @@
       ]
     },
     {
-      "title": "Google Search Internal Issues With Square Brackets [] Punctuations In URLs",
-      "link": "https://www.seroundtable.com/google-square-brackets-urls-42332.html",
-      "date": "2026-10-20T11:31:00+00:00",
-      "description": "Google Search had some issues handling square brackets punctuation marks (i.e. [ ]) within URLs. John Mueller from Google responded to former Googler, Vanessa Fox, saying that he is \"seeing some of the issues internally that came up with these kinds of characters in the URL.\"",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Bing Tests Not Showing Sitelinks",
-      "link": "https://www.seroundtable.com/bing-no-sitelinks-42327.html",
-      "date": "2026-10-20T11:21:00+00:00",
-      "description": "Microsoft seems to be testing not showing sitelinks under the main Bing search result snippets. I am honestly not sure if this is new but I was able to replicate Bing showing sitelinks for the first search result snippet in one browser and for the same query, it not showing the sitelinks.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Search Share Fell To 12% For North American Publishers: Chartbeat via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/chartbeat-search-share-north-american-publishers-q3-2026/593673/",
       "date": "2026-10-20T08:00:00+00:00",
@@ -390,30 +414,6 @@
       "link": "https://www.searchenginejournal.com/ai-search-tools-cited-a-made-up-concept-within-a-week-paper-finds/593472/",
       "date": "2026-10-19T13:34:28+00:00",
       "description": "Researchers posted about a made-up concept on sites AI search tools cite. Four English-web tools cited it within a week. Other topics mostly didn't land. The post AI Search Tools Cited A Made-Up Concept Within A Week, Paper Finds appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "The New Rules Of Journalist Outreach, Based On Millions Of Emails",
-      "link": "https://www.searchenginejournal.com/the-new-rules-of-journalist-outreach-based-on-millions-of-emails/592060/",
-      "date": "2026-10-19T12:00:45+00:00",
-      "description": "Get journalist outreach pitches seen and understood with relevant targeting, authenticated domains, concrete subject lines, and clear openings that shape AI inbox summaries. The post The New Rules Of Journalist Outreach, Based On Millions Of Emails appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "OpenAI’s API Only Partly Matched ChatGPT’s Citations, Paper Finds via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/openais-api-only-partly-matched-chatgpts-citations-paper-finds/593304/",
-      "date": "2026-10-18T08:00:00+00:00",
-      "description": "A paper tested whether Google results and OpenAI's API can stand in for ChatGPT's citations. They matched cited sites more often than the exact pages. The post OpenAI&#8217;s API Only Partly Matched ChatGPT&#8217;s Citations, Paper Finds appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
