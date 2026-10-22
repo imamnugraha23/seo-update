@@ -1,6 +1,114 @@
 {
-  "updatedAt": "2026-10-22T07:36:30.733849+00:00",
+  "updatedAt": "2026-10-22T13:12:58.311514+00:00",
   "items": [
+    {
+      "title": "Why Reddit Belongs In Your PR Strategy via @sejournal, @brentcsutoras",
+      "link": "https://www.searchenginejournal.com/why-reddit-belongs-in-your-pr-strategy/593602/",
+      "date": "2026-10-22T12:00:11+00:00",
+      "description": "Reddit conversations can become news stories. Brands that listen and respond gain a chance to address problems before coverage follows. The post Why Reddit Belongs In Your PR Strategy appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google Search Tests Layout Change For Local Knowledge Panel",
+      "link": "https://www.seroundtable.com/google-local-panel-layout-42356.html",
+      "date": "2026-10-22T11:51:00+00:00",
+      "description": "Google is testing moving things around in the local knowledge panels in Search by swapping the position of the company name, ratings, description and action button with the business photos. It is a subtle change and it matches the current mobile design on Google Search more but it is a change.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads New Translation Tool",
+      "link": "https://www.seroundtable.com/google-ads-translation-tool-42351.html",
+      "date": "2026-10-22T11:41:00+00:00",
+      "description": "Google Ads is now rolling out the Translation tool within the advertiser console. This allows advertisers to \"Translate your campaigns to reach global customers and boost your conversions,\" Google wrote.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads Customer Lifecycle Goals: Value Mode, Retention Goals & Percentage Multipliers",
+      "link": "https://www.seroundtable.com/google-ads-customer-lifecycle-goals-update-42358.html",
+      "date": "2026-10-22T11:30:00+00:00",
+      "description": "Google Ads is rolling out three updates to customer lifecycle goals to help advertisers before the holidays. These three updates include (1) expanding high value mode to Shopping Campaigns, (2) expanding customer retention goals and (3) new percentage multipliers.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "3 New Studies Suggest AI Visibility & Search Not Worth Investing In",
+      "link": "https://www.seroundtable.com/ai-search-studies-42359.html",
+      "date": "2026-10-22T11:21:00+00:00",
+      "description": "There are three new studies out over the past week that suggest that spending time, money and resources on AI visibility and AI search may not be worth it. In short, the studies all show that AI Search or AI services send a tiny fraction of traffic (and conversions) when compared to Google Search.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads Sponsored Products Expand To Include Product Attributes",
+      "link": "https://www.seroundtable.com/google-ads-product-attributes-42354.html",
+      "date": "2026-10-22T11:11:00+00:00",
+      "description": "Google Ads is testing showing Sponsored Products results that dynamically expand to show product attributes at the bottom of the ad units in a gray background color.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Pauses Ads For Russian Advertisers & Serving Ads To Russians",
+      "link": "https://www.seroundtable.com/google-ads-russia-ukraine-42357.html",
+      "date": "2026-10-22T11:05:00+00:00",
+      "description": "Back in 2022, Google paused showing ads to users in Russia. That still seems to be active, but Google just posted a new message in the Google Ads and Merchant Center help documentation that it has \"also paused ads on Google properties and networks globally for advertisers based in Russia.\"",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google’s Illyes: Robots.txt Covers Crawling, Not AI Training via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-illyes-robots-txt-crawling-ai-training/593957/",
+      "date": "2026-10-22T10:58:04+00:00",
+      "description": "Google's new robots.txt video says the standard covers crawling, not how content gets used, and recommends percent-encoding non-English robots.txt paths. The post Google&#8217;s Illyes: Robots.txt Covers Crawling, Not AI Training appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google CEO Sundar Pichai Views Search Absorbed Into Agentic Layer via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-ceo-sundar-pichai-views-search-absorbed-into-agentic-layer/593923/",
+      "date": "2026-10-22T09:17:18+00:00",
+      "description": "Google CEO Sundar Pichai says the future of Search is an agentic layer that unifies Google's Search and AI experiences. The post Google CEO Sundar Pichai Views Search Absorbed Into Agentic Layer appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
     {
       "title": "UpdraftPlus WordPress Plugin Security Breach Enables Backdoor Attacks via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/updraftplus-wordpress-plugin-security-breach-enables-backdoor-attacks/593909/",
@@ -218,18 +326,6 @@
       ]
     },
     {
-      "title": "OpenAI Auto Enabling Creative Enhancements In ChatGPT Ads",
-      "link": "https://www.seroundtable.com/openai-chatgpt-ads-enabling-creative-enhancements-42344.html",
-      "date": "2026-10-20T19:35:00+00:00",
-      "description": "OpenAI sent out emails to advertisers, including me, telling me they have automatically enabled creative enhancements for my ChatGPT Ads. The email says this is starting on October 30, 2026 and I can opt out of creative enhancements or change your settings at any time in Ads Manager.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Your Audience Uses AI But Doesn’t Trust It – Build Content For The Gap via @sejournal, @gregjarboe",
       "link": "https://www.searchenginejournal.com/your-audience-uses-ai-but-doesnt-trust-it-build-content-for-the-gap/592818/",
       "date": "2026-10-20T19:00:30+00:00",
@@ -239,18 +335,6 @@
         "SEO",
         "AI Search",
         "Ads"
-      ]
-    },
-    {
-      "title": "Google Ads Expands Financial Services Verification To US & Canada",
-      "link": "https://www.seroundtable.com/google-ads-financial-services-verification-expand-42338.html",
-      "date": "2026-10-20T15:20:00+00:00",
-      "description": "Google has announced it is expanding its Google Ads Financial Services Verification requirements to the United States and Canada. Google is working with the American Bankers Association and Canadian Bankers Association for this.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -290,30 +374,6 @@
       ]
     },
     {
-      "title": "Daily Search Forum Recap: October 20, 2026",
-      "link": "https://www.seroundtable.com/recap-10-20-2026-42334.html",
-      "date": "2026-10-20T14:00:00+00:00",
-      "description": "Here is a recap of what happened in the search forums today...",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Removes AI Overviews Labels On Some AI Overviews",
-      "link": "https://www.seroundtable.com/google-ai-overviews-label-missing-42337.html",
-      "date": "2026-10-20T13:03:00+00:00",
-      "description": "Google seems to be removing the AI Overviews label from some of the search results that are AI Overviews. The desktop version is missing the AI Overview label, while the mobile version has the AI Overview label.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "What Personal AI Agents Like Meta Muse And OpenAI Dots Mean For SEO via @sejournal, @slobodanmanic",
       "link": "https://www.searchenginejournal.com/personal-ai-agents-meta-muse-openai-dots-seo/592530/",
       "date": "2026-10-20T12:00:04+00:00",
@@ -323,30 +383,6 @@
         "SEO",
         "AI Search",
         "Ads"
-      ]
-    },
-    {
-      "title": "Google Business Profiles Verification With Government ID",
-      "link": "https://www.seroundtable.com/google-business-profiles-verification-government-id-42329.html",
-      "date": "2026-10-20T11:51:00+00:00",
-      "description": "Google is testing a new way to verify your Google Business Profiles, the method is by uploading a photo of your government ID. This is in addition ot the phone/text, email, live video call or snail mail verification methods.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Hotel Ads Legacy Length Of Booking Bid Adjustment Doc",
-      "link": "https://www.seroundtable.com/google-hotel-ads-length-of-booking-bid-legacy-42330.html",
-      "date": "2026-10-20T11:41:00+00:00",
-      "description": "The Google Ads team posted a new help document that talks about the length of booking bid adjustment in legacy Hotel campaigns versus Search campaigns for travel. Hotel campaigns multiply your base bid by the traveler's itinerary length of stay (LoS) but Search campaigns for travel (SCT) don't.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -378,42 +414,6 @@
       "link": "https://www.searchenginejournal.com/meta-removes-training-crawl-clause-commercial-terms/593584/",
       "date": "2026-10-19T18:30:50+00:00",
       "description": "Meta removed training from the crawling clause in its upcoming Commercial Terms. The permission to crawl sites tied to business users is still in place. The post Meta Drops Training From Its Crawl Clause And Keeps The Crawl appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "B2B Lead Generation: How To Choose Your 2027 Marketing Channels [Webinar] via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/b2b-lead-generation-how-to-choose-your-2027-marketing-channels-webinar/593589/",
-      "date": "2026-10-19T18:28:32+00:00",
-      "description": "Learn how to choose B2B marketing channels, fund a trial campaign and measure results with CallRail and Matter Made on October 29. The post B2B Lead Generation: How To Choose Your 2027 Marketing Channels [Webinar] appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "DeepSeek Opens Its In-House Search Engine To Developers via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/deepseek-opens-its-in-house-search-engine-to-developers/593526/",
-      "date": "2026-10-19T15:02:15+00:00",
-      "description": "A Chinese AI lab opened its search engine to developers. Each result carries a page-level authority tier, and DeepSeek says it filters GEO manipulation. The post DeepSeek Opens Its In-House Search Engine To Developers appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "It Knew Every Word via @sejournal, @pedrodias",
-      "link": "https://www.searchenginejournal.com/it-knew-every-word/592680/",
-      "date": "2026-10-19T14:00:20+00:00",
-      "description": "A model can recite your brand’s description and still fail the buyer’s question. Research on training data shows why “knowing” is the hard part. The post It Knew Every Word appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
