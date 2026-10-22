@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-10-22T13:12:58.311514+00:00",
+  "updatedAt": "2026-10-22T17:59:20.839227+00:00",
   "items": [
+    {
+      "title": "OpenAI Details How ChatGPT’s LLM Ad Stack Selects And Serves Ads via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/openai-details-chatgpt-llm-ad-stack/593857/",
+      "date": "2026-10-22T16:58:09+00:00",
+      "description": "OpenAI explains how a custom LLM orchestrator interprets multi-turn conversations, nominates ads for auction, and drops placements that miss response deadlines. The post OpenAI Details How ChatGPT&#8217;s LLM Ad Stack Selects And Serves Ads appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Pichai Says AI Agents Will Click Through Pages And Use Protocols via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/pichai-ai-agents-browsing-protocols/593986/",
+      "date": "2026-10-22T15:36:05+00:00",
+      "description": "Google's CEO expects AI agents to reach websites by browsing pages and through protocols, and says protocols scale better but will take longer to develop. The post Pichai Says AI Agents Will Click Through Pages And Use Protocols appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google Business Home - New Google Business Profiles Home",
+      "link": "https://www.seroundtable.com/google-business-home-42363.html",
+      "date": "2026-10-22T14:42:00+00:00",
+      "description": "Google has launched a new \"home\" for Google Business Profiles named Google Business Home. It is a beta, but I just received an email with access to the new Google Business Home. Google wrote, this beta experience...",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Getting Indexed No Longer Means Getting Visited via @sejournal, @DuaneForrester",
+      "link": "https://www.searchenginejournal.com/getting-indexed-no-longer-means-getting-visited/593412/",
+      "date": "2026-10-22T14:00:47+00:00",
+      "description": "Being indexed used to buy a visit. In the answer layer, it buys eligibility, and nothing promises anyone arrives at your site. The post Getting Indexed No Longer Means Getting Visited appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Daily Search Forum Recap: October 22, 2026",
+      "link": "https://www.seroundtable.com/recap-10-22-2026-42360.html",
+      "date": "2026-10-22T14:00:00+00:00",
+      "description": "Here is a recap of what happened in the search forums today...",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Why Reddit Belongs In Your PR Strategy via @sejournal, @brentcsutoras",
       "link": "https://www.searchenginejournal.com/why-reddit-belongs-in-your-pr-strategy/593602/",
@@ -290,30 +350,6 @@
       ]
     },
     {
-      "title": "Google Merchant Center Specifies Fast Shipping Days By Country",
-      "link": "https://www.seroundtable.com/google-merchant-center-fast-shipping-days-per-country-42335.html",
-      "date": "2026-10-21T11:21:00+00:00",
-      "description": "Google has updated its about fast shipping in Merchant Center help document to detail the days Google expects for you to qualify for fast shipping in Merchant Center. This is specific for listings in the AU, CA, IN, JP, GB, US.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Updated Its URL Structure Best Practices For Hyphens In URLs",
-      "link": "https://www.seroundtable.com/google-hyphens-in-urls-doc-42346.html",
-      "date": "2026-10-21T11:11:00+00:00",
-      "description": "Google has made a minor change to its URL structure best practices for Google Search help document. Specifically, the \"Use hyphens to separate words\" section. The overall meaning of the section really did not change but Google did update it, so I wanted to point out the update.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Details Emerge About Google Discover’s SDF Freshness Algorithm via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/details-emerge-about-google-discovers-sdf-freshness-algorithm/593774/",
       "date": "2026-10-21T10:38:54+00:00",
@@ -378,42 +414,6 @@
       "link": "https://www.searchenginejournal.com/personal-ai-agents-meta-muse-openai-dots-seo/592530/",
       "date": "2026-10-20T12:00:04+00:00",
       "description": "Meta's Muse and OpenAI's dots reach websites through connectors or cloud browsers, changing what robots.txt, on-page SEO, and analytics can tell you. The post What Personal AI Agents Like Meta Muse And OpenAI Dots Mean For SEO appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Search Share Fell To 12% For North American Publishers: Chartbeat via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/chartbeat-search-share-north-american-publishers-q3-2026/593673/",
-      "date": "2026-10-20T08:00:00+00:00",
-      "description": "Search's share of North American publisher pageviews fell to 12%, but a lower share alone doesn't show fewer search pageviews. The post Search Share Fell To 12% For North American Publishers: Chartbeat appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "A New Place To Look: Where Your Next AI Citations & Clicks Come From via @sejournal, @hethr_campbell",
-      "link": "https://www.searchenginejournal.com/where-your-next-ai-citations-clicks-come-from/592892/",
-      "date": "2026-10-20T07:45:18+00:00",
-      "description": "CTM’s Lisa Salvatore and Brian Barranger show how to mine customer conversations for useful content, qualified-lead criteria, conversion feedback, and product-demand signals. The post A New Place To Look: Where Your Next AI Citations &#038; Clicks Come From appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Meta Drops Training From Its Crawl Clause And Keeps The Crawl via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/meta-removes-training-crawl-clause-commercial-terms/593584/",
-      "date": "2026-10-19T18:30:50+00:00",
-      "description": "Meta removed training from the crawling clause in its upcoming Commercial Terms. The permission to crawl sites tied to business users is still in place. The post Meta Drops Training From Its Crawl Clause And Keeps The Crawl appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
