@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-23T15:05:13.053343+00:00",
+  "updatedAt": "2026-10-23T19:14:30.687681+00:00",
   "items": [
+    {
+      "title": "GEO Is A Distraction: Here’s Where The Real Opportunity Is via @sejournal, @marie_haynes",
+      "link": "https://www.searchenginejournal.com/geo-is-a-distraction-heres-where-the-real-opportunity-is/593870/",
+      "date": "2026-10-23T19:00:43+00:00",
+      "description": "Universal Cart, UCP, WebMCP, intelligent eyewear: the agentic web is arriving. Marie Haynes maps the opportunities most businesses are ignoring. The post GEO Is A Distraction: Here’s Where The Real Opportunity Is appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
     {
       "title": "The Junior Hiring Gap Your 2027 Marketing Budget Should Name via @sejournal, @gregjarboe",
       "link": "https://www.searchenginejournal.com/the-junior-hiring-gap-your-2027-marketing-budget-should-name/592944/",
@@ -11,6 +23,18 @@
         "SEO",
         "AI Search",
         "Ads"
+      ]
+    },
+    {
+      "title": "Daily Search Forum Recap: October 23, 2026",
+      "link": "https://www.seroundtable.com/recap-10-23-2026-42368.html",
+      "date": "2026-10-23T14:00:00+00:00",
+      "description": "Here is a recap of what happened in the search forums today...",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
       ]
     },
     {
@@ -134,10 +158,10 @@
       ]
     },
     {
-      "title": "OpenAI Details How ChatGPT’s LLM Ad Stack Selects And Serves Ads via @sejournal, @brookeosmundson",
+      "title": "Inside ChatGPT’s Ad Auction: How Relevance, Bids, And Memory Decide Placement via @sejournal, @brookeosmundson",
       "link": "https://www.searchenginejournal.com/openai-details-chatgpt-llm-ad-stack/593857/",
       "date": "2026-10-22T16:58:09+00:00",
-      "description": "OpenAI explains how a custom LLM orchestrator interprets multi-turn conversations, nominates ads for auction, and drops placements that miss response deadlines. The post OpenAI Details How ChatGPT&#8217;s LLM Ad Stack Selects And Serves Ads appeared first on Search Engine Journal .",
+      "description": "OpenAI explains how a custom LLM orchestrator interprets multi-turn conversations, nominates ads for auction, and drops placements that miss response deadlines. The post Inside ChatGPT&#8217;s Ad Auction: How Relevance, Bids, And Memory Decide Placement appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -146,10 +170,10 @@
       ]
     },
     {
-      "title": "Pichai Says AI Agents Will Click Through Pages And Use Protocols via @sejournal, @MattGSouthern",
+      "title": "Google CEO Says Agents Will Hit Sites Two Ways, Pages And APIs via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/pichai-ai-agents-browsing-protocols/593986/",
       "date": "2026-10-22T15:36:05+00:00",
-      "description": "Google's CEO expects AI agents to reach websites by browsing pages and through protocols, and says protocols scale better but will take longer to develop. The post Pichai Says AI Agents Will Click Through Pages And Use Protocols appeared first on Search Engine Journal .",
+      "description": "Google's CEO expects AI agents to reach websites by browsing pages and through protocols, and says protocols scale better but will take longer to develop. The post Google CEO Says Agents Will Hit Sites Two Ways, Pages And APIs appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -246,18 +270,6 @@
       "link": "https://www.seroundtable.com/ai-search-studies-42359.html",
       "date": "2026-10-22T11:21:00+00:00",
       "description": "There are three new studies out over the past week that suggest that spending time, money and resources on AI visibility and AI search may not be worth it. In short, the studies all show that AI Search or AI services send a tiny fraction of traffic (and conversions) when compared to Google Search.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads Sponsored Products Expand To Include Product Attributes",
-      "link": "https://www.seroundtable.com/google-ads-product-attributes-42354.html",
-      "date": "2026-10-22T11:11:00+00:00",
-      "description": "Google Ads is testing showing Sponsored Products results that dynamically expand to show product attributes at the bottom of the ad units in a gray background color.",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -402,18 +414,6 @@
       "link": "https://www.searchenginejournal.com/your-audience-uses-ai-but-doesnt-trust-it-build-content-for-the-gap/592818/",
       "date": "2026-10-20T19:00:30+00:00",
       "description": "Build an SEO and content strategy for audiences who use AI but distrust it, with clearer sourcing, audience segmentation, and honest product limits. The post Your Audience Uses AI But Doesn’t Trust It – Build Content For The Gap appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "ChatGPT Search Can Draw On More Pages After A Cloudflare Pilot via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/chatgpt-search-can-draw-on-more-pages-after-a-cloudflare-pilot/593720/",
-      "date": "2026-10-20T15:00:36+00:00",
-      "description": "Cloudflare says its network signals helped OpenAI index hundreds of millions of new pages for ChatGPT search. The post ChatGPT Search Can Draw On More Pages After A Cloudflare Pilot appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
