@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-10-26T14:16:32.634269+00:00",
+  "updatedAt": "2026-10-26T19:59:23.305952+00:00",
   "items": [
+    {
+      "title": "Google Warns Tools On User-Generated Spam Guidance & More",
+      "link": "https://www.seroundtable.com/google-user-generated-spam-guidance-tools-42378.html",
+      "date": "2026-10-26T19:15:00+00:00",
+      "description": "Google has updated its Prevent user-generated spam on your site and platform help document to specify \"tools that let users publish shared pages, generated content, or web apps.\" The update explicitly includes platforms and tools that let users create shared pages, generated content, and web apps.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Generative UI Could Turn Google Into Your Booking.com via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/generative-ui-could-turn-google-into-your-booking-com/593414/",
+      "date": "2026-10-26T19:00:54+00:00",
+      "description": "Wait for Google to send the booking, or build channels you own. That choice does not need to wait for generative UI. The post Generative UI Could Turn Google Into Your Booking.com appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Your Google Ads Account Is Hitting Its Targets, So Why Isn’t The Business Growing?",
+      "link": "https://www.searchenginejournal.com/your-google-ads-account-is-hitting-its-targets-so-why-isnt-the-business-growing/592942/",
+      "date": "2026-10-26T15:30:04+00:00",
+      "description": "Spot the gaps between Google Ads targets and business growth, from outdated margins and repeat buyers to weak leads and capped reach. The post Your Google Ads Account Is Hitting Its Targets, So Why Isn’t The Business Growing? appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
     {
       "title": "Google Gets The Thank-You via @sejournal, @pedrodias",
       "link": "https://www.searchenginejournal.com/google-gets-the-thank-you/594108/",
@@ -278,18 +314,6 @@
       ]
     },
     {
-      "title": "Google Ads Tests Scrolling Marquee Style For Ratings/Reviews & Underlines",
-      "link": "https://www.seroundtable.com/google-ads-tests-scrolling-marquee-ratings-reviews-and-underlines-on-sponsored-results-42364.html",
-      "date": "2026-10-23T11:11:00+00:00",
-      "description": "Google Ads is testing a scrolling marquee on some of the sponsored results within Google Search. Google will load in the reviews/ratings, number of visits and a visit site link in one of these tests. In the other test, Google underlines the domain name in the ad snippet.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Do Comparison Posts, Roundups & Listicles Still Have Any Value? – Ask An SEO via @sejournal, @rollerblader",
       "link": "https://www.searchenginejournal.com/ask-an-seo-do-comparison-posts-roundups-listicles-still-have-any-value/585084/",
       "date": "2026-10-22T19:00:47+00:00",
@@ -390,30 +414,6 @@
       "link": "https://www.searchenginejournal.com/google-reminds-sites-to-serve-503s-during-server-downtime/593873/",
       "date": "2026-10-21T20:19:40+00:00",
       "description": "Taking a site offline to patch PHP? Serve a 503 from outside PHP and keep robots.txt reachable. Days of server errors may get URLs dropped. The post Google Reminds Sites To Serve A 503 During PHP Patch Downtime appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Rank Tracking Broke In September – The Future Is Measured By Brand & Revenue via @sejournal, @TaylorDanRW",
-      "link": "https://www.searchenginejournal.com/rank-tracking-broke-in-september-the-future-is-measured-by-brand-revenue/592783/",
-      "date": "2026-10-21T19:00:57+00:00",
-      "description": "Measure SEO beyond keyword positions with brand visibility, AI citations, and revenue as rank tracking outages expose gaps in traditional reporting. The post Rank Tracking Broke In September – The Future Is Measured By Brand &#038; Revenue appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Wiretapping The SERP: Reverse Engineering Network Data",
-      "link": "https://www.searchenginejournal.com/wiretapping-the-serp-reverse-engineering-network-data/593419/",
-      "date": "2026-10-21T14:00:14+00:00",
-      "description": "A beginner’s guide to exploring browser network data, how it uncovered a $13,337 Google exploit, and what it reveals about Google and ChatGPT. The post Wiretapping The SERP: Reverse Engineering Network Data appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
