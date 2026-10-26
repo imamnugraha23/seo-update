@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-10-26T19:59:23.305952+00:00",
+  "updatedAt": "2026-10-26T23:54:21.683779+00:00",
   "items": [
+    {
+      "title": "Google Ads Expands Customer Lifecycle Goals In Search And Shopping via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/google-ads-expands-customer-lifecycle-goals-in-search-and-shopping/594458/",
+      "date": "2026-10-26T21:24:39+00:00",
+      "description": "Google Ads expands customer lifecycle goals with High Value acquisition for Shopping and retention modes across Search, Shopping, and Performance Max. The post Google Ads Expands Customer Lifecycle Goals In Search And Shopping appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google Adds Indexing Advice For Shareable Pages To Spam Guide via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-indexing-advice-shareable-pages-spam-guide/594451/",
+      "date": "2026-10-26T20:57:22+00:00",
+      "description": "New spam guidance says to noindex or block crawling on pages made for sharing. Google's docs say a URL blocked in robots.txt can be indexed. The post Google Adds Indexing Advice For Shareable Pages To Spam Guide appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
     {
       "title": "Google Warns Tools On User-Generated Spam Guidance & More",
       "link": "https://www.seroundtable.com/google-user-generated-spam-guidance-tools-42378.html",
@@ -74,10 +98,10 @@
       ]
     },
     {
-      "title": "Some Brands On ChatGPT’s Cited Pages Still Got Few Mentions via @sejournal, @MattGSouthern",
+      "title": "ChatGPT Rarely Named Some Brands Even When Sources Mentioned Them via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/chatgpt-brand-mentions-cited-pages-graphite/594379/",
       "date": "2026-10-26T12:24:23+00:00",
-      "description": "Brands logged-out ChatGPT rarely named without search also showed up less when it searched, even with cited-page coverage, in new comparison-prompt data. The post Some Brands On ChatGPT’s Cited Pages Still Got Few Mentions appeared first on Search Engine Journal .",
+      "description": "Brands logged-out ChatGPT rarely named without search also showed up less when it searched, even with cited-page coverage, in new comparison-prompt data. The post ChatGPT Rarely Named Some Brands Even When Sources Mentioned Them appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -390,30 +414,6 @@
       "link": "https://www.searchenginejournal.com/google-ceo-sundar-pichai-views-search-absorbed-into-agentic-layer/593923/",
       "date": "2026-10-22T09:17:18+00:00",
       "description": "Google CEO Sundar Pichai says the future of Search is an agentic layer that unifies Google's Search and AI experiences. The post Google CEO Sundar Pichai Views Search Absorbed Into Agentic Layer appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "UpdraftPlus WordPress Plugin Security Breach Enables Backdoor Attacks via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/updraftplus-wordpress-plugin-security-breach-enables-backdoor-attacks/593909/",
-      "date": "2026-10-21T22:03:33+00:00",
-      "description": "Hackers installed backdoors on WordPress sites using UpdraftPlus, putting over 3 million active installations at risk. The post UpdraftPlus WordPress Plugin Security Breach Enables Backdoor Attacks appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Google Reminds Sites To Serve A 503 During PHP Patch Downtime via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-reminds-sites-to-serve-503s-during-server-downtime/593873/",
-      "date": "2026-10-21T20:19:40+00:00",
-      "description": "Taking a site offline to patch PHP? Serve a 503 from outside PHP and keep robots.txt reachable. Days of server errors may get URLs dropped. The post Google Reminds Sites To Serve A 503 During PHP Patch Downtime appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
