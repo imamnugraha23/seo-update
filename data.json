@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-10-28T05:43:48.931539+00:00",
+  "updatedAt": "2026-10-28T11:40:08.211511+00:00",
   "items": [
+    {
+      "title": "Bing Tests Get Phone Number & QR Code To Scan",
+      "link": "https://www.seroundtable.com/bing-get-phone-number-qr-code-42397.html",
+      "date": "2026-10-28T11:21:00+00:00",
+      "description": "Microsoft Bing is testing adding a phone icon to the local pack on desktop, when you click on the phone button, it has a scan to call QR code with the phone number listed out. Google did this back in 2023 and now Microsoft Bing is testing it.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Business Profiles Asking Businesses For EIN",
+      "link": "https://www.seroundtable.com/google-business-profiles-ein-request-42382.html",
+      "date": "2026-10-28T11:11:00+00:00",
+      "description": "Google is asking some businesses to provide their EIN, Employer Identification Number and a link to their privacy policy when updating parts of their Google Business Profile.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Signals A Wider Crackdown On UGC SEO Spam via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-signals-a-wider-crackdown-on-ugc-seo-spam/594679/",
+      "date": "2026-10-28T11:04:02+00:00",
+      "description": "Google signals that its fight against SEO spam is expanding to new kinds of platforms, tools, and services. The post Google Signals A Wider Crackdown On UGC SEO Spam appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
     {
       "title": "Google: Disabled Discover Clicks Were A Bug In An Experiment via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/rajan-patel-disabled-discover-source-clicks-bug/594579/",
@@ -50,10 +86,10 @@
       ]
     },
     {
-      "title": "Shopify Moves AI Agent Knowledge Base Into Merchant Admin via @sejournal, @MattGSouthern",
+      "title": "Shopify Retires Knowledge Base App, Moves AI Agent Facts To Admin via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/shopify-ai-agent-knowledge-base-admin/594551/",
       "date": "2026-10-27T15:39:22+00:00",
-      "description": "Shopify's AI agent knowledge base now lives in the admin. Policies and contact details publish by default. Some app users need to re-add their facts. The post Shopify Moves AI Agent Knowledge Base Into Merchant Admin appeared first on Search Engine Journal .",
+      "description": "Shopify's AI agent knowledge base now lives in the admin. Policies and contact details publish by default. Some app users need to re-add their facts. The post Shopify Retires Knowledge Base App, Moves AI Agent Facts To Admin appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -350,18 +386,6 @@
       ]
     },
     {
-      "title": "Google Ads 1-Click AI Max Experiment Recommendation",
-      "link": "https://www.seroundtable.com/google-ads-1-click-ai-max-experiment-42324.html",
-      "date": "2026-10-26T11:11:00+00:00",
-      "description": "Google Ads updated its frequently asked questions page for AI Max search campaigns with a section on 1-click AI Max experiments. Google wrote in the document, \"If your account is eligible, you may find a 1-click experiment recommendation on your Recommendations page.\"",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Tactical Solutions For The Biggest AI Search Measurement Challenges via @sejournal, @lorenbaker",
       "link": "https://www.searchenginejournal.com/tactical-solutions-for-the-biggest-ai-search-measurement-challenges-recap/593023/",
       "date": "2026-10-26T07:45:18+00:00",
@@ -371,18 +395,6 @@
         "SEO",
         "AI Search",
         "Ads"
-      ]
-    },
-    {
-      "title": "Google Search Ranking Volatility Gets Heated October 24th",
-      "link": "https://www.seroundtable.com/google-search-ranking-volatility-heated-42373.html",
-      "date": "2026-10-25T14:07:00+00:00",
-      "description": "This past Saturday, October 24th, we saw some significant ranking volatility captured by many of the third-party Google tracking tools. There was also some heavy chatter within the SEO industry about ranking movement and Google traffic changes over the past couple of days. The two together make me believe that there was some Google Search ranking adjustment released Friday and into Saturday.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -402,18 +414,6 @@
       "link": "https://www.searchenginejournal.com/geo-is-a-distraction-heres-where-the-real-opportunity-is/593870/",
       "date": "2026-10-23T19:00:43+00:00",
       "description": "Universal Cart, UCP, WebMCP, intelligent eyewear: the agentic web is arriving. Marie Haynes maps the opportunities most businesses are ignoring. The post GEO Is A Distraction: Here’s Where The Real Opportunity Is appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "The Junior Hiring Gap Your 2027 Marketing Budget Should Name via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/the-junior-hiring-gap-your-2027-marketing-budget-should-name/592944/",
-      "date": "2026-10-23T14:00:53+00:00",
-      "description": "Make junior hiring an explicit part of your 2027 SEO budget, with defined learning roles and a scorecard that tracks unfilled seats. The post The Junior Hiring Gap Your 2027 Marketing Budget Should Name appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
