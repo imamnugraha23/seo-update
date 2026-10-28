@@ -1,6 +1,126 @@
 {
-  "updatedAt": "2026-10-28T11:40:08.211511+00:00",
+  "updatedAt": "2026-10-28T17:25:04.444283+00:00",
   "items": [
+    {
+      "title": "Google Explains Why 404 Errors Aren't Scary 👻",
+      "link": "https://www.seroundtable.com/google-404-errors-42405.html",
+      "date": "2026-10-28T15:16:00+00:00",
+      "description": "Google is out with a new video in The Non-Canonical Cabinet series, this one is on 404 pages and why they are not scary. I like how they also timed the video with a Halloween theme.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "The Hreflang Magic Trick – It Routes, It Doesn’t Rank via @sejournal, @billhunt",
+      "link": "https://www.searchenginejournal.com/the-hreflang-magic-trick-it-routes-it-doesnt-rank/591979/",
+      "date": "2026-10-28T14:00:59+00:00",
+      "description": "Understand why Google can serve unindexed hreflang URLs and why market pages need unique local value to stand out in AI search. The post The Hreflang Magic Trick – It Routes, It Doesn’t Rank appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Daily Search Forum Recap: October 28, 2026",
+      "link": "https://www.seroundtable.com/recap-10-28-2026-42398.html",
+      "date": "2026-10-28T14:00:00+00:00",
+      "description": "Here is a recap of what happened in the search forums today...",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Decodo Launches Web Data API To Give AI Agents Web Access",
+      "link": "https://www.searchenginejournal.com/decodo-launches-web-data-api-to-give-ai-agents-web-access-spn/594415/",
+      "date": "2026-10-28T13:00:00+00:00",
+      "description": "Decodo has introduced Web Data API, combining scraping, searching, mapping, and crawling under one key for AI agents and retrieval pipelines. The post Decodo Launches Web Data API To Give AI Agents Web Access appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google Search Fan POV (Point Of View) Button",
+      "link": "https://www.seroundtable.com/google-search-fan-pov-42401.html",
+      "date": "2026-10-28T12:35:00+00:00",
+      "description": "Google has added a new interactive search button to some sports-related queries named \"Fan POV.\" If you go to Google Search and search for [world series], Google will show a blue button that has a baseball emoji and the words \"Fan POV.\" When you click on it, it opens a dialog box with drop downs that you can customize and then will take you into AI Mode to give you more information.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "GA4 Missed 66% Of One Retailer’s Holiday Orders: Check Yours Before Peak Season",
+      "link": "https://www.searchenginejournal.com/ga4-missed-two-thirds-retailers-holiday-orders-check-yours-before-peak-saeson/593007/",
+      "date": "2026-10-28T12:00:45+00:00",
+      "description": "GA4 missed two-thirds of one retailer's holiday orders. What an audit of eight ecommerce brands found, and the check to run before peak season. The post GA4 Missed 66% Of One Retailer&#8217;s Holiday Orders: Check Yours Before Peak Season appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google Ads Tests Sponsored Results With Apple Messages Button",
+      "link": "https://www.seroundtable.com/google-ads-apple-messages-button-42400.html",
+      "date": "2026-10-28T11:56:00+00:00",
+      "description": "Google is testing a new messaging button named Apple Messages on the Google Ads sponsored results. Google has placed messages button, message assets, on Google search ads for a long time now but I don't think I've seen the Apple Messages button before.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads \"All Conversions\" Tab Is Fully Live",
+      "link": "https://www.seroundtable.com/google-ads-all-conversions-tab-live-42395.html",
+      "date": "2026-10-28T11:51:00+00:00",
+      "description": "Google Ads seems to have rolled out the \"All conversions\" tab within the Goals and Conversions section. This allows advertisers to make one less click, where they can avoid clicking on \"View all conversion actions.\"",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Business Profiles Adds Facebook Messenger M.me Links",
+      "link": "https://www.seroundtable.com/google-facebook-messenger-mme-links-42377.html",
+      "date": "2026-10-28T11:41:00+00:00",
+      "description": "Google is emailing businesses to let them know it is automatically adding Facebook (Meta) Messenger M.me links to their Google Business Profile. I don't think I've seen Google add m.me links to a Google Business Profile before, so this may be new.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Image Search Tests Save Button On Image Overlay",
+      "link": "https://www.seroundtable.com/google-images-save-button-overlay-42394.html",
+      "date": "2026-10-28T11:31:00+00:00",
+      "description": "Google is testing a new position for the Save button within Google Image Search. When you hover your mouse cursor over an image, you may see a \"Save\" button show up that you can click on. The previous method was to show the Save button when you click on an image and the image preview shows up in a window.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Bing Tests Get Phone Number & QR Code To Scan",
       "link": "https://www.seroundtable.com/bing-get-phone-number-qr-code-42397.html",
@@ -206,18 +326,6 @@
       ]
     },
     {
-      "title": "Google Ads To Update Child Sexual Abuse and Exploitation (CSAE) Policy",
-      "link": "https://www.seroundtable.com/google-ads-csae-ads-policy-42375.html",
-      "date": "2026-10-27T11:11:00+00:00",
-      "description": "Google Ads said it will update its Child Sexual Abuse and Exploitation (CSAE) ads policy this coming January. Google said this is being done as part of a \"redesign of the policy, and to improve protections, clarity and transparency.\"",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Google Ads Expands Customer Lifecycle Goals In Search And Shopping via @sejournal, @brookeosmundson",
       "link": "https://www.searchenginejournal.com/google-ads-expands-customer-lifecycle-goals-in-search-and-shopping/594458/",
       "date": "2026-10-26T21:24:39+00:00",
@@ -239,18 +347,6 @@
         "SEO",
         "AI Search",
         "Ads"
-      ]
-    },
-    {
-      "title": "Google Warns Tools On User-Generated Spam Guidance & More",
-      "link": "https://www.seroundtable.com/google-user-generated-spam-guidance-tools-42378.html",
-      "date": "2026-10-26T19:15:00+00:00",
-      "description": "Google has updated its Prevent user-generated spam on your site and platform help document to specify \"tools that let users publish shared pages, generated content, or web apps.\" The update explicitly includes platforms and tools that let users create shared pages, generated content, and web apps.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -290,18 +386,6 @@
       ]
     },
     {
-      "title": "Daily Search Forum Recap: October 26, 2026",
-      "link": "https://www.seroundtable.com/recap-10-26-2026-42374.html",
-      "date": "2026-10-26T14:00:00+00:00",
-      "description": "Here is a recap of what happened in the search forums today...",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Meta Pushes Its Updated Business Terms Back To Nov. 20 via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/meta-delays-business-terms-crawling/594388/",
       "date": "2026-10-26T13:00:00+00:00",
@@ -330,90 +414,6 @@
       "link": "https://www.searchenginejournal.com/at-mod-world-reddits-ceo-gave-brands-more-reasons-to-build-communities/594247/",
       "date": "2026-10-26T12:00:17+00:00",
       "description": "Reddit's community-first plans strengthen the case for brand subreddits built around useful answers and relationships that bring people back. The post At Mod World, Reddit’s CEO Just Gave Brands More Reasons To Build Their Own Communities appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Over 80% Of Google Searches Have AI Overviews & Growing",
-      "link": "https://www.seroundtable.com/over-80-of-google-searches-have-ai-overviews-42372.html",
-      "date": "2026-10-26T11:51:00+00:00",
-      "description": "AI Overviews now show up for over 80% of Google Searches, that is up from 50% in June of last year and about 15% from the year before that. This is from recent data from Semrush, SE Ranking, and seoClarity.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads AI-Generated Review Summaries Help Doc",
-      "link": "https://www.seroundtable.com/google-ads-ai-review-summaries-doc-42370.html",
-      "date": "2026-10-26T11:41:00+00:00",
-      "description": "Google has published a new help document named About Review summaries that explains that \"review summaries on Search are AI-powered summaries of online reviews that appear directly as part of your Search ads.\" We have seen AI-generated summaries for sponsored results in Google for some time now, and now there is a help document on it.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "ChatGPT Ads With Learn More Arrow Link; Some Served Through Amazon DSP",
-      "link": "https://www.seroundtable.com/chatgpt-ads-learn-more-amazon-dsp-42371.html",
-      "date": "2026-10-26T11:31:00+00:00",
-      "description": "OpenAI seems to be rolling out a new ad format for some ChatGPT Ad units that have a Learn more link, that is dotted and underlined, and also with an arrow going upwards. And in some cases, ChatGPT Ads seem to be served with Amazon DSP.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Discover Tests Disabling Clicks In Sources Section",
-      "link": "https://www.seroundtable.com/google-discover-disabling-clicks-42369.html",
-      "date": "2026-10-26T11:21:00+00:00",
-      "description": "Google is reportedly testing disabling the ability to click on the sources button in the Google Discover card of articles. Normally, when you click on the sources, it will open up a new screen with all the source articles and links to them.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Tactical Solutions For The Biggest AI Search Measurement Challenges via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/tactical-solutions-for-the-biggest-ai-search-measurement-challenges-recap/593023/",
-      "date": "2026-10-26T07:45:18+00:00",
-      "description": "Measure AI search beyond clicks with STAT’s Tom Capper: track brand presence, investigate citations, and improve your attribution story. The post Tactical Solutions For The Biggest AI Search Measurement Challenges appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Google Explains 503s, Robots.txt Limits & Bracket URLs – SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-google-explains-503s-robots-txt-limits-bracket-urls/594085/",
-      "date": "2026-10-24T12:00:00+00:00",
-      "description": "Google reminds sites to use 503s during PHP patch downtime. Other updates cover robots.txt controls, bracket URLs, and JPEG XL in Google Images and Discover. The post Google Explains 503s, Robots.txt Limits &#038; Bracket URLs – SEO Pulse appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "GEO Is A Distraction: Here’s Where The Real Opportunity Is via @sejournal, @marie_haynes",
-      "link": "https://www.searchenginejournal.com/geo-is-a-distraction-heres-where-the-real-opportunity-is/593870/",
-      "date": "2026-10-23T19:00:43+00:00",
-      "description": "Universal Cart, UCP, WebMCP, intelligent eyewear: the agentic web is arriving. Marie Haynes maps the opportunities most businesses are ignoring. The post GEO Is A Distraction: Here’s Where The Real Opportunity Is appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
