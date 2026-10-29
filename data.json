@@ -1,6 +1,126 @@
 {
-  "updatedAt": "2026-10-29T08:30:01.685267+00:00",
+  "updatedAt": "2026-10-29T15:35:09.111147+00:00",
   "items": [
+    {
+      "title": "Google: Ads In AI Mode Earning Less Than Traditional Search Ads",
+      "link": "https://www.seroundtable.com/google-ai-mode-ads-earn-less-42417.html",
+      "date": "2026-10-29T14:15:00+00:00",
+      "description": "Google announced earnings yesterday, and during the earnings call, Philipp Schindler, Google's senior vice president and chief business officer, said that ads in AI Mode have a \"lower monetization\" than ads in traditional search.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "OpenAI’s Aura Safety Check Can Block Your Site From ChatGPT Browsing via @sejournal, @TaylorDanRW",
+      "link": "https://www.searchenginejournal.com/openais-aura-safety-check-can-block-your-site-from-chatgpt-browsing/594322/",
+      "date": "2026-10-29T14:00:06+00:00",
+      "description": "Identify OpenAI Aura blocks that stop agents from opening your site, and gather evidence to request a review. The post OpenAI&#8217;s Aura Safety Check Can Block Your Site From ChatGPT Browsing appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Daily Search Forum Recap: October 29, 2026",
+      "link": "https://www.seroundtable.com/recap-10-29-2026-42414.html",
+      "date": "2026-10-29T14:00:00+00:00",
+      "description": "Here is a recap of what happened in the search forums today...",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "HubSpot Lost 80% Of Its Traffic – CMO Kipp Bodnar Explains Why Revenue Kept Growing via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/hubspot-lost-80-of-its-traffic-cmo-kipp-bodnar-explains-why-revenue-kept-growing/594004/",
+      "date": "2026-10-29T12:00:46+00:00",
+      "description": "HubSpot's traffic collapse shows why SEOs need to measure revenue per visit, track AI referral conversions, and build audiences beyond Google. The post HubSpot Lost 80% Of Its Traffic – CMO Kipp Bodnar Explains Why Revenue Kept Growing appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google Does Not Show All Spammy Links In Search Console",
+      "link": "https://www.seroundtable.com/google-search-console-does-not-show-all-links-42407.html",
+      "date": "2026-10-29T11:51:00+00:00",
+      "description": "Google does not show all links, and not all spammy links, within the Search Console links report. This is not new, Google has long said that the link report only shows a sampling of links.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google AI Overviews With Query Refinement Bubbles",
+      "link": "https://www.seroundtable.com/google-ai-overviews-query-refinement-bubbles-42406.html",
+      "date": "2026-10-29T11:41:00+00:00",
+      "description": "Google is testing query refinement bubbles at the top of the AI Overviews in Google Search. But clicking the refinement bubble does not change the query, instead, it takes you into AI Mode for that query set.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google AI Mode Tests Blending All Products With Sponsored Products",
+      "link": "https://www.seroundtable.com/google-ai-mode-all-sponsored-products-42402.html",
+      "date": "2026-10-29T11:31:00+00:00",
+      "description": "Google seems to be testing mixing sponsored products, ads, within the organic product results in AI Mode. Google has this line above the product results that can say \"Sponsored\" and \"All products.\" Even as I look at screenshots of this, I am not sure if the \"All products\" are sponsored or not.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Merchant API With New October 2026 Updates",
+      "link": "https://www.seroundtable.com/google-merchant-api-update-42410.html",
+      "date": "2026-10-29T11:21:00+00:00",
+      "description": "Google has released several updates to the Merchant API for October 26. The update expands YouTube Shopping and AI-commerce reporting, adds product attributes for videos and warranties, improves disapproval diagnostics, and introduces API integration enhancements and reporting deprecations.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Is Google Testing Dropping Citations Cards From AI Overviews?",
+      "link": "https://www.seroundtable.com/citations-cards-google-ai-overviews-42413.html",
+      "date": "2026-10-29T11:11:00+00:00",
+      "description": "Google may be testing removing the citations card on the Google AI Overviews section. So when you do a search on desktop and see an AI Overview, Google generally shows a citations card that has links to the sources you can click on. Google is reportedly testing removing that card from the interface.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Recommends Using Custom 404 Error Pages via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-recommends-using-custom-404-error-pages/594908/",
+      "date": "2026-10-29T11:07:37+00:00",
+      "description": "Google says missing pages aren't a ranking threat, but what visitors encounter after a 404 can matter to a business. The post Google Recommends Using Custom 404 Error Pages appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
     {
       "title": "Technical SEO Audit For AI Search: Watch Us Do It Live [Webinar] via @sejournal, @hethr_campbell",
       "link": "https://www.searchenginejournal.com/technical-seo-audit-for-ai-search-watch-us-do-it-live/594766/",
@@ -62,10 +182,10 @@
       ]
     },
     {
-      "title": "Google Lets Restaurants Directly Opt Out Of Ordering Providers via @sejournal, @MattGSouthern",
+      "title": "Google Gives Restaurants Direct Control Over Ordering Providers via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/google-restaurants-opt-out-ordering-providers/594794/",
       "date": "2026-10-28T22:11:43+00:00",
-      "description": "Restaurants can now turn off specific third-party ordering providers in the Business Profile dashboard instead of waiting on each provider to remove them. The post Google Lets Restaurants Directly Opt Out Of Ordering Providers appeared first on Search Engine Journal .",
+      "description": "Restaurants can now turn off specific third-party ordering providers in the Business Profile dashboard instead of waiting on each provider to remove them. The post Google Gives Restaurants Direct Control Over Ordering Providers appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -194,20 +314,8 @@
       ]
     },
     {
-      "title": "Google Search Fan POV (Point Of View) Button",
-      "link": "https://www.seroundtable.com/google-search-fan-pov-42401.html",
-      "date": "2026-10-28T12:35:00+00:00",
-      "description": "Google has added a new interactive search button to some sports-related queries named \"Fan POV.\" If you go to Google Search and search for [world series], Google will show a blue button that has a baseball emoji and the words \"Fan POV.\" When you click on it, it opens a dialog box with drop downs that you can customize and then will take you into AI Mode to give you more information.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "GA4 Missed 66% Of One Retailer’s Holiday Orders: Check Yours Before Peak Season",
-      "link": "https://www.searchenginejournal.com/ga4-missed-two-thirds-retailers-holiday-orders-check-yours-before-peak-saeson/593007/",
+      "link": "https://www.searchenginejournal.com/ga4-missed-two-thirds-retailers-holiday-orders-check-yours-before-peak-season/593007/",
       "date": "2026-10-28T12:00:45+00:00",
       "description": "GA4 missed two-thirds of one retailer's holiday orders. What an audit of eight ecommerce brands found, and the check to run before peak season. The post GA4 Missed 66% Of One Retailer&#8217;s Holiday Orders: Check Yours Before Peak Season appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
@@ -215,78 +323,6 @@
         "SEO",
         "AI Search",
         "Ads"
-      ]
-    },
-    {
-      "title": "Google Ads Tests Sponsored Results With Apple Messages Button",
-      "link": "https://www.seroundtable.com/google-ads-apple-messages-button-42400.html",
-      "date": "2026-10-28T11:56:00+00:00",
-      "description": "Google is testing a new messaging button named Apple Messages on the Google Ads sponsored results. Google has placed messages button, message assets, on Google search ads for a long time now but I don't think I've seen the Apple Messages button before.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads \"All Conversions\" Tab Is Fully Live",
-      "link": "https://www.seroundtable.com/google-ads-all-conversions-tab-live-42395.html",
-      "date": "2026-10-28T11:51:00+00:00",
-      "description": "Google Ads seems to have rolled out the \"All conversions\" tab within the Goals and Conversions section. This allows advertisers to make one less click, where they can avoid clicking on \"View all conversion actions.\"",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Business Profiles Adds Facebook Messenger M.me Links",
-      "link": "https://www.seroundtable.com/google-facebook-messenger-mme-links-42377.html",
-      "date": "2026-10-28T11:41:00+00:00",
-      "description": "Google is emailing businesses to let them know it is automatically adding Facebook (Meta) Messenger M.me links to their Google Business Profile. I don't think I've seen Google add m.me links to a Google Business Profile before, so this may be new.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Image Search Tests Save Button On Image Overlay",
-      "link": "https://www.seroundtable.com/google-images-save-button-overlay-42394.html",
-      "date": "2026-10-28T11:31:00+00:00",
-      "description": "Google is testing a new position for the Save button within Google Image Search. When you hover your mouse cursor over an image, you may see a \"Save\" button show up that you can click on. The previous method was to show the Save button when you click on an image and the image preview shows up in a window.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Bing Tests Get Phone Number & QR Code To Scan",
-      "link": "https://www.seroundtable.com/bing-get-phone-number-qr-code-42397.html",
-      "date": "2026-10-28T11:21:00+00:00",
-      "description": "Microsoft Bing is testing adding a phone icon to the local pack on desktop, when you click on the phone button, it has a scan to call QR code with the phone number listed out. Google did this back in 2023 and now Microsoft Bing is testing it.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Business Profiles Asking Businesses For EIN",
-      "link": "https://www.seroundtable.com/google-business-profiles-ein-request-42382.html",
-      "date": "2026-10-28T11:11:00+00:00",
-      "description": "Google is asking some businesses to provide their EIN, Employer Identification Number and a link to their privacy policy when updating parts of their Google Business Profile.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -378,42 +414,6 @@
       "link": "https://www.searchenginejournal.com/flat-traffic-no-budget-what-ziff-davis-jonathan-berthold-tests-first/593483/",
       "date": "2026-10-27T12:00:41+00:00",
       "description": "Jonathan Berthold explains why bottom-of-funnel content is the lowest-lift experiment and how to sell leadership on a test you can't promise will win. The post Flat Traffic, No Budget: What Ziff Davis&#8217; Jonathan Berthold Tests First appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Google Responds To Concern Over Search Console Indexing Reports via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-responds-to-concern-over-search-console-indexing-reports/594494/",
-      "date": "2026-10-27T11:17:59+00:00",
-      "description": "John Mueller's responded to a stalled indexing report and explained why SEOs may need to relax about indexing report freshness. The post Google Responds To Concern Over Search Console Indexing Reports appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Google Ads Expands Customer Lifecycle Goals In Search And Shopping via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/google-ads-expands-customer-lifecycle-goals-in-search-and-shopping/594458/",
-      "date": "2026-10-26T21:24:39+00:00",
-      "description": "Google Ads expands customer lifecycle goals with High Value acquisition for Shopping and retention modes across Search, Shopping, and Performance Max. The post Google Ads Expands Customer Lifecycle Goals In Search And Shopping appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Google Updates Spam Guide For Shared Pages, Generated Content & Apps via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-indexing-advice-shareable-pages-spam-guide/594451/",
-      "date": "2026-10-26T20:57:22+00:00",
-      "description": "New spam guidance says to noindex or block crawling on pages made for sharing. Google's docs say a URL blocked in robots.txt can be indexed. The post Google Updates Spam Guide For Shared Pages, Generated Content &amp; Apps appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
