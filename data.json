@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-10-28T21:54:05.369859+00:00",
+  "updatedAt": "2026-10-29T01:48:33.287920+00:00",
   "items": [
+    {
+      "title": "Google Says Lower AI Mode Monetization Weighed On Search Growth via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-search-growth-slows-again-ai-mode/594862/",
+      "date": "2026-10-28T23:12:24+00:00",
+      "description": "Google Search revenue growth slowed for a second straight quarter, and lower AI Mode monetization was one reason given. The post Google Says Lower AI Mode Monetization Weighed On Search Growth appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google Business Profiles Finally Adds Third-Party Ordering Controls",
+      "link": "https://www.seroundtable.com/google-business-profiles-ordering-controls-42411.html",
+      "date": "2026-10-28T22:32:00+00:00",
+      "description": "Google has finally added the ability to manage and control third-party ordering services on an individual basis for restaurants within Google Business Profiles. So you can disable features completely or partially from within Google Business Profiles.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Expands Ads In AI Mode To More Countries & Multiturn Ads In U.S.",
+      "link": "https://www.seroundtable.com/google-expands-ads-ai-mode-42412.html",
+      "date": "2026-10-28T22:30:00+00:00",
+      "description": "Google announced it is expanding ads in AI Mode to several more countries including Australia, Canada, India, Kenya, Malaysia, New Zealand, Nigeria, Pakistan, the Philippines, and Singapore. Then in Q4 Google will also expand ads in AI Mode to Brazil, Mexico, and the United Kingdom.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "WordPress Announces Another Security Release: Version 7.1.4 via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/wordpress-announces-another-security-release-version-7-1-4/594798/",
+      "date": "2026-10-28T22:14:34+00:00",
+      "description": "WordPress announced security release version 7.1.4 that fixes 22 vulnerabilities, including one that affects its updater. The post WordPress Announces Another Security Release: Version 7.1.4 appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google Lets Restaurants Directly Opt Out Of Ordering Providers via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-restaurants-opt-out-ordering-providers/594794/",
+      "date": "2026-10-28T22:11:43+00:00",
+      "description": "Restaurants can now turn off specific third-party ordering providers in the Business Profile dashboard instead of waiting on each provider to remove them. The post Google Lets Restaurants Directly Opt Out Of Ordering Providers appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
     {
       "title": "AI-Cited Pages More Often Got Straight To The Answer via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/ai-cited-pages-more-often-got-straight-to-the-answer/594781/",
@@ -14,7 +74,19 @@
       ]
     },
     {
-      "title": "Google Ad Revenue Up 10.5% With Revenue Up 25%",
+      "title": "Bing Ads Revenue Up 12% With Overall Revenue Up 19%",
+      "link": "https://www.seroundtable.com/microsoft-earnings-q127-42404.html",
+      "date": "2026-10-28T20:15:00+00:00",
+      "description": "Microsoft reported its first quarter 2027 earnings, showing that its search and advertising revenue was up 12%, indicating its ad growth was 2 points higher than the previous quarter. The previous quarter it was up 10%, before that was up 12%, before that up 10% before that, up 16% and the one before that was 21% and this quarter, it is only up 10%.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ad Revenue Up 10.5% With Overall Revenue Up 25%",
       "link": "https://www.seroundtable.com/google-earnings-q326-42403.html",
       "date": "2026-10-28T20:10:00+00:00",
       "description": "Google reported its earnings today, its Q3 2026 earnings report showed search ad revenues up by 10.5% at $82 billion and overall revenue was up 25% at $127.6 billion. As you know, I specifically like to dig in as best as I can on the search ad revenue side to see how Google Ads has performed.",
@@ -218,27 +290,15 @@
       ]
     },
     {
-      "title": "Google: Disabled Discover Clicks Were A Bug In An Experiment via @sejournal, @MattGSouthern",
+      "title": "Google Turns Off Discover Experiment After AI Summary Source Bug via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/rajan-patel-disabled-discover-source-clicks-bug/594579/",
       "date": "2026-10-27T20:06:27+00:00",
-      "description": "Rajan Patel wrote on X that disabled source clicks on Google Discover AI summaries were a bug in an experiment that has been turned off. The post Google: Disabled Discover Clicks Were A Bug In An Experiment appeared first on Search Engine Journal .",
+      "description": "Rajan Patel wrote on X that disabled source clicks on Google Discover AI summaries were a bug in an experiment that has been turned off. The post Google Turns Off Discover Experiment After AI Summary Source Bug appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
         "AI Search",
         "Ads"
-      ]
-    },
-    {
-      "title": "Googlebot Must Follow Redirects From Homepage To Favicon, Updated Doc Say",
-      "link": "https://www.seroundtable.com/googlebot-redirects-from-homepage-to-favicon-42396.html",
-      "date": "2026-10-27T19:05:00+00:00",
-      "description": "Google Search has just updated its favicon documentation to now specify that Googlebot must be able to follow redirects from the homepage to the page where the favicon is specified. The document also explicitly says that these URLs must not be blocked by robots.txt or other means.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -302,18 +362,6 @@
       ]
     },
     {
-      "title": "Daily Search Forum Recap: October 27, 2026",
-      "link": "https://www.seroundtable.com/recap-10-27-2026-42380.html",
-      "date": "2026-10-27T14:00:00+00:00",
-      "description": "Here is a recap of what happened in the search forums today...",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Flat Traffic, No Budget: What Ziff Davis’ Jonathan Berthold Tests First",
       "link": "https://www.searchenginejournal.com/flat-traffic-no-budget-what-ziff-davis-jonathan-berthold-tests-first/593483/",
       "date": "2026-10-27T12:00:41+00:00",
@@ -323,18 +371,6 @@
         "SEO",
         "AI Search",
         "Ads"
-      ]
-    },
-    {
-      "title": "Unconfirmed Google Search Ranking Update: Volatility & Chatter Spike",
-      "link": "https://www.seroundtable.com/google-search-ranking-volatility-42379.html",
-      "date": "2026-10-27T11:51:00+00:00",
-      "description": "I know I just reported on an unconfirmed Google Search ranking update from this past Saturday, October 24th. But I am now seeing a larger spike in volatility, along with an increase in SEO community chatter around another unconfirmed update over the past 24 hours.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -378,42 +414,6 @@
       "link": "https://www.searchenginejournal.com/generative-ui-could-turn-google-into-your-booking-com/593414/",
       "date": "2026-10-26T19:00:54+00:00",
       "description": "Wait for Google to send the booking, or build channels you own. That choice does not need to wait for generative UI. The post Generative UI Could Turn Google Into Your Booking.com appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Your Google Ads Account Is Hitting Its Targets, So Why Isn’t The Business Growing?",
-      "link": "https://www.searchenginejournal.com/your-google-ads-account-is-hitting-its-targets-so-why-isnt-the-business-growing/592942/",
-      "date": "2026-10-26T15:30:04+00:00",
-      "description": "Spot the gaps between Google Ads targets and business growth, from outdated margins and repeat buyers to weak leads and capped reach. The post Your Google Ads Account Is Hitting Its Targets, So Why Isn’t The Business Growing? appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Google Gets The Thank-You via @sejournal, @pedrodias",
-      "link": "https://www.searchenginejournal.com/google-gets-the-thank-you/594108/",
-      "date": "2026-10-26T14:00:54+00:00",
-      "description": "Referral reports show who sent the visit, not who shaped the decision. Why GEO’s real job is what a model learns, not what it retrieves. The post Google Gets The Thank-You appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Meta Pushes Its Updated Business Terms Back To Nov. 20 via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/meta-delays-business-terms-crawling/594388/",
-      "date": "2026-10-26T13:00:00+00:00",
-      "description": "Meta delayed its updated business terms amid complaints to EU and UK regulators. The permission to crawl sites tied to its business users hasn't changed. The post Meta Pushes Its Updated Business Terms Back To Nov. 20 appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
