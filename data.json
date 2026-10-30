@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-30T06:29:41.513809+00:00",
+  "updatedAt": "2026-10-30T13:37:14.235195+00:00",
   "items": [
     {
-      "title": "Google’s Ads Decoded Explores How AI Is Changing Search Behavior via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/google-search-behavior-shifts-2027-ads-strategy/594971/",
-      "date": "2026-10-29T20:24:25+00:00",
-      "description": "Google’s Ads Decoded explores longer AI Mode queries, earlier discovery, and demand for human perspectives. Here’s what advertisers can consider for 2027. The post Google’s Ads Decoded Explores How AI Is Changing Search Behavior appeared first on Search Engine Journal .",
+      "title": "Google’s Q3 Earnings Call Casts Shadow Over Classic Search via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/googles-q3-earnings-call-casts-shadow-over-classic-search/595082/",
+      "date": "2026-10-30T13:02:09+00:00",
+      "description": "Google's Q3 earnings call outlined a vision in which traditional Search may no longer be the central experience. The post Google&#8217;s Q3 Earnings Call Casts Shadow Over Classic Search appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -14,10 +14,118 @@
       ]
     },
     {
-      "title": "Google’s Q3 Selloff Raises Advertiser Concerns About AI Search via @sejournal, @brookeosmundson",
+      "title": "Google Says Target Changes Don’t Reset Learning – 6 PPC Takeaways For BFCM via @sejournal, @siliconvallaeys",
+      "link": "https://www.searchenginejournal.com/google-ads-product-manager-revealed-details-that-matter-before-black-friday/594102/",
+      "date": "2026-10-30T12:02:22+00:00",
+      "description": "Six Google Ads details on Smart Bidding, seasonality adjustments, channel controls and budgeting that PPC teams should check before BFCM. The post Google Says Target Changes Don’t Reset Learning – 6 PPC Takeaways For BFCM appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Search News Buzz Video Recap: Google Volatility X2, Spam Updates, AI Overviews Everywhere, Blending Ads & Organic, Google & Microsoft Earnings",
+      "link": "https://www.seroundtable.com/video-10-30-2026-42418.html",
+      "date": "2026-10-30T12:01:00+00:00",
+      "description": "This week, we reported on Google Search volatility not once but twice this week. Google warned tools on user-generated spam guidelines. Google downplayed the importance of fresh indexing reporting. Google explained...",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google AI Overviews & AI Mode 0.9% Click-Through Rate, Opt Out Study Says",
+      "link": "https://www.seroundtable.com/google-ai-overviews-mode-ctr-42421.html",
+      "date": "2026-10-30T11:51:00+00:00",
+      "description": "Everyone has been asking, what is the click-through rate you get from Google Search AI features such as AI Overviews and AI Mode. Well, a new small study says the click-through rate is about 0.9%. The study also showed that when you opt out of showing in Google's Search generative AI, it also leads to a drop in clicks in the main web results.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Bing Showing Ads Within AI Overviews",
+      "link": "https://www.seroundtable.com/bing-ads-copilot-ai-overviews-42416.html",
+      "date": "2026-10-30T11:41:00+00:00",
+      "description": "Microsoft is now showing ads within the Bing AI Overviews powered by Copilot. I don't think I've seen ads within the AI responses in Bing Search and I personally still cannot trigger them, but Khushal Bherwani shared a screenshot of an ad within an AI Overview in Bing Search.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google & Bing Halloween Search Easter (Pumpkin) Eggs",
+      "link": "https://www.seroundtable.com/google-bing-halloween-search-easter-eggs-42415.html",
+      "date": "2026-10-30T11:31:00+00:00",
+      "description": "Halloween is tonight/tomorrow and to celebrate both Google and Bing has special easter eggs (or should I call them pumpkins) for its search results. Google asks you to find a costume using AI Mode, which is boring. But Bing has a floating ghost that explodes into candy when you tap it.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google's Gary Illyes: AI Made Bot Impersonation Worse",
+      "link": "https://www.seroundtable.com/google-ai-made-bot-impersonation-worse-42422.html",
+      "date": "2026-10-30T11:21:00+00:00",
+      "description": "Gary Illyes from Google was recently interviewed by Aneta Samkoff, host of the Odys Podcast. The topic was all about bots and crawlers and they covered a lot of ground. Gary said bot impersonation is more of a problem now because of AI. Bot impersonation is when rogue bots pretend to be someone they are not, like pretending to be Googlebot.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Gemini Stopped Attaching UTM Parameters To Cited URLs",
+      "link": "https://www.seroundtable.com/gemini-utm-parameters-42399.html",
+      "date": "2026-10-30T11:11:00+00:00",
+      "description": "Google seems to have stopped appending UTM parameters on Gemini links, the cited URLs in Gemini's AI responses. Google started adding UTM parameters to links in Gemini in early September, but then, around September 28th, Google stopped.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Search May Be Bringing Back 100 Search Results Parameter",
+      "link": "https://www.seroundtable.com/google-search-100-search-results-parameter-back-42423.html",
+      "date": "2026-10-30T09:40:00+00:00",
+      "description": "Google Search may be bringing back the ability to see 100 search results per page by bringing back the num=100 parameter. As a reminder, Google dropped this feature in September 2025 as one of many methods to prevent crawlers from scraping its search results. As you know, third-party tracking tools are not working so well these days.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Reveals How AI Search Is Reshaping What Users Query via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/google-search-behavior-shifts-2027-ads-strategy/594971/",
+      "date": "2026-10-29T20:24:25+00:00",
+      "description": "Google’s Ads Decoded explores longer AI Mode queries, earlier discovery, and demand for human perspectives. Here’s what advertisers can consider for 2027. The post Google Reveals How AI Search Is Reshaping What Users Query appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "What Google’s Search Ad Revenue Numbers Signal For AI Search Spend via @sejournal, @brookeosmundson",
       "link": "https://www.searchenginejournal.com/googles-q3-selloff-raises-advertiser-concerns-about-ai-search/595005/",
       "date": "2026-10-29T19:47:55+00:00",
-      "description": "Google’s Q3 stock plunge puts AI spending and Search ad revenue under scrutiny. Here’s what the earnings reveal for PPC advertisers. The post Google’s Q3 Selloff Raises Advertiser Concerns About AI Search appeared first on Search Engine Journal .",
+      "description": "Google’s Q3 stock plunge puts AI spending and Search ad revenue under scrutiny. Here’s what the earnings reveal for PPC advertisers. The post What Google&#8217;s Search Ad Revenue Numbers Signal For AI Search Spend appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -170,18 +278,6 @@
       ]
     },
     {
-      "title": "Is Google Testing Dropping Citations Cards From AI Overviews?",
-      "link": "https://www.seroundtable.com/citations-cards-google-ai-overviews-42413.html",
-      "date": "2026-10-29T11:11:00+00:00",
-      "description": "Google may be testing removing the citations card on the Google AI Overviews section. So when you do a search on desktop and see an AI Overview, Google generally shows a citations card that has links to the sources you can click on. Google is reportedly testing removing that card from the interface.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Google Recommends Using Custom 404 Error Pages via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/google-recommends-using-custom-404-error-pages/594908/",
       "date": "2026-10-29T11:07:37+00:00",
@@ -215,30 +311,6 @@
         "SEO",
         "AI Search",
         "Ads"
-      ]
-    },
-    {
-      "title": "Google Business Profiles Finally Adds Third-Party Ordering Controls",
-      "link": "https://www.seroundtable.com/google-business-profiles-ordering-controls-42411.html",
-      "date": "2026-10-28T22:32:00+00:00",
-      "description": "Google has finally added the ability to manage and control third-party ordering services on an individual basis for restaurants within Google Business Profiles. So you can disable features completely or partially from within Google Business Profiles.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Expands Ads In AI Mode To More Countries & Multiturn Ads In U.S.",
-      "link": "https://www.seroundtable.com/google-expands-ads-ai-mode-42412.html",
-      "date": "2026-10-28T22:30:00+00:00",
-      "description": "Google announced it is expanding ads in AI Mode to several more countries including Australia, Canada, India, Kenya, Malaysia, New Zealand, Nigeria, Pakistan, the Philippines, and Singapore. Then in Q4 Google will also expand ads in AI Mode to Brazil, Mexico, and the United Kingdom.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -278,42 +350,6 @@
       ]
     },
     {
-      "title": "Bing Ads Revenue Up 12% With Overall Revenue Up 19%",
-      "link": "https://www.seroundtable.com/microsoft-earnings-q127-42404.html",
-      "date": "2026-10-28T20:15:00+00:00",
-      "description": "Microsoft reported its first quarter 2027 earnings, showing that its search and advertising revenue was up 12%, indicating its ad growth was 2 points higher than the previous quarter. The previous quarter it was up 10%, before that was up 12%, before that up 10% before that, up 16% and the one before that was 21% and this quarter, it is only up 10%.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ad Revenue Up 10.5% With Overall Revenue Up 25%",
-      "link": "https://www.seroundtable.com/google-earnings-q326-42403.html",
-      "date": "2026-10-28T20:10:00+00:00",
-      "description": "Google reported its earnings today, its Q3 2026 earnings report showed search ad revenues up by 10.5% at $82 billion and overall revenue was up 25% at $127.6 billion. As you know, I specifically like to dig in as best as I can on the search ad revenue side to see how Google Ads has performed.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads API Version 26.1 Now Out Available",
-      "link": "https://www.seroundtable.com/google-ads-api-version-261-42409.html",
-      "date": "2026-10-28T19:08:00+00:00",
-      "description": "Google Ads has just released a minor update to its Google Ads API, this is version 26.1. This update touches on assets, campaigns, local services, recommendations, reporting, and targeting.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "79% Of Consumers Quit Social Links That Land On A Homepage – Bitly Data via @sejournal, @gregjarboe",
       "link": "https://www.searchenginejournal.com/bitlys-new-data-says-seos-are-half-right-about-short-links/593983/",
       "date": "2026-10-28T19:00:59+00:00",
@@ -323,18 +359,6 @@
         "SEO",
         "AI Search",
         "Ads"
-      ]
-    },
-    {
-      "title": "You Can Now Build Apps For Google Search: Connected Apps Platform",
-      "link": "https://www.seroundtable.com/google-connected-apps-platform-42408.html",
-      "date": "2026-10-28T18:35:00+00:00",
-      "description": "Google announced today that you and your developers can now build apps for Google Search and Gemini. Google wrote, \"today we're launching the preview of our Connected Apps Platform, a unified way for more app developers to bring their capabilities directly into Gemini and Search.\"",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -390,30 +414,6 @@
       "link": "https://www.searchenginejournal.com/rajan-patel-disabled-discover-source-clicks-bug/594579/",
       "date": "2026-10-27T20:06:27+00:00",
       "description": "Rajan Patel wrote on X that disabled source clicks on Google Discover AI summaries were a bug in an experiment that has been turned off. The post Google Turns Off Discover Experiment After AI Summary Source Bug appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Why We Should Fear The Shadow Web We’re Building For AI via @sejournal, @chrisgreenseo",
-      "link": "https://www.searchenginejournal.com/why-we-should-fear-the-shadow-web-were-building-for-ai/593930/",
-      "date": "2026-10-27T19:00:25+00:00",
-      "description": "Why would an AI search provider keep trusting information a brand hides from its own website? The parallels with cloaking are too close to ignore. The post Why We Should Fear The Shadow Web We’re Building For AI appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Google Privacy Update Lets Connected Apps Shape AI Mode Ads via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/google-privacy-policy-connected-apps-ai-mode-ads/594546/",
-      "date": "2026-10-27T17:11:52+00:00",
-      "description": "Google is testing AI Mode ads informed by connected Gmail and Photos data, as its privacy policy adds an exception for ad personalization. The post Google Privacy Update Lets Connected Apps Shape AI Mode Ads appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
