@@ -1,6 +1,114 @@
 {
-  "updatedAt": "2026-10-30T13:37:14.235195+00:00",
+  "updatedAt": "2026-10-30T18:53:14.315851+00:00",
   "items": [
+    {
+      "title": "Google Adopts New AI Training Control",
+      "link": "https://www.seroundtable.com/google-ai-training-control-42430.html",
+      "date": "2026-10-30T16:50:00+00:00",
+      "description": "Google is adopting new AI training controls, under consideration by the IETF, that should simplify and streamline AI training controls for publishers and site owners.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Discord To Put Public Chats On Pages Search Engines Can Show via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/discord-public-server-chats-search-engines/595224/",
+      "date": "2026-10-30T16:38:30+00:00",
+      "description": "Discord's most public servers will each have a web page that may carry AI summaries and some messages search engines can show. The post Discord To Put Public Chats On Pages Search Engines Can Show appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Microsoft Bing New AI New Controls With AI Training From AI Search Grounding",
+      "link": "https://www.seroundtable.com/microsoft-bing-ai-controls-42429.html",
+      "date": "2026-10-30T16:15:00+00:00",
+      "description": "Microsoft just announced new Bing AI content controls \"offering newer, simpler, and clearer preferences that allow you to make choices about training, grounding, or both while remaining eligible for Bing search results,\" Krishna Madhavan, Principal Product Manager, Microsoft Bing, wrote.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Shopify Now Lets Stores Pay The Company Behind Your AI Shopping Agent via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/shopify-now-lets-stores-pay-the-company-behind-your-ai-shopping-agent/594544/",
+      "date": "2026-10-30T15:30:24+00:00",
+      "description": "Shopify’s catalog returns a commission next to each promoted product’s price and reviews. What an AI agent does with that number depends on its developer. The post Shopify Now Lets Stores Pay The Company Behind Your AI Shopping Agent appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "ChatGPT Gets Wider Ads, Multi-Image Ads Expands, Expansion & More",
+      "link": "https://www.seroundtable.com/chatgpt-ads-update-42427.html",
+      "date": "2026-10-30T15:17:00+00:00",
+      "description": "OpenAI just sent its weekly email update to advertisers announcing the ChatGPT Ads are live in 26 more countries, a new wider standard ad unit format, Multi-image ads are now available in open beta to all advertisers, Shopify integration is now available internationally and Shopify integration is now available internationally.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "The Link Building Graveyard: What To Bury & What Still Wins via @sejournal, @hethr_campbell",
+      "link": "https://www.searchenginejournal.com/the-link-building-graveyard-what-to-bury-what-still-wins-recap/593932/",
+      "date": "2026-10-30T15:11:43+00:00",
+      "description": "Resolve's Michael Johnson outlined a keep-or-cut approach to link building, from qualifying publishers and earning roundup placements to creating linkable assets and a 90-day execution plan. The post The Link Building Graveyard: What To Bury &#038; What Still Wins appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "ChatGPT Ads Turns On Automatic Ad Changes By Default via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/chatgpt-ads-turns-on-automatic-ad-changes-by-default/595117/",
+      "date": "2026-10-30T14:17:57+00:00",
+      "description": "Creative enhancements are now on by default in ChatGPT Ads. Here's what they can change, how to opt out, and the tracking questions still open. The post ChatGPT Ads Turns On Automatic Ad Changes By Default appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "What Search Console Can Still Tell You When Indexing Data Lags via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/what-search-console-can-still-tell-you-when-indexing-data-lags/595016/",
+      "date": "2026-10-30T14:00:00+00:00",
+      "description": "Search Console's Page indexing report has fallen behind before. Here's what Google has said and what each remaining check can show while the data lags. The post What Search Console Can Still Tell You When Indexing Data Lags appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Daily Search Forum Recap: October 30, 2026",
+      "link": "https://www.seroundtable.com/recap-10-30-2026-42424.html",
+      "date": "2026-10-30T14:00:00+00:00",
+      "description": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Ads in Google AI Mode make Google less per search, but Google has more searches. Google's John Mueller said AI spam tactics will be caught...",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Google’s Q3 Earnings Call Casts Shadow Over Classic Search via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/googles-q3-earnings-call-casts-shadow-over-classic-search/595082/",
@@ -103,6 +211,18 @@
       "date": "2026-10-30T09:40:00+00:00",
       "description": "Google Search may be bringing back the ability to see 100 search results per page by bringing back the num=100 parameter. As a reminder, Google dropped this feature in September 2025 as one of many methods to prevent crawlers from scraping its search results. As you know, third-party tracking tools are not working so well these days.",
       "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Supporting a shared AI training control for websites",
+      "link": "https://developers.google.com/search/blog/2026/10/ai-training-control",
+      "date": "2026-10-30T00:00:00+00:00",
+      "description": "Today, we&#39;re announcing our plans to support a shared AI training control in robots.txt. This will help websites express their AI training preferences across multiple AI providers in a single step and is based on work from the AIPREF working group at the Internet Engineering Task Force (IETF). This builds on our long history of providing website owners with clear controls, including through Google-Extended, the AI training control we&#39;ve offered since 2023.",
+      "source": "Google Search Central",
       "tags": [
         "Google",
         "SEO",
@@ -230,54 +350,6 @@
       ]
     },
     {
-      "title": "Google Does Not Show All Spammy Links In Search Console",
-      "link": "https://www.seroundtable.com/google-search-console-does-not-show-all-links-42407.html",
-      "date": "2026-10-29T11:51:00+00:00",
-      "description": "Google does not show all links, and not all spammy links, within the Search Console links report. This is not new, Google has long said that the link report only shows a sampling of links.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google AI Overviews With Query Refinement Bubbles",
-      "link": "https://www.seroundtable.com/google-ai-overviews-query-refinement-bubbles-42406.html",
-      "date": "2026-10-29T11:41:00+00:00",
-      "description": "Google is testing query refinement bubbles at the top of the AI Overviews in Google Search. But clicking the refinement bubble does not change the query, instead, it takes you into AI Mode for that query set.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google AI Mode Tests Blending All Products With Sponsored Products",
-      "link": "https://www.seroundtable.com/google-ai-mode-all-sponsored-products-42402.html",
-      "date": "2026-10-29T11:31:00+00:00",
-      "description": "Google seems to be testing mixing sponsored products, ads, within the organic product results in AI Mode. Google has this line above the product results that can say \"Sponsored\" and \"All products.\" Even as I look at screenshots of this, I am not sure if the \"All products\" are sponsored or not.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Merchant API With New October 2026 Updates",
-      "link": "https://www.seroundtable.com/google-merchant-api-update-42410.html",
-      "date": "2026-10-29T11:21:00+00:00",
-      "description": "Google has released several updates to the Merchant API for October 26. The update expands YouTube Shopping and AI-commerce reporting, adds product attributes for videos and warranties, improves disapproval diagnostics, and introduces API integration enhancements and reporting deprecations.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Google Recommends Using Custom 404 Error Pages via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/google-recommends-using-custom-404-error-pages/594908/",
       "date": "2026-10-29T11:07:37+00:00",
@@ -354,66 +426,6 @@
       "link": "https://www.searchenginejournal.com/bitlys-new-data-says-seos-are-half-right-about-short-links/593983/",
       "date": "2026-10-28T19:00:59+00:00",
       "description": "Bitly's survey shows why SEOs should look beyond short links to fix mismatched landing pages and rethink what click-through rates reveal. The post 79% Of Consumers Quit Social Links That Land On A Homepage – Bitly Data appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "The Hreflang Magic Trick – It Routes, It Doesn’t Rank via @sejournal, @billhunt",
-      "link": "https://www.searchenginejournal.com/the-hreflang-magic-trick-it-routes-it-doesnt-rank/591979/",
-      "date": "2026-10-28T14:00:59+00:00",
-      "description": "Understand why Google can serve unindexed hreflang URLs and why market pages need unique local value to stand out in AI search. The post The Hreflang Magic Trick – It Routes, It Doesn’t Rank appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Decodo Launches Web Data API To Give AI Agents Web Access",
-      "link": "https://www.searchenginejournal.com/decodo-launches-web-data-api-to-give-ai-agents-web-access-spn/594415/",
-      "date": "2026-10-28T13:00:00+00:00",
-      "description": "Decodo has introduced Web Data API, combining scraping, searching, mapping, and crawling under one key for AI agents and retrieval pipelines. The post Decodo Launches Web Data API To Give AI Agents Web Access appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "GA4 Missed 66% Of One Retailer’s Holiday Orders: Check Yours Before Peak Season",
-      "link": "https://www.searchenginejournal.com/ga4-missed-two-thirds-retailers-holiday-orders-check-yours-before-peak-season/593007/",
-      "date": "2026-10-28T12:00:45+00:00",
-      "description": "GA4 missed two-thirds of one retailer's holiday orders. What an audit of eight ecommerce brands found, and the check to run before peak season. The post GA4 Missed 66% Of One Retailer&#8217;s Holiday Orders: Check Yours Before Peak Season appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Google Signals A Wider Crackdown On SEO Spam via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-signals-a-wider-crackdown-on-ugc-seo-spam/594679/",
-      "date": "2026-10-28T11:04:02+00:00",
-      "description": "Google signals that its fight against SEO spam is expanding to new kinds of platforms, tools, and services. The post Google Signals A Wider Crackdown On SEO Spam appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Google Turns Off Discover Experiment After AI Summary Source Bug via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/rajan-patel-disabled-discover-source-clicks-bug/594579/",
-      "date": "2026-10-27T20:06:27+00:00",
-      "description": "Rajan Patel wrote on X that disabled source clicks on Google Discover AI summaries were a bug in an experiment that has been turned off. The post Google Turns Off Discover Experiment After AI Summary Source Bug appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -522,18 +534,6 @@
       "link": "https://developers.google.com/search/blog/2026/07/search-central-live-deep-dive-europe-2026",
       "date": "2026-07-06T00:00:00+00:00",
       "description": "We&#39;re excited to officially announce the next stop for Search Central Live Deep Dive Europe 2026! Mark your calendars: based directly on your feedback, we&#39;re headed to Barcelona, Spain, from September 30 to October 2, 2026.",
-      "source": "Google Search Central",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Help Us Pick the Next Stop in Europe for Search Central Live Deep Dive 2026!",
-      "link": "https://developers.google.com/search/blog/2026/06/scl-deep-dive-europe-2026",
-      "date": "2026-06-18T00:00:00+00:00",
-      "description": "As we mentioned a few months ago, we are bringing the Search Central Live Deep Dive format to the EMEA region. This SCL format requires finding the absolute best home for the event&amp;mdash;a place where all of you can truly connect, learn, and enjoy.",
       "source": "Google Search Central",
       "tags": [
         "Google",
