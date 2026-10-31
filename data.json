@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-10-31T19:33:22.324699+00:00",
+  "updatedAt": "2026-10-31T22:50:35.614711+00:00",
   "items": [
+    {
+      "title": "Hackers Hijacked DebugBear’s DNS To Serve Malicious JavaScript via @sejournal, @vahandev",
+      "link": "https://www.searchenginejournal.com/debugbear-rum-attack-seo-site-owner-actions/595412/",
+      "date": "2026-10-31T21:11:41+00:00",
+      "description": "DebugBear told customers to remove its Core Web Vitals monitoring script. Site owners should also check exposed accounts and unauthorized changes. The post Hackers Hijacked DebugBear&#8217;s DNS To Serve Malicious JavaScript appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
     {
       "title": "Spam Guide Update, Restaurant Controls & AI Mode Revenue – SEO Pulse via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/seo-pulse-spam-guide-restaurant-controls-ai-mode-revenue/595031/",
@@ -62,10 +74,10 @@
       ]
     },
     {
-      "title": "The AI Search Measurement Gap Brands Must Close In 2027 And Beyond via @sejournal, @gregjarboe",
+      "title": "AI Knows Your Brand – It Rarely Puts You On The Shortlist via @sejournal, @gregjarboe",
       "link": "https://www.searchenginejournal.com/the-ai-search-measurement-gap-brands-must-close-in-2027-and-beyond/593881/",
       "date": "2026-10-30T19:00:00+00:00",
-      "description": "Measure whether AI recommends your brand to buyers, fix outdated sources, and turn shortlist visibility into customer relationships your CFO can value. The post The AI Search Measurement Gap Brands Must Close In 2027 And Beyond appeared first on Search Engine Journal .",
+      "description": "Measure whether AI recommends your brand to buyers, fix outdated sources, and turn shortlist visibility into customer relationships your CFO can value. The post AI Knows Your Brand – It Rarely Puts You On The Shortlist appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -86,10 +98,10 @@
       ]
     },
     {
-      "title": "Discord To Put Public Chats On Pages Search Engines Can Show via @sejournal, @MattGSouthern",
+      "title": "Discord Member Messages May Start Showing Up In Google In December via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/discord-public-server-chats-search-engines/595224/",
       "date": "2026-10-30T16:38:30+00:00",
-      "description": "Discord's most public servers will each have a web page that may carry AI summaries and some messages search engines can show. The post Discord To Put Public Chats On Pages Search Engines Can Show appeared first on Search Engine Journal .",
+      "description": "Discord's most public servers will each have a web page that may carry AI summaries and some messages search engines can show. The post Discord Member Messages May Start Showing Up In Google In December appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -414,18 +426,6 @@
       "link": "https://www.searchenginejournal.com/hubspot-lost-80-of-its-traffic-cmo-kipp-bodnar-explains-why-revenue-kept-growing/594004/",
       "date": "2026-10-29T12:00:46+00:00",
       "description": "HubSpot's traffic collapse shows why SEOs need to measure revenue per visit, track AI referral conversions, and build audiences beyond Google. The post HubSpot Lost 80% Of Its Traffic – CMO Kipp Bodnar Explains Why Revenue Kept Growing appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Google Recommends Using Custom 404 Error Pages via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-recommends-using-custom-404-error-pages/594908/",
-      "date": "2026-10-29T11:07:37+00:00",
-      "description": "Google says missing pages aren't a ranking threat, but what visitors encounter after a 404 can matter to a business. The post Google Recommends Using Custom 404 Error Pages appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
