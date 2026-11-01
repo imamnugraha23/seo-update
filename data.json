@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-01T02:14:33.478679+00:00",
+  "updatedAt": "2026-11-01T09:20:22.998656+00:00",
   "items": [
+    {
+      "title": "Google, Microsoft & OpenAI Plan To Honor Shared AI Training Opt-Out via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-microsoft-openai-shared-ai-training-opt-out/595387/",
+      "date": "2026-11-01T08:00:00+00:00",
+      "description": "A shared robots.txt line could let sites opt out of AI training with several providers at once, but companies involved are handling it differently. The post Google, Microsoft &#038; OpenAI Plan To Honor Shared AI Training Opt-Out appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
     {
       "title": "Hackers Hijacked DebugBear’s DNS To Serve Malicious JavaScript via @sejournal, @vahandev",
       "link": "https://www.searchenginejournal.com/debugbear-rum-attack-seo-site-owner-actions/595412/",
@@ -419,18 +431,6 @@
         "Google",
         "SEO",
         "Technical"
-      ]
-    },
-    {
-      "title": "HubSpot Lost 80% Of Its Traffic – CMO Kipp Bodnar Explains Why Revenue Kept Growing via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/hubspot-lost-80-of-its-traffic-cmo-kipp-bodnar-explains-why-revenue-kept-growing/594004/",
-      "date": "2026-10-29T12:00:46+00:00",
-      "description": "HubSpot's traffic collapse shows why SEOs need to measure revenue per visit, track AI referral conversions, and build audiences beyond Google. The post HubSpot Lost 80% Of Its Traffic – CMO Kipp Bodnar Explains Why Revenue Kept Growing appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
       ]
     },
     {
