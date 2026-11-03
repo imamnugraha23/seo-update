@@ -1,11 +1,119 @@
 {
-  "updatedAt": "2026-11-03T06:49:27.000032+00:00",
+  "updatedAt": "2026-11-03T15:09:47.582977+00:00",
   "items": [
     {
-      "title": "PageSpeed Insights Scores May Rise After Lighthouse Update via @sejournal, @MattGSouthern",
+      "title": "Google Favors High Ad Strength RSAs, But Lower-Rated Ads Convert Better via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/google-favors-high-ad-strength-rsas-but-lower-rated-ads-convert-better/595478/",
+      "date": "2026-11-03T15:00:44+00:00",
+      "description": "Google serves higher-rated responsive search ads more often, yet Brad Geddes’ 5,900-account study finds they convert better only 45% of the time. Pinning explains why. The post Google Favors High Ad Strength RSAs, But Lower-Rated Ads Convert Better appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Building A Global Content Factory With AI (Without Losing The Human Touch) via @sejournal, @motokohunt",
+      "link": "https://www.searchenginejournal.com/building-a-global-content-factory-with-ai-without-losing-the-human-touch/593904/",
+      "date": "2026-11-03T13:00:01+00:00",
+      "description": "Scale an AI content factory without erasing local relevance by grounding each market's pages in approved facts, local evidence, and human judgment. The post Building A Global Content Factory With AI (Without Losing The Human Touch) appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google AI Mode Biased: It Only Shows Links To Google Flights",
+      "link": "https://www.seroundtable.com/google-ai-mode-links-google-flights-42428.html",
+      "date": "2026-11-03T12:51:00+00:00",
+      "description": "Over the weekend, I tested out using Google AI Mode to get flight information and 100% of the time, the only links available within the AI Mode responses were to Google Flights. I am sure the Digital Markets Act (DMA) folks in Europe are going to like this.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Tests Removing AI Mode Button From Search Bar",
+      "link": "https://www.seroundtable.com/google-removing-ai-mode-42436.html",
+      "date": "2026-11-03T12:41:00+00:00",
+      "description": "Google is supposedly testing removing the AI Mode button from the Google Search bar. I cannot replicate this, but it doesn't surprise me that Google would test removing the AI Mode bar for a tiny subset of searchers to compare how it performs versus when the AI Mode button is available.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Only Home Page Indexed? Might Be A Google Search Quality Issue",
+      "link": "https://www.seroundtable.com/google-quality-issues-home-page-indexed-42439.html",
+      "date": "2026-11-03T12:31:00+00:00",
+      "description": "Is your home page the only page indexed by Google Search? Were other pages of your site previously indexed and are no longer showing up in Google's index? Well, that might be a Google Search quality issue with your website.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads PMax Campaigns May Filter Out Navigational & Brand Queries",
+      "link": "https://www.seroundtable.com/google-ads-pmax-brand-queries-42438.html",
+      "date": "2026-11-03T12:21:00+00:00",
+      "description": "Google Ads updated its How Performance Max interacts with other campaigns in your account help document to add a new section on how \"Performance Max campaigns may also filter out navigational or brand-specific search queries to prioritize serving them through dedicated Search campaigns.\"",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads Asset Scheduling With Day Grouping (Weekends/Weekdays)",
+      "link": "https://www.seroundtable.com/google-ads-asset-scheduling-day-grouping-42433.html",
+      "date": "2026-11-03T12:11:00+00:00",
+      "description": "Google Ads improved the asset scheduling advanced options to let you group days, such as weekends versus weekdays and more. This can be found under the advanced options within asset scheduling in Google Ads.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google On How To Block Popups Using Robot.txt In Search",
+      "link": "https://www.seroundtable.com/google-robots-block-popups-42445.html",
+      "date": "2026-11-03T12:05:00+00:00",
+      "description": "Google's John Mueller explained how to prevent pop-up dialogs on your website from appearing in Google Search using the robots.txt file. He mentioned how to do this if you are using JavaScript for the pop-up.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Says It’s Okay To Block Some JavaScript Resources With Robots.txt via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-says-its-okay-to-block-some-javascript-resources-with-robots-txt/595736/",
+      "date": "2026-11-03T11:16:50+00:00",
+      "description": "Google's John Mueller said it's okay, within a specific use case, to use robots.txt to hide resources from Googlebot. The post Google Says It&#8217;s Okay To Block Some JavaScript Resources With Robots.txt appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google Lighthouse Update Changes How PageSpeed Insights Simulates Loading via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/pagespeed-insights-scores-lighthouse-update/595698/",
       "date": "2026-11-02T21:52:57+00:00",
-      "description": "A Google Lighthouse update changes how PageSpeed Insights simulates page loads, which can raise lab scores on pages that haven't changed. The post PageSpeed Insights Scores May Rise After Lighthouse Update appeared first on Search Engine Journal .",
+      "description": "A Google Lighthouse update changes how PageSpeed Insights simulates page loads, which can raise lab scores on pages that haven't changed. The post Google Lighthouse Update Changes How PageSpeed Insights Simulates Loading appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -290,18 +398,6 @@
       ]
     },
     {
-      "title": "AI Knows Your Brand – It Rarely Puts You On The Shortlist via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/the-ai-search-measurement-gap-brands-must-close-in-2027-and-beyond/593881/",
-      "date": "2026-10-30T19:00:00+00:00",
-      "description": "Measure whether AI recommends your brand to buyers, fix outdated sources, and turn shortlist visibility into customer relationships your CFO can value. The post AI Knows Your Brand – It Rarely Puts You On The Shortlist appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
       "title": "Google Adopts New AI Training Control",
       "link": "https://www.seroundtable.com/google-ai-training-control-42430.html",
       "date": "2026-10-30T16:50:00+00:00",
@@ -314,106 +410,10 @@
       ]
     },
     {
-      "title": "Discord Member Messages May Start Showing Up In Google In December via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/discord-public-server-chats-search-engines/595224/",
-      "date": "2026-10-30T16:38:30+00:00",
-      "description": "Discord's most public servers will each have a web page that may carry AI summaries and some messages search engines can show. The post Discord Member Messages May Start Showing Up In Google In December appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
       "title": "Microsoft Bing New AI New Controls With AI Training From AI Search Grounding",
       "link": "https://www.seroundtable.com/microsoft-bing-ai-controls-42429.html",
       "date": "2026-10-30T16:15:00+00:00",
       "description": "Microsoft just announced new Bing AI content controls \"offering newer, simpler, and clearer preferences that allow you to make choices about training, grounding, or both while remaining eligible for Bing search results,\" Krishna Madhavan, Principal Product Manager, Microsoft Bing, wrote.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Shopify Now Lets Stores Pay The Company Behind Your AI Shopping Agent via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/shopify-now-lets-stores-pay-the-company-behind-your-ai-shopping-agent/594544/",
-      "date": "2026-10-30T15:30:24+00:00",
-      "description": "Shopify’s catalog returns a commission next to each promoted product’s price and reviews. What an AI agent does with that number depends on its developer. The post Shopify Now Lets Stores Pay The Company Behind Your AI Shopping Agent appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "ChatGPT Gets Wider Ads, Multi-Image Ads Expands, Expansion & More",
-      "link": "https://www.seroundtable.com/chatgpt-ads-update-42427.html",
-      "date": "2026-10-30T15:17:00+00:00",
-      "description": "OpenAI just sent its weekly email update to advertisers announcing the ChatGPT Ads are live in 26 more countries, a new wider standard ad unit format, Multi-image ads are now available in open beta to all advertisers, Shopify integration is now available internationally and Shopify integration is now available internationally.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Daily Search Forum Recap: October 30, 2026",
-      "link": "https://www.seroundtable.com/recap-10-30-2026-42424.html",
-      "date": "2026-10-30T14:00:00+00:00",
-      "description": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Ads in Google AI Mode make Google less per search, but Google has more searches. Google's John Mueller said AI spam tactics will be caught...",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Search News Buzz Video Recap: Google Volatility X2, Spam Updates, AI Overviews Everywhere, Blending Ads & Organic, Google & Microsoft Earnings",
-      "link": "https://www.seroundtable.com/video-10-30-2026-42418.html",
-      "date": "2026-10-30T12:01:00+00:00",
-      "description": "This week, we reported on Google Search volatility not once but twice this week. Google warned tools on user-generated spam guidelines. Google downplayed the importance of fresh indexing reporting. Google explained...",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google AI Overviews & AI Mode 0.9% Click-Through Rate, Opt Out Study Says",
-      "link": "https://www.seroundtable.com/google-ai-overviews-mode-ctr-42421.html",
-      "date": "2026-10-30T11:51:00+00:00",
-      "description": "Everyone has been asking, what is the click-through rate you get from Google Search AI features such as AI Overviews and AI Mode. Well, a new small study says the click-through rate is about 0.9%. The study also showed that when you opt out of showing in Google's Search generative AI, it also leads to a drop in clicks in the main web results.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Bing Showing Ads Within AI Overviews",
-      "link": "https://www.seroundtable.com/bing-ads-copilot-ai-overviews-42416.html",
-      "date": "2026-10-30T11:41:00+00:00",
-      "description": "Microsoft is now showing ads within the Bing AI Overviews powered by Copilot. I don't think I've seen ads within the AI responses in Bing Search and I personally still cannot trigger them, but Khushal Bherwani shared a screenshot of an ad within an AI Overview in Bing Search.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google & Bing Halloween Search Easter (Pumpkin) Eggs",
-      "link": "https://www.seroundtable.com/google-bing-halloween-search-easter-eggs-42415.html",
-      "date": "2026-10-30T11:31:00+00:00",
-      "description": "Halloween is tonight/tomorrow and to celebrate both Google and Bing has special easter eggs (or should I call them pumpkins) for its search results. Google asks you to find a costume using AI Mode, which is boring. But Bing has a floating ghost that explodes into candy when you tap it.",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
