@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-03T20:59:51.838473+00:00",
+  "updatedAt": "2026-11-04T01:22:57.138807+00:00",
   "items": [
+    {
+      "title": "Google Updates Crawled - Currently Not Indexed Details",
+      "link": "https://www.seroundtable.com/google-updates-crawled-currently-not-indexed-42450.html",
+      "date": "2026-11-03T21:15:00+00:00",
+      "description": "Google has updated the page indexing report help documentation, specifically the \"Crawled - currently not indexed\" section. It now says Google doesn't index all pages, this is a common message, it doesn't necessarily indicate an issue and more.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google’s Search Volume Is About 5x ChatGPT’s, OpenAI Says via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/googles-search-volume-is-about-5x-chatgpts-openai-says/595817/",
+      "date": "2026-11-03T21:13:38+00:00",
+      "description": "ChatGPT's search-like queries equal about a fifth of Google's volume, its maker says, counting each question that sends it to the web. Traffic data differs. The post Google&#8217;s Search Volume Is About 5x ChatGPT&#8217;s, OpenAI Says appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
     {
       "title": "Google’s Q3 2026 Earnings Call: Search & AI Are Merging Into One Unified Product via @sejournal, @marie_haynes",
       "link": "https://www.searchenginejournal.com/googles-q3-2026-earnings-call-search-ai-are-merging-into-one-unified-product/595484/",
@@ -362,18 +386,6 @@
       ]
     },
     {
-      "title": "Reddit Stock Drops 33% After CEO Confirms Declining Google Search Traffic",
-      "link": "https://www.seroundtable.com/reddit-stock-drops-declining-google-search-traffic-42432.html",
-      "date": "2026-11-02T12:21:00+00:00",
-      "description": "Reddit's stock dropped 36% over the past week after Reddit's CEO, Steve Huffman, confirmed Google Search traffic has been declining for the popular social media site. Of course, every SEO on this planet knew this would happen eventually, and it did.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Google Says Technical SEO Remains Key For AI SEO via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/google-says-technical-seo-remains-key-for-ai-seo/595550/",
       "date": "2026-11-02T10:55:11+00:00",
@@ -402,18 +414,6 @@
       "link": "https://www.searchenginejournal.com/debugbear-rum-attack-seo-site-owner-actions/595412/",
       "date": "2026-10-31T21:11:41+00:00",
       "description": "DebugBear told customers to remove its Core Web Vitals monitoring script. Site owners should also check exposed accounts and unauthorized changes. The post Hackers Hijacked DebugBear&#8217;s DNS To Serve Malicious JavaScript appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Spam Guide Update, Restaurant Controls & AI Mode Revenue – SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-spam-guide-restaurant-controls-ai-mode-revenue/595031/",
-      "date": "2026-10-31T12:00:00+00:00",
-      "description": "Google's spam guide adds indexing advice for pages made for sharing. Other updates cover restaurant ordering controls, report dates and AI Mode revenue. The post Spam Guide Update, Restaurant Controls &#038; AI Mode Revenue – SEO Pulse appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
