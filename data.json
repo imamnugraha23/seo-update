@@ -1,6 +1,78 @@
 {
-  "updatedAt": "2026-11-04T16:20:10.390818+00:00",
+  "updatedAt": "2026-11-04T22:14:03.979051+00:00",
   "items": [
+    {
+      "title": "Google Emails: Site Reputation Policy Manual Actions No Longer Impact EEA",
+      "link": "https://www.seroundtable.com/google-email-site-reputation-policy-eea-42462.html",
+      "date": "2026-11-04T21:19:00+00:00",
+      "description": "Google just sent out emails to some sites that have site reputation abuse policy manual actions that those manual actions won't impact the search results within the EEA, European Economic Area. This actually took effect on August 30, 2026, but now, two months later, Google is notifying site owners via Google Search Console.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Reddit Begins Testing Ads In Its Own Search Results via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/reddit-begins-testing-ads-in-its-own-search-results/595935/",
+      "date": "2026-11-04T21:00:39+00:00",
+      "description": "Reddit is testing ads in its own search results with select advertisers and may match ads to what people search for. The post Reddit Begins Testing Ads In Its Own Search Results appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Businesses Treat Your AI Agent 3 Different Ways via @sejournal, @slobodanmanic",
+      "link": "https://www.searchenginejournal.com/businesses-treat-your-ai-agent-3-different-ways/595483/",
+      "date": "2026-11-04T20:00:33+00:00",
+      "description": "If a website cannot tell an AI agent from the customer, it cannot treat the agent differently. Three steps to fix that before agents arrive. The post Businesses Treat Your AI Agent 3 Different Ways appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google AI Mode Adds Booking & Quote Links For Home Services via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-ai-mode-home-services-booking-quote-links/595871/",
+      "date": "2026-11-04T19:34:49+00:00",
+      "description": "AI Mode now links home service searches to booking and quote pages. Here's how businesses reach those pages and what partners say about lead fees. The post Google AI Mode Adds Booking &#038; Quote Links For Home Services appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Reach Is Losing As A Paid Media KPI: 4 Signals From Jupiter Festival Miami For 2027 via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/reach-is-losing-as-a-paid-media-kpi-4-signals-from-jupiter-festival-miami-for-2027/595221/",
+      "date": "2026-11-04T18:00:49+00:00",
+      "description": "Build your 2027 paid media plan around attention, creators, and streaming, while testing whether new metrics drive incremental sales. The post Reach Is Losing As A Paid Media KPI: 4 Signals From Jupiter Festival Miami For 2027 appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google Search Console Performance Report Multi-Select Device Filters",
+      "link": "https://www.seroundtable.com/google-performance-report-multi-select-device-filters-42457.html",
+      "date": "2026-11-04T15:01:00+00:00",
+      "description": "Google Search Console has rolled out the ability to select multiple device types within the performance report. Previously, Google added multi-select ability for countries in that report, and now we can do the same for device types.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "The 11 SEO Features Every CMS Should Ship With (Most Still Don’t) via @sejournal, @sallymills",
       "link": "https://www.searchenginejournal.com/the-11-seo-features-every-cms-should-ship-with-most-still-dont/594074/",
@@ -11,6 +83,18 @@
         "SEO",
         "AI Search",
         "Ads"
+      ]
+    },
+    {
+      "title": "Daily Search Forum Recap: November 4, 2026",
+      "link": "https://www.seroundtable.com/recap-11-04-2026-42452.html",
+      "date": "2026-11-04T15:00:00+00:00",
+      "description": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google Search Console's performance report is showing a spike in clicks for some websites...",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
       ]
     },
     {
@@ -194,10 +278,10 @@
       ]
     },
     {
-      "title": "Google Favors High Ad Strength RSAs, But Lower-Rated Ads Convert Better via @sejournal, @gregjarboe",
+      "title": "5,900 Google Ads Accounts Show Ad Strength Wins Impressions – Not Conversions via @sejournal, @gregjarboe",
       "link": "https://www.searchenginejournal.com/google-favors-high-ad-strength-rsas-but-lower-rated-ads-convert-better/595478/",
       "date": "2026-11-03T15:00:44+00:00",
-      "description": "Google serves higher-rated responsive search ads more often, yet Brad Geddes’ 5,900-account study finds they convert better only 45% of the time. Pinning explains why. The post Google Favors High Ad Strength RSAs, But Lower-Rated Ads Convert Better appeared first on Search Engine Journal .",
+      "description": "Google serves higher-rated responsive search ads more often, yet Brad Geddes’ 5,900-account study finds they convert better only 45% of the time. Pinning explains why. The post 5,900 Google Ads Accounts Show Ad Strength Wins Impressions – Not Conversions appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -230,10 +314,10 @@
       ]
     },
     {
-      "title": "Building A Global Content Factory With AI (Without Losing The Human Touch) via @sejournal, @motokohunt",
+      "title": "How To Scale AI Content Across 40 Markets Without Sounding The Same via @sejournal, @motokohunt",
       "link": "https://www.searchenginejournal.com/building-a-global-content-factory-with-ai-without-losing-the-human-touch/593904/",
       "date": "2026-11-03T13:00:01+00:00",
-      "description": "Scale an AI content factory without erasing local relevance by grounding each market's pages in approved facts, local evidence, and human judgment. The post Building A Global Content Factory With AI (Without Losing The Human Touch) appeared first on Search Engine Journal .",
+      "description": "Scale an AI content factory without erasing local relevance by grounding each market's pages in approved facts, local evidence, and human judgment. The post How To Scale AI Content Across 40 Markets Without Sounding The Same appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -258,42 +342,6 @@
       "link": "https://www.seroundtable.com/google-removing-ai-mode-42436.html",
       "date": "2026-11-03T12:41:00+00:00",
       "description": "Google is supposedly testing removing the AI Mode button from the Google Search bar. I cannot replicate this, but it doesn't surprise me that Google would test removing the AI Mode bar for a tiny subset of searchers to compare how it performs versus when the AI Mode button is available.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Only Home Page Indexed? Might Be A Google Search Quality Issue",
-      "link": "https://www.seroundtable.com/google-quality-issues-home-page-indexed-42439.html",
-      "date": "2026-11-03T12:31:00+00:00",
-      "description": "Is your home page the only page indexed by Google Search? Were other pages of your site previously indexed and are no longer showing up in Google's index? Well, that might be a Google Search quality issue with your website.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads PMax Campaigns May Filter Out Navigational & Brand Queries",
-      "link": "https://www.seroundtable.com/google-ads-pmax-brand-queries-42438.html",
-      "date": "2026-11-03T12:21:00+00:00",
-      "description": "Google Ads updated its How Performance Max interacts with other campaigns in your account help document to add a new section on how \"Performance Max campaigns may also filter out navigational or brand-specific search queries to prioritize serving them through dedicated Search campaigns.\"",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads Asset Scheduling With Day Grouping (Weekends/Weekdays)",
-      "link": "https://www.seroundtable.com/google-ads-asset-scheduling-day-grouping-42433.html",
-      "date": "2026-11-03T12:11:00+00:00",
-      "description": "Google Ads improved the asset scheduling advanced options to let you group days, such as weekends versus weekdays and more. This can be found under the advanced options within asset scheduling in Google Ads.",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
@@ -378,54 +426,6 @@
       "link": "https://www.searchenginejournal.com/google-ai-click-reporting-uk-deadline/595663/",
       "date": "2026-11-02T19:21:56+00:00",
       "description": "Google says it has nothing to announce on adding more AI search data to Search Console, ahead of a UK compliance date. The post Google Says No AI Click Reporting News Yet, Ahead Of UK Deadline appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "How To Run A Full-Funnel Ecommerce Account Through BFCM Week via @sejournal, @tonyadam",
-      "link": "https://www.searchenginejournal.com/how-to-run-a-full-funnel-ecommerce-account-through-bfcm-week/594047/",
-      "date": "2026-11-02T15:00:59+00:00",
-      "description": "Build demand before BFCM, give Google room to capture peak sales, and turn holiday visitors into December buyers with a phased ad strategy. The post How To Run A Full-Funnel Ecommerce Account Through BFCM Week appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Google Search Ad Visits Out-Earned ChatGPT Ads In U.S. via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-search-chatgpt-ad-revenue-per-visit/595596/",
-      "date": "2026-11-02T14:41:23+00:00",
-      "description": "Data finds ChatGPT ad visits brought advertisers a fraction of paid search's revenue per visit in U.S. traffic, and most saw no sales from them. The post Google Search Ad Visits Out-Earned ChatGPT Ads In U.S. appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "3 AI Models Shopped Shopify’s Catalog – Each Picked A Different Winner via @sejournal, @slobodanmanic",
-      "link": "https://www.searchenginejournal.com/3-ai-models-shopped-shopifys-catalog-each-picked-a-different-winner/594298/",
-      "date": "2026-11-02T13:00:14+00:00",
-      "description": "Google rankings are a black box a store can still watch. The AI shopping decision layer is a black box with nothing to monitor. The post 3 AI Models Shopped Shopify’s Catalog – Each Picked A Different Winner appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Google Says Technical SEO Remains Key For AI SEO via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/google-says-technical-seo-remains-key-for-ai-seo/595550/",
-      "date": "2026-11-02T10:55:11+00:00",
-      "description": "Google's John Mueller cautioned against relying on short-term AI SEO tactics and explained why traditional technical SEO remains relevant. The post Google Says Technical SEO Remains Key For AI SEO appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
