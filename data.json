@@ -1,6 +1,162 @@
 {
-  "updatedAt": "2026-11-06T11:32:15.585676+00:00",
+  "updatedAt": "2026-11-06T18:30:02.289300+00:00",
   "items": [
+    {
+      "title": "Google Gemini Business Profile Tools Are Coming To Workspace via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-gemini-business-profile-workspace-2/596120/",
+      "date": "2026-11-06T17:18:34+00:00",
+      "description": "Google says Gemini's Business Profile tools are coming to Workspace accounts and moves the Maps Message button. Its help page no longer lists region limits. The post Google Gemini Business Profile Tools Are Coming To Workspace appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "TikTok Search Ads Are Becoming Real Search Advertising via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/tiktok-search-ads-are-becoming-real-search-advertising/596016/",
+      "date": "2026-11-06T15:35:29+00:00",
+      "description": "TikTok's search ads carry match types, negatives, keyword bids, and impression share. Here's what carries over for a paid search team, and what doesn't. The post TikTok Search Ads Are Becoming Real Search Advertising appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "OpenAI Working On ChatGPT Tools For Business For Analytics & Citations",
+      "link": "https://www.seroundtable.com/chatgpt-tools-for-business-42476.html",
+      "date": "2026-11-06T15:32:00+00:00",
+      "description": "OpenAI is developing a Search Console- or Webmaster Tools-like tool that lets businesses manage and track their success on ChatGPT. This tool will let you \"Claim your business in ChatGPT.\"",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "AI Visibility Isn’t A Sham – Most Ways Of Measuring It Are via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/ai-visibility-isnt-a-sham-most-ways-of-measuring-it-are/594405/",
+      "date": "2026-11-06T15:00:32+00:00",
+      "description": "Make AI visibility budgets defensible by testing dashboard scores against customer behavior and measuring exposure, recall, and consideration. The post AI Visibility Isn’t A Sham – Most Ways Of Measuring It Are appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Daily Search Forum Recap: November 6, 2026",
+      "link": "https://www.seroundtable.com/recap-11-06-2026-42474.html",
+      "date": "2026-11-06T15:00:00+00:00",
+      "description": "Here is a recap of what happened in the search forums today...",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Search News Buzz Video Recap: Google Scaled Content Abuse From Facebook, ChatGPT Search 20% Of Google & More SEO, PPC & Local",
+      "link": "https://www.seroundtable.com/video-11-06-2026-42469.html",
+      "date": "2026-11-06T13:01:00+00:00",
+      "description": "This week, we covered Facebook's latest AI-slop strategy that likely will get hit by Google's scaled content abuse policy. Google said important URLs can still show in Google Search even after a 400 status...",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Business Profiles Manage Offers Help Document",
+      "link": "https://www.seroundtable.com/google-business-profiles-manage-offers-42471.html",
+      "date": "2026-11-06T12:51:00+00:00",
+      "description": "Google has created a new help document named Manage offers on your Business Profile. Offers in Google Business Profiles is available only in select regions and languages and these can be created through Offers Post or special offers discovered through linked social media profiles.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google AI Mode Asking Searchers To Continue With This Search",
+      "link": "https://www.seroundtable.com/google-ai-mode-continue-with-this-search-42475.html",
+      "date": "2026-11-06T12:42:00+00:00",
+      "description": "Google is now asking searchers to \"continue with this search\" when they go to AI Mode. This is a way to encourage searchers who started a search in AI Mode to continue and do more searches. You know, because Google needs more searches to show more ads, to make more money.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Shopping Dominating The European Product Search Results",
+      "link": "https://www.seroundtable.com/google-shopping-eu-dma-42456.html",
+      "date": "2026-11-06T12:41:00+00:00",
+      "description": "As you know, Google dropped its free product listings in Europe because of the Digital Markets Act. Google called it the biggest reduction in search quality in its history. But data from BrightEdge says that Google Shopping appears 16 to 35 times more often than the next",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Pushing AI Mode Users To Opt In To Personal Intelligence",
+      "link": "https://www.seroundtable.com/google-personal-intelligence-popup-42468.html",
+      "date": "2026-11-06T12:31:00+00:00",
+      "description": "Google is throwing up pop-up notifications in AI Mode to encourage searchers to turn on Personal Intelligence. The pop-up says \"Supercharge Search with Personal Intelligence\" with a blue continue button to configure it.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Bing Search AI Visual Summary Snippet",
+      "link": "https://www.seroundtable.com/bing-search-ai-visual-summary-42455.html",
+      "date": "2026-11-06T12:21:00+00:00",
+      "description": "Microsoft Bing has a new AI feature in its search results named \"AI visual summary.\" This AI visual summary button is appended to an individual search snippet and when you click on it, it loads a an AI-generated graphic summarizing the page's content.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Confirms Issues With Merchant Center, API & Feeds",
+      "link": "https://www.seroundtable.com/google-confirms-issues-with-merchant-center-42473.html",
+      "date": "2026-11-06T12:16:00+00:00",
+      "description": "Google has confirmed there is an ongoing issue right now with Google Merchant Center. The issue is with Merchant API, Merchant Center, and Feeds, Google posted at 5:26 am ET on the Google Merchant Center status page.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Expands Business Messaging To Google Maps On iOS & Android",
+      "link": "https://www.seroundtable.com/google-maps-messaging-android-ios-42472.html",
+      "date": "2026-11-06T12:11:00+00:00",
+      "description": "Google published its monthly \"Google Small Business Bulletin\" where it gives tips and recaps what new features launched in Google Maps and Google Business Profiles. We covered most of it but I think we missed that Google expanded messaging to Google Maps on iOS and Android.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "FTC Unseals Details In Amazon Ads Auction Surcharge Suit via @sejournal, @brookeosmundson",
       "link": "https://www.searchenginejournal.com/ftc-unseals-details-amazon-ads-auction-surcharge-suit/596010/",
@@ -134,18 +290,6 @@
       ]
     },
     {
-      "title": "Google AI Mode Integrates With Home Services Booking",
-      "link": "https://www.seroundtable.com/google-ai-mode-home-services-booking-42459.html",
-      "date": "2026-11-05T12:31:00+00:00",
-      "description": "Google has added home services booking integration within AI Mode. Google has partnered with partners like Angi Home, Thumbtack, Housecall, and GetJobber and will add ServiceTitan soon. It works as expected, Google adds booking buttons to the home services listing within the AI Mode results.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Google Explains How Redirects Affect Ranking Signals via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/google-explains-how-redirects-affect-ranking-signals/595967/",
       "date": "2026-11-05T12:23:47+00:00",
@@ -155,54 +299,6 @@
         "SEO",
         "AI Search",
         "Ads"
-      ]
-    },
-    {
-      "title": "Google Can Temporarily Protect Important URLs From Being Deindexed",
-      "link": "https://www.seroundtable.com/google-protected-important-urls-index-42464.html",
-      "date": "2026-11-05T12:21:00+00:00",
-      "description": "Gary Illyes from Google said that when important URLs serve a 4xx status code, Google Search can \"temporarily protect the URL from falling out of the index right away.\" Meaning, Google Search will still show the URL in Google Search, for a short while, just to make sure searchers can still find it.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Business Profiles Car Dealership Inventory Limited Pilot",
-      "link": "https://www.seroundtable.com/google-business-profiles-car-dealership-inventory-42465.html",
-      "date": "2026-11-05T12:15:00+00:00",
-      "description": "Google Business Profiles is testing a \"new feature pilot\" for car dealership inventory, which has limited availability. This seems different from Google's previous local car listings and inventory options. Google added this to the help documentation under the title \"Car dealership inventory (limited availability)\" within how to edit your profile.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Search Profiles Spotted Adding LinkedIn",
-      "link": "https://www.seroundtable.com/google-search-profiles-adds-linkedin-42458.html",
-      "date": "2026-11-05T12:11:00+00:00",
-      "description": "Google Search Profiles officially supports YouTube, TikTok, Instagram and X, plus you can also add Facebook and your website. But now some are seeing Google add LinkedIn as well.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads Gains A New Telemedicine Certification Option",
-      "link": "https://www.seroundtable.com/google-ads-telemedicine-certification-42460.html",
-      "date": "2026-11-05T12:05:00+00:00",
-      "description": "Google Ads announced that in addition to the original telemedicine certification options, Google is adding a new one from the National Association of Boards of Pharmacy (NABP)'s Healthcare Merchant Accreditation Program. This goes into effect this month, November 2026.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -242,34 +338,10 @@
       ]
     },
     {
-      "title": "Google Ads Explains Difference With Search Terms Match Type (Keywords)",
-      "link": "https://www.seroundtable.com/google-ads-search-terms-match-type-keywords-42463.html",
-      "date": "2026-11-04T22:45:00+00:00",
-      "description": "Ginny Marvin, the Google Ads Liaison, explained why the Google Ads interface has two different metrics named search terms match type. One is named \"Search terms match type\" and the other is named \"Search terms match type (Keywords).\"",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Emails: Site Reputation Policy Manual Actions No Longer Impact EEA",
-      "link": "https://www.seroundtable.com/google-email-site-reputation-policy-eea-42462.html",
-      "date": "2026-11-04T21:19:00+00:00",
-      "description": "Google just sent out emails to some sites that have site reputation abuse policy manual actions that those manual actions won't impact the search results within the EEA, European Economic Area. This actually took effect on August 30, 2026, but now, two months later, Google is notifying site owners via Google Search Console.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Reddit Begins Testing Ads In Its Own Search Results via @sejournal, @MattGSouthern",
+      "title": "Reddit Adds Ads To Search, Expands Keyword Targeting via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/reddit-begins-testing-ads-in-its-own-search-results/595935/",
       "date": "2026-11-04T21:00:39+00:00",
-      "description": "Reddit is testing ads in its own search results with select advertisers and may match ads to what people search for. The post Reddit Begins Testing Ads In Its Own Search Results appeared first on Search Engine Journal .",
+      "description": "Reddit is testing ads in its own search results with select advertisers and may match ads to what people search for. The post Reddit Adds Ads To Search, Expands Keyword Targeting appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -314,18 +386,6 @@
       ]
     },
     {
-      "title": "Google Search Console Performance Report Multi-Select Device Filters",
-      "link": "https://www.seroundtable.com/google-performance-report-multi-select-device-filters-42457.html",
-      "date": "2026-11-04T15:01:00+00:00",
-      "description": "Google Search Console has rolled out the ability to select multiple device types within the performance report. Previously, Google added multi-select ability for countries in that report, and now we can do the same for device types.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Your CMS Is Still Failing SEO Basics – 11 Fixes To Demand via @sejournal, @sallymills",
       "link": "https://www.searchenginejournal.com/the-11-seo-features-every-cms-should-ship-with-most-still-dont/594074/",
       "date": "2026-11-04T15:00:12+00:00",
@@ -335,30 +395,6 @@
         "SEO",
         "AI Search",
         "Ads"
-      ]
-    },
-    {
-      "title": "Daily Search Forum Recap: November 4, 2026",
-      "link": "https://www.seroundtable.com/recap-11-04-2026-42452.html",
-      "date": "2026-11-04T15:00:00+00:00",
-      "description": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google Search Console's performance report is showing a spike in clicks for some websites...",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Microsoft Clarity With New Agentic Analytics & Ask Clarity",
-      "link": "https://www.seroundtable.com/microsoft-clarity-gains-agentic-analytics-and-ask-clarity-42449.html",
-      "date": "2026-11-04T14:00:00+00:00",
-      "description": "Microsoft Clarity added two, well, three, new features today, including agentic analytics, ask Clarity, and brand agent expansion. Microsoft also said, \"AI agents nearly doubled in three weeks to almost 2 million,\" 3 weeks!!!",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -390,42 +426,6 @@
       "link": "https://www.searchenginejournal.com/googles-search-volume-is-about-5x-chatgpts-openai-says/595817/",
       "date": "2026-11-03T21:13:38+00:00",
       "description": "ChatGPT's search-like queries equal about a fifth of Google's volume, its maker says, counting each question that sends it to the web. Traffic data differs. The post Google&#8217;s Search Volume Is About 5x ChatGPT&#8217;s, OpenAI Says appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Google’s Q3 2026 Earnings Call: Search & AI Are Merging Into One Unified Product via @sejournal, @marie_haynes",
-      "link": "https://www.searchenginejournal.com/googles-q3-2026-earnings-call-search-ai-are-merging-into-one-unified-product/595484/",
-      "date": "2026-11-03T20:00:43+00:00",
-      "description": "SEOs, buckle up. Google says expect rapid improvement from recursive self-improvement, and Search is becoming an agent manager. The post Google&#8217;s Q3 2026 Earnings Call: Search &#038; AI Are Merging Into One Unified Product appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Google Ad Tags In Server-Side GTM To Get Full IP Addresses via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-ad-tags-in-server-side-gtm-to-get-full-ip-addresses/595807/",
-      "date": "2026-11-03T19:30:00+00:00",
-      "description": "Google says ad tags in server-side Tag Manager will accept full IP addresses while Analytics tags stay redacted. Here's what changes and how to redact. The post Google Ad Tags In Server-Side GTM To Get Full IP Addresses appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "How To Create Demand You Can Actually Convert (And Prove) via @sejournal, @duchessjenm",
-      "link": "https://www.searchenginejournal.com/how-to-create-demand-you-can-actually-convert-and-prove-recap/595044/",
-      "date": "2026-11-03T19:04:28+00:00",
-      "description": "Discover effective strategies to generate demand and measure results for your B2B marketing campaigns successfully. The post How To Create Demand You Can Actually Convert (And Prove) appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
