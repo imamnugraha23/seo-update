@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-11-08T13:26:22.490275+00:00",
+  "updatedAt": "2026-11-08T18:30:17.502563+00:00",
   "items": [
+    {
+      "title": "Cloudflare CEO Likens AI Agent Optimization To A New Version Of SEO via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/cloudflare-ai-agent-optimization-new-seo/596248/",
+      "date": "2026-11-08T18:07:49+00:00",
+      "description": "Cloudflare's CEO says OpenAI pays for hints that tell its crawler when pages change, and sites may charge agents less when they explain their visits. The post Cloudflare CEO Likens AI Agent Optimization To A New Version Of SEO appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
     {
       "title": "Google Rank Data Issues, Lighthouse Update & AI Opt-Out – SEO Pulse via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/seo-pulse-rank-data-problems-pagespeed-scores-ai-training-opt-out/596104/",
@@ -402,18 +414,6 @@
       "link": "https://www.searchenginejournal.com/reach-is-losing-as-a-paid-media-kpi-4-signals-from-jupiter-festival-miami-for-2027/595221/",
       "date": "2026-11-04T18:00:49+00:00",
       "description": "Build your 2027 paid media plan around attention, creators, and streaming, while testing whether new metrics drive incremental sales. The post Reach Is No Longer The KPI: 4 Signals From Jupiter Festival Miami That Reset 2027 Media Budgets appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Your CMS Is Still Failing SEO Basics – 11 Fixes To Demand via @sejournal, @sallymills",
-      "link": "https://www.searchenginejournal.com/the-11-seo-features-every-cms-should-ship-with-most-still-dont/594074/",
-      "date": "2026-11-04T15:00:12+00:00",
-      "description": "Cut recurring developer tickets with essential CMS SEO controls, smarter automation, and safeguards against indexing and redirect mistakes. The post Your CMS Is Still Failing SEO Basics – 11 Fixes To Demand appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
