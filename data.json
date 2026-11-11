@@ -1,12 +1,156 @@
 {
-  "updatedAt": "2026-11-11T10:59:02.314614+00:00",
+  "updatedAt": "2026-11-11T18:42:41.019196+00:00",
   "items": [
+    {
+      "title": "Google: How Moving to a CDN Can Accidentally Overwhelm Your Website",
+      "link": "https://www.seroundtable.com/google-search-cdn-42511.html",
+      "date": "2026-11-11T15:55:00+00:00",
+      "description": "Gary Illyes and Chery Prommawin released the final video in the Non-Canonical Cabinet series, this one is on CDNs, content delivery networks. They discuss why migrating a website to a CDN can suddenly increase Googlebot crawling activity, why this may overload your origin server, and how to avoid accidentally blocking Google's crawlers.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Visibility Gets You On The List, Evidence Helps You Stay There via @sejournal, @billhunt",
+      "link": "https://www.searchenginejournal.com/visibility-gets-you-on-the-list-evidence-helps-you-stay-there/592127/",
+      "date": "2026-11-11T15:00:59+00:00",
+      "description": "AI visibility can hide evidence gaps that weaken recommendations as buyers evaluate integrations, workflows, and outcomes. The post Visibility Gets You On The List, Evidence Helps You Stay There appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Daily Search Forum Recap: November 11, 2026",
+      "link": "https://www.seroundtable.com/recap-11-11-2026-42509.html",
+      "date": "2026-11-11T15:00:00+00:00",
+      "description": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google has begun the rollout of the November 2026 core update...",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Discovers Unexpected Patterns In AI Image Generation via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-discovers-unexpected-patterns-in-ai-image-generation/596745/",
+      "date": "2026-11-11T14:18:51+00:00",
+      "description": "Google analyzed millions of Nano Banana prompts and found how businesses are using it for marketing. The post Google Discovers Unexpected Patterns In AI Image Generation appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google Ads Gives You More Channel Control – But Not As Much As You Think via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/google-ads-gives-you-more-channel-control-but-not-as-much-as-you-think/596266/",
+      "date": "2026-11-11T13:00:37+00:00",
+      "description": "Curb unwanted Google Ads spending without losing valuable conversions by understanding where channel priorities and budget allocation limits give you control. The post Google Ads Gives You More Channel Control – But Not As Much As You Think appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "New Google Ads Overview Page: Customer Journey Insights",
+      "link": "https://www.seroundtable.com/google-ads-customer-journey-insights-42510.html",
+      "date": "2026-11-11T12:51:00+00:00",
+      "description": "Google Ads posted a new help document about customer journey insights. \"Customer Journey Insights is a new Google Ads Overview page reporting card pilot for eligible advertisers. It provides transparency into how your campaigns move users across conversion journey stages,\" Google wrote.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Crawled/Discovered - Currently Not Indexed A Site Quality Issue",
+      "link": "https://www.seroundtable.com/google-crawled-discovered-currently-not-indexed-42507.html",
+      "date": "2026-11-11T12:41:00+00:00",
+      "description": "This is not new, but hey, John Mueller from Google said it again, getting a status of Crawled/Discovered - Currently Not Indexed within Google Search Console's page indexing report may be a sign that Google doesn't think your site or those pages are high-quality enough to index.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads Visit Site Link In Mobile Search Ad Description",
+      "link": "https://www.seroundtable.com/google-ads-visit-site-description-42444.html",
+      "date": "2026-11-11T12:31:00+00:00",
+      "description": "Google Ads is also adding the Visit site link in the mobile ad descriptions for search ads. We saw them on the desktop ads with a Visit site button and also on organic results search and now also as a plain text anchor link in the mobile ad descriptions.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Merchant Loyalty Program New Eligibility Requirements",
+      "link": "https://www.seroundtable.com/google-merchant-loyalty-program-eligibility-42495.html",
+      "date": "2026-11-11T12:21:00+00:00",
+      "description": "Google has posted new eligibility requirements for the merchant loyalty program. As a reminder, Loyalty is an add-on feature in the Merchant Center for merchants with an existing loyalty program who want to showcase its benefits on Google.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads Performance Max Page Feeds Updated",
+      "link": "https://www.seroundtable.com/google-ads-performance-max-page-feeds-update-42503.html",
+      "date": "2026-11-11T12:11:00+00:00",
+      "description": "Google Ads has updated its Page feeds section for Performance Max campaigns to help advertisers understand how it works. These changes look like they should make it easier for advertisers to know which pages to feed to the ad algorithms.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads Brand Lists Global Brand Library",
+      "link": "https://www.seroundtable.com/google-ads-brand-lists-library-42506.html",
+      "date": "2026-11-11T12:05:00+00:00",
+      "description": "Google updated its About brand settings for Search and Performance Max help document to clarify how to manage brands within your brand list. Specifically, Google said, \"Google's brand library uses single, global canonical brands rather than individual localized or regional variants.\"",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Google Loses Another Round in Legal Battle Against SerpApi Over Scraping",
       "link": "https://www.seroundtable.com/google-loses-again-against-serpapi-42508.html",
       "date": "2026-11-11T00:09:00+00:00",
       "description": "Google has lost again in SerpApi's scraping legal fight in court, with the court giving Google 21 days to amend its complaint. But this is a major win for SerpApi and this case seems like it might be coming to a close soon.",
       "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Moving to a CDN without overwhelming your origin (or blocking Googlebot)",
+      "link": "https://developers.google.com/search/blog/2026/11/crawling-cdn",
+      "date": "2026-11-11T00:00:00+00:00",
+      "description": "Deploying a Content Delivery Network (CDN) to distribute your site&#39;s assets across fast, globally distributed edge servers closer to users can be a major upgrade for any growing site: it lowers visitor latency and shields your origin server (the backend source of truth holding your original content) from heavy traffic.",
+      "source": "Google Search Central",
       "tags": [
         "Google",
         "SEO",
@@ -38,10 +182,10 @@
       ]
     },
     {
-      "title": "Google Expands Ads In AI Mode To 10+ Countries, Adds Multiturn Ads via @sejournal, @brookeosmundson",
+      "title": "Google Ads Now Runs In AI Mode Across 10 More Countries via @sejournal, @brookeosmundson",
       "link": "https://www.searchenginejournal.com/google-expands-ads-in-ai-mode-multiturn-ads/596540/",
       "date": "2026-11-10T19:08:34+00:00",
-      "description": "Google is rolling out English-language ads in AI Mode to more than 10 new countries and launching multiturn ads for follow-up queries in the U.S. The post Google Expands Ads In AI Mode To 10+ Countries, Adds Multiturn Ads appeared first on Search Engine Journal .",
+      "description": "Google is rolling out English-language ads in AI Mode to more than 10 new countries and launching multiturn ads for follow-up queries in the U.S. The post Google Ads Now Runs In AI Mode Across 10 More Countries appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -170,54 +314,6 @@
       ]
     },
     {
-      "title": "Google AI Overview Local Pack Dropping Action Buttons, Photos & Reviews",
-      "link": "https://www.seroundtable.com/google-ai-overview-local-pack-action-buttons-42483.html",
-      "date": "2026-11-10T12:41:00+00:00",
-      "description": "Google is testing removing the action buttons, reviews, photos, etc from the AI Overview version of the local pack. This makes it harder for searchers to visit your website, call your business, get directions and so on, from Google Search.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads: Ads With Pay-Per-Lead Goals Terms",
-      "link": "https://www.seroundtable.com/google-ads-with-pay-per-lead-goals-terms-42490.html",
-      "date": "2026-11-10T12:31:00+00:00",
-      "description": "Google Ads is rolling out a new option named \"Ads with pay-per-lead goals terms.\" Advertisers must opt into this setting to activate it.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Bing Shopping Personalizing Search Results With Questions",
-      "link": "https://www.seroundtable.com/bing-shopping-personalize-questions-42487.html",
-      "date": "2026-11-10T12:21:00+00:00",
-      "description": "Microsoft Bing is testing asking searchers questions to personalize the shopping search results. In a test, Bing will show you questions and say, \"Let's personalize your results,\" then ask you a number of questions to fine-tune your shopping search results.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Filter Google Product Results For Non-Incentivized Reviews",
-      "link": "https://www.seroundtable.com/google-product-non-incentivized-reviews-42491.html",
-      "date": "2026-11-10T12:11:00+00:00",
-      "description": "You can now filter your product results to show non-incentivized reviews only. When you click on a product in the search results, either normal search or AI Mode, the product listing detail panel will show up on the right, and for there, you can filter the reviews to show \"Non-incentivized only.\"",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Meta Pauses Its Updated Business And Ad Terms Due Nov. 20 via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/meta-pauses-updated-business-ad-terms/596493/",
       "date": "2026-11-10T11:30:00+00:00",
@@ -227,18 +323,6 @@
         "SEO",
         "AI Search",
         "Ads"
-      ]
-    },
-    {
-      "title": "ChatGPT Ads While It Creates Your Image Live",
-      "link": "https://www.seroundtable.com/openai-chatgpt-ads-visual-ads-42493.html",
-      "date": "2026-11-10T10:45:00+00:00",
-      "description": "OpenAI announced a month ago that it would release a \"new visual ad format in ChatGPT\" to show ads while ChatGPT makes images for users. Well, that ad format seems to be live - because if you ask ChatGPT to make an image, it will show an ad while the image is being generated.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -302,18 +386,6 @@
       ]
     },
     {
-      "title": "Daily Search Forum Recap: November 9, 2026",
-      "link": "https://www.seroundtable.com/recap-11-09-2026-42485.html",
-      "date": "2026-11-09T15:00:00+00:00",
-      "description": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. OpenAI is working on a ChatGPT like Search Console, we have a screenshot...",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "The New Organic Growth Stack: Search, Social, Communities & AI",
       "link": "https://www.searchenginejournal.com/new-organic-growth-stack-search-social-communities-ai/594542/",
       "date": "2026-11-09T13:00:04+00:00",
@@ -323,30 +395,6 @@
         "SEO",
         "AI Search",
         "Ads"
-      ]
-    },
-    {
-      "title": "Google Search Ranking Volatility Status: Update November 8th/9th?",
-      "link": "https://www.seroundtable.com/google-search-ranking-volatility-november-9th-42486.html",
-      "date": "2026-11-09T12:55:00+00:00",
-      "description": "It's been about two weeks since we reported on a Google Search ranking update, whether confirmed or unconfirmed. But the truth is, the October 27th update lingered on for like a full week. Since then, ranking volatility has been relatively calm, but that may be changing over the past 24 hours.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google AI Mode Multiturn Ads Are Live - Follow-Up Query Ads",
-      "link": "https://www.seroundtable.com/google-ai-mode-multiturn-ads-42478.html",
-      "date": "2026-11-09T12:51:00+00:00",
-      "description": "A couple of weeks ago, Google announced Multiturn ads, ads show up on responses to follow-up user queries. Well, those ads seem live. I was testing AI Mode on Friday afternoon and here are screenshots and videos of Multiturn ads in AI Mode.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -378,42 +426,6 @@
       "link": "https://www.searchenginejournal.com/create-more-helpful-content-for-ai-search-with-9-practical-workflows-webinar/596241/",
       "date": "2026-11-09T06:03:22+00:00",
       "description": "Use AI workflows to turn customer insights into helpful content for AI search and reduce manual publishing and reporting. Join us November 18 at 2 PM ET. The post Create More Helpful Content For AI Search With 9 Practical Workflows [Webinar] appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Tripadvisor Says SEO Will Still Weigh On Growth In 2027 via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/tripadvisor-says-seo-will-still-weigh-on-growth-in-2027/596257/",
-      "date": "2026-11-08T19:09:13+00:00",
-      "description": "Tripadvisor tied a writedown largely to search changes, expects SEO to weigh on growth next year, and says marketing takes more of its revenue. The post Tripadvisor Says SEO Will Still Weigh On Growth In 2027 appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Cloudflare CEO Likens AI Agent Optimization To A New Version Of SEO via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/cloudflare-ai-agent-optimization-new-seo/596248/",
-      "date": "2026-11-08T18:07:49+00:00",
-      "description": "Cloudflare's CEO says OpenAI pays for hints that tell its crawler when pages change, and sites may charge agents less when they explain their visits. The post Cloudflare CEO Likens AI Agent Optimization To A New Version Of SEO appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Google Rank Data Issues, Lighthouse Update & AI Opt-Out – SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-rank-data-problems-pagespeed-scores-ai-training-opt-out/596104/",
-      "date": "2026-11-07T13:00:00+00:00",
-      "description": "Rank data may carry one-word results and redirect URLs. Other updates cover PageSpeed lab scores, a shared AI training opt-out, technical SEO and AI search. The post Google Rank Data Issues, Lighthouse Update &amp; AI Opt-Out – SEO Pulse appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -522,18 +534,6 @@
       "link": "https://developers.google.com/search/blog/2026/07/platform-properties-social-video-guide",
       "date": "2026-07-29T00:00:00+00:00",
       "description": "Earlier this month, we announced platform properties for Search Console, allowing you to track how your social and video posts on Instagram, TikTok, X, and YouTube perform on Google Search, Discover, and Google News. Today, platform properties are globally available to everyone.",
-      "source": "Google Search Central",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "See how content from social and video platforms performs on Google Search",
-      "link": "https://developers.google.com/search/blog/2026/07/search-console-social-video-platforms",
-      "date": "2026-07-07T00:00:00+00:00",
-      "description": "Content creators and publishers use many channels beyond their own websites to reach their audiences. As people gravitate toward firsthand perspectives and different content formats, we want to make it easier for site owners and creators&amp;mdash;even those without their own website&amp;mdash;to get a consolidated view of how all of their content is getting discovered on Search.",
       "source": "Google Search Central",
       "tags": [
         "Google",
