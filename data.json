@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-11T18:42:41.019196+00:00",
+  "updatedAt": "2026-11-12T01:01:33.670876+00:00",
   "items": [
+    {
+      "title": "Google Ads API Version 26.2 Now Out Available",
+      "link": "https://www.seroundtable.com/google-ads-api-version-262-42517.html",
+      "date": "2026-11-11T20:45:00+00:00",
+      "description": "Google Ads has just released a minor update to its Google Ads API - version 26.2. This update touches on assets, campaigns, reporting, and more general updates.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Search AI Overview Definitions Expanded By Default",
+      "link": "https://www.seroundtable.com/google-expanding-definitions-42514.html",
+      "date": "2026-11-11T19:51:00+00:00",
+      "description": "Google is expanding the AI Overviews for definitions by default, where you no longer have to click on \"Show more\" to see the full version of the AI Overview. This is similar to when Google confirmed it dynamically expands some AI Overviews based on the query, but now Google is doing this for all definition searches.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Google: How Moving to a CDN Can Accidentally Overwhelm Your Website",
       "link": "https://www.seroundtable.com/google-search-cdn-42511.html",
@@ -278,18 +302,6 @@
       ]
     },
     {
-      "title": "Daily Search Forum Recap: November 10, 2026",
-      "link": "https://www.seroundtable.com/recap-11-10-2026-42494.html",
-      "date": "2026-11-10T15:00:00+00:00",
-      "description": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google said it can take time for search to understand the unique value of new websites...",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Jon Miller On AI And The Future Of Marketing Automation via @sejournal, @hethr_campbell",
       "link": "https://www.searchenginejournal.com/jon-miller-ai-marketing-automation/596446/",
       "date": "2026-11-10T13:00:26+00:00",
@@ -299,18 +311,6 @@
         "SEO",
         "AI Search",
         "Ads"
-      ]
-    },
-    {
-      "title": "Google: It Can Take Time To Understand The Unique Value Of New Websites",
-      "link": "https://www.seroundtable.com/google-new-sites-time-value-42489.html",
-      "date": "2026-11-10T12:51:00+00:00",
-      "description": "Google's John Mueller said it can take Google Search some time to understand a new site's \"unique value\" and then rank it accordingly. He said on Bluesky in response to a new site not being fully indexed quickly enough, \"It's a fairly new site, and you've been busy with content - it can take time for the systems to understand the unique value of it all.\"",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
