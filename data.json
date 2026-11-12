@@ -1,6 +1,114 @@
 {
-  "updatedAt": "2026-11-12T17:05:59.789448+00:00",
+  "updatedAt": "2026-11-12T22:43:53.168289+00:00",
   "items": [
+    {
+      "title": "Google Ads Rolls Out New Invalid Traffic Overview Card via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/google-ads-rolls-out-new-invalid-traffic-overview-card/597098/",
+      "date": "2026-11-12T21:01:44+00:00",
+      "description": "Google Ads introduces an Invalid Traffic Overview Card showing estimated savings, post-billing credits, and campaign-level reports. Here's what advertisers need to know. The post Google Ads Rolls Out New Invalid Traffic Overview Card appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google Makes Gemini 4 Hydrogen The Default Model In AI Mode via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-gemini-4-hydrogen-default-ai-mode/597096/",
+      "date": "2026-11-12T20:09:18+00:00",
+      "description": "Google made Gemini 4 Hydrogen the default model in AI Mode worldwide and is using it for the hardest AI Overview questions. The post Google Makes Gemini 4 Hydrogen The Default Model In AI Mode appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Does The Affiliate Model Survive Checkout Inside AI Mode And Gemini? – Ask An SEO via @sejournal, @rollerblader",
+      "link": "https://www.searchenginejournal.com/does-the-affiliate-model-survive-checkout-inside-ai-mode-and-gemini-ask-an-seo/585080/",
+      "date": "2026-11-12T20:00:07+00:00",
+      "description": "Affiliate links still help protect your commissions as AI checkout grows, but stronger tracking and better program choices add crucial layers of protection. The post Does The Affiliate Model Survive Checkout Inside AI Mode And Gemini? – Ask An SEO appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google Search Console Generative AI Performance Report Data Bug Nov 9 - 11",
+      "link": "https://www.seroundtable.com/google-generative-ai-performance-report-data-bug-42527.html",
+      "date": "2026-11-12T19:55:00+00:00",
+      "description": "Google has confirmed a data logging bug in the Search Console Generative AI performance report in Search between the dates of November 9 and November 11, 2026 which resulted in a decrease in impressions.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Visits To The Top Million Websites Fell 12%, Data Shows via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/visits-to-the-top-million-websites-fell-12-data-shows/597085/",
+      "date": "2026-11-12T18:43:03+00:00",
+      "description": "Data shows visits to the world's top million websites declined from an earlier peak, visits going to sites outside the top 100 barely changed. The post Visits To The Top Million Websites Fell 12%, Data Shows appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google Search Gets Massive Upgrade With Gemini 4 Hydrogen",
+      "link": "https://www.seroundtable.com/google-search-gemini-4-hydrogen-42526.html",
+      "date": "2026-11-12T18:20:00+00:00",
+      "description": "Google Search has received a \"massive upgrade with Gemini 4 Hydrogen,\" said Nick Fox of Google. \"The biggest model upgrade to Search yet has landed,\" said Robby Stein of Google. It is super fast, has better understanding, improved query fan-out and linking, more visual responses and richer language understanding.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Microsoft Advertising Updates UI Following Advertiser Feedback via @sejournal, @brookeosmundson",
+      "link": "https://www.searchenginejournal.com/microsoft-advertising-updates-ui-following-advertiser-feedback/597078/",
+      "date": "2026-11-12T17:45:26+00:00",
+      "description": "Microsoft Advertising announces UI improvements addressing advertiser feedback, including easier navigation, expanded reporting, sign-in troubleshooting, and account access management. The post Microsoft Advertising Updates UI Following Advertiser Feedback appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "New Google Help Doc Explains How To Identifying Traffic From Google Search",
+      "link": "https://www.seroundtable.com/identify-traffic-from-google-search-42525.html",
+      "date": "2026-11-12T17:08:00+00:00",
+      "description": "Google has published a new help document named Identify Google Search traffic in your web analytics or server logs. This document explains how to see if Google Search is sending you traffic in your own web analytics system or server logs by inspecting the HTTP Referer header.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "OpenAI ChatGPT Ads Updates: Intelligent Bidding, New Cost Targets, Geo-Flexibility & Product Set Filters",
+      "link": "https://www.seroundtable.com/openai-chatgpt-ads-updates-42524.html",
+      "date": "2026-11-12T16:38:00+00:00",
+      "description": "OpenAI just sent out its weekly ChatGPT Ads update email announcing a number of updates including intelligent bidding, new cost targets in Ads Manager, more geographic flexibility for product feed campaigns and more flexible product set filters.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "The Traffic Pool Is Shrinking, And Which Channel Fills It Matters Less Than We Think via @sejournal, @DuaneForrester",
       "link": "https://www.searchenginejournal.com/the-traffic-pool-is-shrinking-and-which-channel-fills-it-matters-less-than-we-think/596346/",
@@ -182,18 +290,6 @@
       ]
     },
     {
-      "title": "Google: How Moving to a CDN Can Accidentally Overwhelm Your Website",
-      "link": "https://www.seroundtable.com/google-search-cdn-42511.html",
-      "date": "2026-11-11T15:55:00+00:00",
-      "description": "Gary Illyes and Chery Prommawin released the final video in the Non-Canonical Cabinet series, this one is on CDNs, content delivery networks. They discuss why migrating a website to a CDN can suddenly increase Googlebot crawling activity, why this may overload your origin server, and how to avoid accidentally blocking Google's crawlers.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Visibility Gets You On The List, Evidence Helps You Stay There via @sejournal, @billhunt",
       "link": "https://www.searchenginejournal.com/visibility-gets-you-on-the-list-evidence-helps-you-stay-there/592127/",
       "date": "2026-11-11T15:00:59+00:00",
@@ -203,18 +299,6 @@
         "SEO",
         "AI Search",
         "Ads"
-      ]
-    },
-    {
-      "title": "Daily Search Forum Recap: November 11, 2026",
-      "link": "https://www.seroundtable.com/recap-11-11-2026-42509.html",
-      "date": "2026-11-11T15:00:00+00:00",
-      "description": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google has begun the rollout of the November 2026 core update...",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -239,30 +323,6 @@
         "SEO",
         "AI Search",
         "Ads"
-      ]
-    },
-    {
-      "title": "New Google Ads Overview Page: Customer Journey Insights",
-      "link": "https://www.seroundtable.com/google-ads-customer-journey-insights-42510.html",
-      "date": "2026-11-11T12:51:00+00:00",
-      "description": "Google Ads posted a new help document about customer journey insights. \"Customer Journey Insights is a new Google Ads Overview page reporting card pilot for eligible advertisers. It provides transparency into how your campaigns move users across conversion journey stages,\" Google wrote.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Crawled/Discovered - Currently Not Indexed A Site Quality Issue",
-      "link": "https://www.seroundtable.com/google-crawled-discovered-currently-not-indexed-42507.html",
-      "date": "2026-11-11T12:41:00+00:00",
-      "description": "This is not new, but hey, John Mueller from Google said it again, getting a status of Crawled/Discovered - Currently Not Indexed within Google Search Console's page indexing report may be a sign that Google doesn't think your site or those pages are high-quality enough to index.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -366,66 +426,6 @@
       "link": "https://www.searchenginejournal.com/meta-pauses-updated-business-ad-terms/596493/",
       "date": "2026-11-10T11:30:00+00:00",
       "description": "Meta paused its updated business and ad terms, leaving existing crawl rights in place for advertisers. The post Meta Pauses Its Updated Business And Ad Terms Due Nov. 20 appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "ChatGPT Ads Is Replacing Max Bid & Max CPC With Cost Targets via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/chatgpt-ads-is-replacing-max-bid-max-cpc-with-cost-targets/596491/",
-      "date": "2026-11-10T10:09:01+00:00",
-      "description": "ChatGPT Ads is replacing manual bid caps with average cost targets, with separate dates for new campaigns, existing campaigns and API partners. The post ChatGPT Ads Is Replacing Max Bid &#038; Max CPC With Cost Targets appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Google Ads Are Reaching Upper-Funnel Searches – But AI Mode Pays Less via @sejournal, @gregjarboe",
-      "link": "https://www.searchenginejournal.com/paid-search-is-moving-up-the-funnel-google-admits-ai-mode-pays-less/595875/",
-      "date": "2026-11-09T20:00:13+00:00",
-      "description": "Protect PPC budgets as Google's AI Mode pushes search earlier in the buying journey, with four account changes to test whether discovery pays. The post Google Ads Are Reaching Upper-Funnel Searches – But AI Mode Pays Less appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Google Ads Tests A Weekly AI Report Card For Your Ad Creative via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-ads-tests-asset-activity-page-with-weekly-ai-insights/596442/",
-      "date": "2026-11-09T16:30:00+00:00",
-      "description": "Some Google Ads accounts show an Asset activity page that uses AI to deliver weekly insight cards on ad creative, including headline ideas to test. The post Google Ads Tests A Weekly AI Report Card For Your Ad Creative appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "SEO Split Testing In 2027: How To Prove A Change Actually Worked",
-      "link": "https://www.searchenginejournal.com/seo-split-testing-prove-change-worked/594529/",
-      "date": "2026-11-09T15:00:42+00:00",
-      "description": "Separate real SEO gains from Google's shifts with fair controls, clear decision rules, and results stakeholders can tie to revenue. The post SEO Split Testing In 2027: How To Prove A Change Actually Worked appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Why An AI Usage Report Stopped Comparing AI With Search Engines via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/ai-76-billion-monthly-sessions-search-comparison/596389/",
-      "date": "2026-11-09T15:00:00+00:00",
-      "description": "Graphite estimates AI assistants reached 76 billion monthly sessions worldwide and says it can no longer reliably compare AI search use with search engines. The post Why An AI Usage Report Stopped Comparing AI With Search Engines appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
