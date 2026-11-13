@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-11-13T18:31:47.827014+00:00",
+  "updatedAt": "2026-11-13T23:53:42.226399+00:00",
   "items": [
+    {
+      "title": "AI Bot Management: Why SEOs Need More Than Block Lists via @sejournal, @chrisgreenseo",
+      "link": "https://www.searchenginejournal.com/ai-bot-management-why-seos-need-more-than-block-lists/597148/",
+      "date": "2026-11-13T20:00:48+00:00",
+      "description": "Blocking an AI training crawler isn’t the same as blocking a retrieval bot. Here’s why SEO needs deliberate bot policies, not block lists. The post AI Bot Management: Why SEOs Need More Than Block Lists appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google Tests Dropping AI Mode From Search Bar & Ask Anything",
+      "link": "https://www.seroundtable.com/google-dropping-ai-mode-again-42534.html",
+      "date": "2026-11-13T19:45:00+00:00",
+      "description": "Google is testing removing AI Mode from the search tab bar within Google Search and also removing the Ask anything follow-up box within the AI Overviews in Google Search. This follows our reports of Google removing the AI Mode buttons from the Google homepage.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Microsoft 365 Outage Impact On Microsoft Advertising",
+      "link": "https://www.seroundtable.com/microsoft-365-outages-microsoft-ads-42533.html",
+      "date": "2026-11-13T19:29:00+00:00",
+      "description": "As you know, Microsoft had a major Microsoft 365 outage yesterday and into today, affecting many businesses and users. But it didn't seem to directly affect Microsoft Advertising or ads in Bing Search.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Google Says Target Frequency Can Mix Non-Skippable Ads & Shorts via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/google-target-frequency-non-skippable-shorts/597333/",
@@ -290,30 +326,6 @@
       ]
     },
     {
-      "title": "Google Ads New Invalid Traffic (IVT) Overview Card",
-      "link": "https://www.seroundtable.com/google-ads-invalid-traffic-ivt-overview-card-42513.html",
-      "date": "2026-11-12T13:00:00+00:00",
-      "description": "Google Ads announced a new Invalid Traffic (IVT) overview card within Google Search. Google's Keerat Sharma wrote, \"We're rolling out the Invalid Traffic Overview Card in Google Ads to give advertisers front-end transparency into how we protect their campaigns.\"",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads Disallows Impersonate Public Figures With AI Even If Disclosed",
-      "link": "https://www.seroundtable.com/google-ads-disallows-impersonate-public-figures-ai-42512.html",
-      "date": "2026-11-12T12:51:00+00:00",
-      "description": "Google Ads clarified in its unacceptable Business Practices policy that impersonating public figures using AI isn't allowed, even if they disclose that they were generated or edited using AI.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "AI Shopping Errors: What To Fix To Help Shoppers Choose Your Products",
       "link": "https://www.searchenginejournal.com/fix-ai-shopping-errors-writesonic-spa/595790/",
       "date": "2026-11-12T06:00:23+00:00",
@@ -414,18 +426,6 @@
       "link": "https://www.searchenginejournal.com/forget-keywords-well-what-are-you-replacing-them-with/596349/",
       "date": "2026-11-10T18:00:42+00:00",
       "description": "Declaring keywords dead is easy. Explaining what you’ll track, how you’ll govern content, and what stakeholders buy into is the harder part. The post &#8220;F*** Keywords&#8221; – Well, What Are You Replacing Them With? appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Google Releases Modern Web Guidance 1.0 For AI Coding Agents via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-releases-modern-web-guidance-1-0-for-ai-coding-agents/596495/",
-      "date": "2026-11-10T17:00:00+00:00",
-      "description": "Google’s Modern Web Guidance 1.0 adds a codebase audit to its free skill set for AI coding agents. The post Google Releases Modern Web Guidance 1.0 For AI Coding Agents appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
