@@ -1,6 +1,138 @@
 {
-  "updatedAt": "2026-11-16T09:45:53.363029+00:00",
+  "updatedAt": "2026-11-16T19:53:41.519603+00:00",
   "items": [
+    {
+      "title": "When The WordPress Plugin Update Is The Security Risk: Why SEOs Should Pay Attention via @sejournal, @cshel",
+      "link": "https://www.searchenginejournal.com/when-the-wordpress-plugin-update-is-the-security-risk-why-seos-should-pay-attention/595622/",
+      "date": "2026-11-16T15:00:34+00:00",
+      "description": "Compromised WordPress plugins can introduce security threats and SEO problems. Recent supply-chain attacks reveal why software updates, vendor trust, and verification deserve closer scrutiny. The post When The WordPress Plugin Update Is The Security Risk: Why SEOs Should Pay Attention appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Daily Search Forum Recap: November 16, 2026",
+      "link": "https://www.seroundtable.com/recap-11-16-2026-42541.html",
+      "date": "2026-11-16T15:00:00+00:00",
+      "description": "Here is a recap of what happened in the search forums today...",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Search Analytics API Adds Branded Queries, Multimodal & Country/Devices Filters",
+      "link": "https://www.seroundtable.com/google-search-analytics-api-addition-42544.html",
+      "date": "2026-11-16T14:40:00+00:00",
+      "description": "Google has released new filters and reporting features to the Search Analytics API including filter by branded queries, web multimodal and multi-country and multi-device filters. All these options have been in the Google Search Console web user interface for a while and are now supported in the API.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "ChatGPT Ads Vs. Google Search Ads: What Early Data Shows via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/chatgpt-ads-vs-google-search-ads-early-data/597125/",
+      "date": "2026-11-16T13:00:58+00:00",
+      "description": "Early ChatGPT Ads data shows competition for ad budgets, while performance comparisons depend on click prices, attribution and outcomes. The post ChatGPT Ads Vs. Google Search Ads: What Early Data Shows appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google November 2026 Core Update Ranking Flux - What We're Seeing",
+      "link": "https://www.seroundtable.com/google-november-2026-core-update-ranking-volatility-42543.html",
+      "date": "2026-11-16T12:55:00+00:00",
+      "description": "The Google November 2026 Core Update started to roll out last Tuesday, November 10th, at around 1 pm ET, and honestly, the chatter around this update has been more muted than most. I suspect that has to do with the third-party Google tracking tools that are struggling to monitor the Google ranking changes.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google AI Mode Drops Gemini Label & Rolls Out Gemini 4 Carbon To Pro Subs",
+      "link": "https://www.seroundtable.com/google-ai-mode-drops-gemini-label-42540.html",
+      "date": "2026-11-16T12:51:00+00:00",
+      "description": "Google no longer shows the Gemini model used in AI Mode in the AI Mode interface header. Plus, Google has rolled out Gemini 4 Carbon to Pro subscribers in AI Mode; it was previously only available to Ultra subscribers. These were confirmed by Rajan Patel of Google after being spotted by Gagan Ghotra.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "ChatGPT Tests Web Results, See More & Other Search Results Formats",
+      "link": "https://www.seroundtable.com/chatgpt-search-result-tests-42537.html",
+      "date": "2026-11-16T12:41:00+00:00",
+      "description": "OpenAI is testing variations of web only search results in ChatGPT, plus a see more result button for the AI answer and other variations in its chat interface.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "OpenAI ChatGPT Business Agent - First Look",
+      "link": "https://www.seroundtable.com/openai-chatgpt-business-agent-42536.html",
+      "date": "2026-11-16T12:31:00+00:00",
+      "description": "As you know, OpenAI launched the ChatGPT Business Hub last week and with that was the ChatGPT Agent builder. I don't have access yet, but some are starting to see this feature roll out in the ChatGPT interface and the ChatGPT Business Hub.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google AI Mode Start Temporary Thread",
+      "link": "https://www.seroundtable.com/google-ai-mode-temporary-thread-42539.html",
+      "date": "2026-11-16T12:21:00+00:00",
+      "description": "Google is testing the option to start a temporary thread within AI Mode. This has been a feature in the Gemini interface for over a year now, but it might now be coming to Google AI Mode.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Bing Tests Web Mode Tab To Show Only Web Page Results",
+      "link": "https://www.seroundtable.com/bing-web-mode-42535.html",
+      "date": "2026-11-16T12:11:00+00:00",
+      "description": "Microsoft is testing a \"Web Mode\" tab in Bing Search to show only web pages in the search results. This seems to work like the Google Web filter that launched in May 2024 after the internet wanted out of the AI Overview results. Now, Bing is doing the same thing but instead of calling it just \"Web,\" they call it \"Web Mode.\"",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "New filtering and reporting capabilities in the Search Analytics API",
+      "link": "https://developers.google.com/search/blog/2026/11/search-analytics-api-update",
+      "date": "2026-11-16T00:00:00+00:00",
+      "description": "Over the past year, we introduced several updates to the Search Console Performance report to help you better slice and understand your traffic, including the branded queries filter, web multimodal search reporting, and multi-country and multi-device filtering.",
+      "source": "Google Search Central",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Higher Spend Came With Pricier Clicks For 14 B2B Google Advertisers via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/b2b-google-ads-keywords-cost-more-agency-data/597426/",
@@ -206,42 +338,6 @@
       ]
     },
     {
-      "title": "Google Merchant Center Deal Ends Annotation No Longer Experimental",
-      "link": "https://www.seroundtable.com/google-merchant-center-deal-ends-annotation-removes-experimental-42522.html",
-      "date": "2026-11-13T12:31:00+00:00",
-      "description": "Google has dropped the \"experimental\" label from the Deal Ends annotation for Google Merchant Center Product Listing Ads. Google has also said this feature is no longer available in India; previously, it was.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads Updates Conversion Lift Set Up Documentation",
-      "link": "https://www.seroundtable.com/google-ads-conversion-lift-set-up-doc-update-42530.html",
-      "date": "2026-11-13T12:21:00+00:00",
-      "description": "Google Ads updated its Conversion Lift help documentation primarily to provide more detailed technical requirements and troubleshooting guidance for advertisers setting up incrementality studies. There are a lot of changes to the document but here are the big ones.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Shopping Section Named Highlighted On The Web",
-      "link": "https://www.seroundtable.com/google-shopping-highlighted-on-the-web-42376.html",
-      "date": "2026-11-13T12:11:00+00:00",
-      "description": "Google has added a section to the mobile version of Google Shopping (maybe desktop as well) named \"Highlighted on the web.\" I can see this section when I search for product in Google Shopping on mobile, but I do not see it on the desktop interface.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Google Ads Rolls Out New Invalid Traffic Overview Card via @sejournal, @brookeosmundson",
       "link": "https://www.searchenginejournal.com/google-ads-rolls-out-new-invalid-traffic-overview-card/597098/",
       "date": "2026-11-12T21:01:44+00:00",
@@ -278,18 +374,6 @@
       ]
     },
     {
-      "title": "Google Search Console Generative AI Performance Report Data Bug Nov 9 - 11",
-      "link": "https://www.seroundtable.com/google-generative-ai-performance-report-data-bug-42527.html",
-      "date": "2026-11-12T19:55:00+00:00",
-      "description": "Google has confirmed a data logging bug in the Search Console Generative AI performance report in Search between the dates of November 9 and November 11, 2026 which resulted in a decrease in impressions.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Top Million Sites Lost 12% Of Visits; Top 100’s Share Barely Moved via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/visits-to-the-top-million-websites-fell-12-data-shows/597085/",
       "date": "2026-11-12T18:43:03+00:00",
@@ -299,18 +383,6 @@
         "SEO",
         "AI Search",
         "Ads"
-      ]
-    },
-    {
-      "title": "Google Search Gets Massive Upgrade With Gemini 4 Hydrogen",
-      "link": "https://www.seroundtable.com/google-search-gemini-4-hydrogen-42526.html",
-      "date": "2026-11-12T18:20:00+00:00",
-      "description": "Google Search has received a \"massive upgrade with Gemini 4 Hydrogen,\" said Nick Fox of Google. \"The biggest model upgrade to Search yet has landed,\" said Robby Stein of Google. It is super fast, has better understanding, improved query fan-out and linking, more visual responses and richer language understanding.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -326,30 +398,6 @@
       ]
     },
     {
-      "title": "New Google Help Doc Explains How To Identifying Traffic From Google Search",
-      "link": "https://www.seroundtable.com/identify-traffic-from-google-search-42525.html",
-      "date": "2026-11-12T17:08:00+00:00",
-      "description": "Google has published a new help document named Identify Google Search traffic in your web analytics or server logs. This document explains how to see if Google Search is sending you traffic in your own web analytics system or server logs by inspecting the HTTP Referer header.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "OpenAI ChatGPT Ads Updates: Intelligent Bidding, New Cost Targets, Geo-Flexibility & Product Set Filters",
-      "link": "https://www.seroundtable.com/openai-chatgpt-ads-updates-42524.html",
-      "date": "2026-11-12T16:38:00+00:00",
-      "description": "OpenAI just sent out its weekly ChatGPT Ads update email announcing a number of updates including intelligent bidding, new cost targets in Ads Manager, more geographic flexibility for product feed campaigns and more flexible product set filters.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "The Traffic Pool Is Shrinking, And Which Channel Fills It Matters Less Than We Think via @sejournal, @DuaneForrester",
       "link": "https://www.searchenginejournal.com/the-traffic-pool-is-shrinking-and-which-channel-fills-it-matters-less-than-we-think/596346/",
       "date": "2026-11-12T15:00:53+00:00",
@@ -359,18 +407,6 @@
         "SEO",
         "AI Search",
         "Ads"
-      ]
-    },
-    {
-      "title": "Daily Search Forum Recap: November 12, 2026",
-      "link": "https://www.seroundtable.com/recap-11-12-2026-42521.html",
-      "date": "2026-11-12T15:00:00+00:00",
-      "description": "Here is a recap of what happened in the search forums today...",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -390,30 +426,6 @@
       "link": "https://www.searchenginejournal.com/dont-let-a-tool-lead-your-ai-search-strategy-own-your-data-instead/596538/",
       "date": "2026-11-12T13:00:43+00:00",
       "description": "Keep your AI search strategy independent of unstable tools by owning your prompts, raw data, and measures of brand visibility. The post Why A Dashboard Cannot Define Your Brand&#8217;s AI Visibility Strategy appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "AI Shopping Errors: What To Fix To Help Shoppers Choose Your Products",
-      "link": "https://www.searchenginejournal.com/fix-ai-shopping-errors-writesonic-spa/595790/",
-      "date": "2026-11-12T06:00:23+00:00",
-      "description": "Explore the future of retail with AI shopping. Understand how AI affects product visibility and decision-making for consumers. The post AI Shopping Errors: What To Fix To Help Shoppers Choose Your Products appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Visibility Gets You On The List, Evidence Helps You Stay There via @sejournal, @billhunt",
-      "link": "https://www.searchenginejournal.com/visibility-gets-you-on-the-list-evidence-helps-you-stay-there/592127/",
-      "date": "2026-11-11T15:00:59+00:00",
-      "description": "AI visibility can hide evidence gaps that weaken recommendations as buyers evaluate integrations, workflows, and outcomes. The post Visibility Gets You On The List, Evidence Helps You Stay There appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -522,18 +534,6 @@
       "link": "https://developers.google.com/search/blog/2026/08/update-site-reputation-policy",
       "date": "2026-08-28T00:00:00+00:00",
       "description": "In 2024, we introduced our site reputation policy to stop a practice where third-party content is published on a trusted website just to exploit that site&#39;s good reputation to rank higher in Search. This practice hurts search quality, and creates a bad experience for users.",
-      "source": "Google Search Central",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Platform properties roll out globally, plus a new social and video performance guide",
-      "link": "https://developers.google.com/search/blog/2026/07/platform-properties-social-video-guide",
-      "date": "2026-07-29T00:00:00+00:00",
-      "description": "Earlier this month, we announced platform properties for Search Console, allowing you to track how your social and video posts on Instagram, TikTok, X, and YouTube perform on Google Search, Discover, and Google News. Today, platform properties are globally available to everyone.",
       "source": "Google Search Central",
       "tags": [
         "Google",
