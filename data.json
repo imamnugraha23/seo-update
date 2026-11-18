@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-11-17T20:56:26.378072+00:00",
+  "updatedAt": "2026-11-18T02:54:26.160280+00:00",
   "items": [
+    {
+      "title": "Google AI Overviews With Unfaded Citation Block",
+      "link": "https://www.seroundtable.com/google-ai-overviews-with-unfaded-citations-42563.html",
+      "date": "2026-11-18T01:36:00+00:00",
+      "description": "Google seems to have rolled out an update to the AI Overviews on the Google Search page where the citation cards or blocks on the right side are not faded out. Instead, the citations are fully visible, and you don't need to click into the AI Overview to view them fully.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Tag & Google Tag Manager Unification",
+      "link": "https://www.seroundtable.com/google-tag-manager-unification-42562.html",
+      "date": "2026-11-18T01:16:00+00:00",
+      "description": "This past August, Google announced the unification of Google tag and Google Tag Manager. Well, today Google posted a Google Tag Manager release not about the unification. It is titled Google tag and Google Tag Manager unification and dated on November 17, 2026.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "6.9% Of ChatGPT Conversations Showed Purchase Intent In U.S. Panel via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/chatgpt-purchase-intent-us-panel/597857/",
+      "date": "2026-11-17T21:42:30+00:00",
+      "description": "U.S. data finds few ChatGPT conversations show intent to buy and most responses name no brand. New insight for teams weighing ChatGPT visibility and ads. The post 6.9% Of ChatGPT Conversations Showed Purchase Intent In U.S. Panel appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
     {
       "title": "Google Ads Surcharges Rise To 3% In France And Italy – Local US Advertisers Can Be Billed Too via @sejournal, @gregjarboe",
       "link": "https://www.searchenginejournal.com/google-ads-surcharges-rise-to-3-in-france-and-italy-local-us-advertisers-can-be-billed-too/596938/",
@@ -278,30 +314,6 @@
       ]
     },
     {
-      "title": "Google AI Mode Drops Gemini Label & Rolls Out Gemini 4 Carbon To Pro Subs",
-      "link": "https://www.seroundtable.com/google-ai-mode-drops-gemini-label-42540.html",
-      "date": "2026-11-16T12:51:00+00:00",
-      "description": "Google no longer shows the Gemini model used in AI Mode in the AI Mode interface header. Plus, Google has rolled out Gemini 4 Carbon to Pro subscribers in AI Mode; it was previously only available to Ultra subscribers. These were confirmed by Rajan Patel of Google after being spotted by Gagan Ghotra.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "ChatGPT Tests Web Results, See More & Other Search Results Formats",
-      "link": "https://www.seroundtable.com/chatgpt-search-result-tests-42537.html",
-      "date": "2026-11-16T12:41:00+00:00",
-      "description": "OpenAI is testing variations of web only search results in ChatGPT, plus a see more result button for the AI answer and other variations in its chat interface.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "New filtering and reporting capabilities in the Search Analytics API",
       "link": "https://developers.google.com/search/blog/2026/11/search-analytics-api-update",
       "date": "2026-11-16T00:00:00+00:00",
@@ -414,18 +426,6 @@
       "link": "https://www.searchenginejournal.com/72-of-workers-say-their-ai-skills-are-untested-heres-how-ppc-managers-prove-theirs/596205/",
       "date": "2026-11-13T18:00:02+00:00",
       "description": "Turn Google Ads automation decisions into proof of your AI skills, with a practical record of overrides, checks, and campaign results. The post 72% Of Worker&#8217;s Say Their AI Skills Are Untested – Here&#8217;s How PPC Managers Prove Theirs appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "What Reddit Reviews Reveals About Your Products via @sejournal, @brentcsutoras",
-      "link": "https://www.searchenginejournal.com/what-reddit-reviews-reveals-about-your-products/596963/",
-      "date": "2026-11-13T13:00:09+00:00",
-      "description": "Spot recurring product complaints and competitor comparisons with Reddit Reviews, then check source comments for the context behind the summaries. The post What Reddit Reviews Reveals About Your Products appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
