@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-18T19:37:29.101703+00:00",
+  "updatedAt": "2026-11-19T01:30:13.654421+00:00",
   "items": [
+    {
+      "title": "OpenAI Publishes Prompting Guidance For GPT-6.2 Astra via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/openai-gpt-6-2-astra-prompting-guidance/597877/",
+      "date": "2026-11-18T22:26:21+00:00",
+      "description": "OpenAI's GPT-6.2 guide says Astra writes more concisely by default, suggests revisiting \"be concise\" prompts and flags an API change for edited history. The post OpenAI Publishes Prompting Guidance For GPT-6.2 Astra appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Robots.txt Guide – Best Practices For Search & AI Crawlers via @sejournal, @vahandev",
+      "link": "https://www.searchenginejournal.com/technical-seo/robots-txt-guide-best-practices-for-search-ai-crawlers/",
+      "date": "2026-11-18T20:00:31+00:00",
+      "description": "Learn how to configure robots.txt, avoid crawl and indexing mistakes, and manage AI training, search crawlers, and user-requested visits separately. The post Robots.txt Guide – Best Practices For Search &#038; AI Crawlers appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
     {
       "title": "Microsoft Rolls Out Its Biggest Bidding Upgrade In A Decade via @sejournal, @brookeosmundson",
       "link": "https://www.searchenginejournal.com/microsoft-rolls-out-its-biggest-bidding-upgrade-in-a-decade/597963/",
@@ -407,30 +431,6 @@
         "Google",
         "SEO",
         "Technical"
-      ]
-    },
-    {
-      "title": "Higher Spend Came With Pricier Clicks For 14 B2B Google Advertisers via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/b2b-google-ads-keywords-cost-more-agency-data/597426/",
-      "date": "2026-11-15T11:30:33+00:00",
-      "description": "One agency's data on 14 B2B advertisers finds the same non-brand Google Ads keywords cost more per click, even after controlling for their own spending. The post Higher Spend Came With Pricier Clicks For 14 B2B Google Advertisers appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "YouTube’s Clips Tool Turns Podcast Episodes Into Shorts via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/youtube-studio-clips-podcast-episodes-shorts/597408/",
-      "date": "2026-11-15T10:00:48+00:00",
-      "description": "YouTube expanded its Studio video clips tool to Shorts, letting creators turn segments of long-form videos, like podcast episodes, into vertical Shorts. The post YouTube&#8217;s Clips Tool Turns Podcast Episodes Into Shorts appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
       ]
     },
     {
