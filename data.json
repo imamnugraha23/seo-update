@@ -1,6 +1,126 @@
 {
-  "updatedAt": "2026-11-20T08:33:53.099787+00:00",
+  "updatedAt": "2026-11-20T17:18:48.709926+00:00",
   "items": [
+    {
+      "title": "Google Told CMOs To Stop ‘Top 10’ Listicles. Here’s Its Example via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-told-cmos-to-stop-top-10-listicles/598310/",
+      "date": "2026-11-20T16:17:43+00:00",
+      "description": "Google's marketing account told CMOs to replace generic tips posts with content grounded in first-hand expertise. The post Google Told CMOs To Stop &#8216;Top 10&#8217; Listicles. Here&#8217;s Its Example appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "A Charity Rescue Dog Outscored Amazon’s Christmas Ad – PPC Accounts Need A Story Before Cyber Week via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/a-charity-rescue-dog-outscored-amazons-christmas-ad-ppc-accounts-need-a-story-before-cyber-week/597789/",
+      "date": "2026-11-20T15:00:09+00:00",
+      "description": "Give holiday Google Ads a stronger story, using DAIVID's ranking of 75 Christmas ads where Dogs Trust outscored Amazon. The post A Charity Rescue Dog Outscored Amazon&#8217;s Christmas Ad – PPC Accounts Need A Story Before Cyber Week appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Daily Search Forum Recap: November 20, 2026",
+      "link": "https://www.seroundtable.com/recap-11-20-2026-42583.html",
+      "date": "2026-11-20T15:00:00+00:00",
+      "description": "Here is a recap of what happened in the search forums today...",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Search News Buzz Video Recap: Google November Core Update Status, FBI Alert On SEO Poisoning, Bing & ChatGPT Web Only Links, Microsoft Ads Bid Upgrade",
+      "link": "https://www.seroundtable.com/video-11-20-2026-42577.html",
+      "date": "2026-11-20T13:01:00+00:00",
+      "description": "This week, we covered an update on the Google November 2026 core update. The FBI issued an alert on SEO poisoning and how it infected many with malware. Google Search Console's Search Analytics API added...",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "AI Citations: What To Check Before Reacting To A Lost One via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/ai-citations-what-to-check-before-reacting-to-a-lost-one/598166/",
+      "date": "2026-11-20T13:00:00+00:00",
+      "description": "Most AI citations that disappear later come back. Here are four things to check about a lost citation before you decide to change a page. The post AI Citations: What To Check Before Reacting To A Lost One appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google, ChatGPT & Others AI Engines Provide Coupon Codes",
+      "link": "https://www.seroundtable.com/google-chatgpt-coupon-codes-42581.html",
+      "date": "2026-11-20T12:51:00+00:00",
+      "description": "Tis the season for holiday shopping and everyone wants to get a good deal, so you head over to your favorite search or AI engine and ask about coupon codes or promo codes available from that merchant. Google provides them in AI Overviews, ChatGPT provides them in its answers, so do the others - you don't have to go to the coupon websites to get them, you just copy them from the AI response.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "ChatGPT Card Design",
+      "link": "https://www.seroundtable.com/card-design-on-chatgpt-42576.html",
+      "date": "2026-11-20T12:41:00+00:00",
+      "description": "OpenAI may be testing a new card-like design in the ChatGPT interface that previews the different functionality available to users in ChatGPT.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Expands & Clarifies Sexual Content Advertising Policy Examples",
+      "link": "https://www.seroundtable.com/google-expands-sexual-content-advertising-policy-42548.html",
+      "date": "2026-11-20T12:31:00+00:00",
+      "description": "Google has again updated its sexual content policy for Google Ads, like it did just last month. This time it added more detailed examples of both prohibited and permitted content across nudity, partial nudity, sexual merchandise, and sexual entertainment.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Bing & Microsoft Ads - Made With AI Label",
+      "link": "https://www.seroundtable.com/bing-ads-made-with-ai-label-42579.html",
+      "date": "2026-11-20T12:21:00+00:00",
+      "description": "Microsoft is now showing a new label on some of its ads across Microsoft Advertising and Bing Search named \"Made with AI.\" The label is appended to the image on the ad, at the corner of the image, and says \"Made with AI.\"",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "The .seo Top-Level Domain (TLD) May Be Coming Soon",
+      "link": "https://www.seroundtable.com/seo-tld-42582.html",
+      "date": "2026-11-20T12:11:00+00:00",
+      "description": "A new top-level domain (TLD) or generic domain extension for .seo may be coming soon. It was applied for by XYZ under ICANN's new gTLD round and then confirmed on the final list following String Confirmation Day in October 2026. It is not yet generally available for standard public registration.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "21 Alternative Search Engines You Can Use Instead of Google via @sejournal, @lorenbaker",
       "link": "https://www.searchenginejournal.com/21-alternative-search-engines-you-can-use-instead-of-google/596605/",
@@ -158,18 +278,6 @@
       ]
     },
     {
-      "title": "Google AdSense Unifying Policies Into AdSense For Search Publishers Policy",
-      "link": "https://www.seroundtable.com/google-adsense-for-search-publishers-policy-42573.html",
-      "date": "2026-11-19T12:05:00+00:00",
-      "description": "Google announced it will update and merge the AdSense for Search (AFS) policies and Search ads policies into a single, unified policy set for AdSense for Search publishers. This will happen on January 17, 2027. Google posted a copy of the new, unified policy.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "OpenAI Publishes Prompting Guidance For GPT-6.2 Astra via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/openai-gpt-6-2-astra-prompting-guidance/597877/",
       "date": "2026-11-18T22:26:21+00:00",
@@ -230,18 +338,6 @@
       ]
     },
     {
-      "title": "Daily Search Forum Recap: November 18, 2026",
-      "link": "https://www.seroundtable.com/recap-11-18-2026-42565.html",
-      "date": "2026-11-18T15:00:00+00:00",
-      "description": "Here is a recap of what happened in the search forums today...",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Your Schema Markup Has a New Job. Is It Ready? via @sejournal, @marthavanberkel",
       "link": "https://www.searchenginejournal.com/schema-markup-ai-search-schemapp/596440/",
       "date": "2026-11-18T14:54:34+00:00",
@@ -278,54 +374,6 @@
       ]
     },
     {
-      "title": "Google Ads Releases Several AI Max For Search For Travel Campaigns Help Docs",
-      "link": "https://www.seroundtable.com/google-ads-ai-max-for-search-for-travel-campaigns-docs-42564.html",
-      "date": "2026-11-18T12:51:00+00:00",
-      "description": "Google has released several new Google Ads help documents on the topic of AI Max for Search for Travel campaigns. This comes as Google begins to migrate Travel campaigns to the new Search campaigns for Travel in Google Ads.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads New Commercial Exemptions To US Election Advertising Policy",
-      "link": "https://www.seroundtable.com/google-ads-commercial-exemptions-us-elections-42547.html",
-      "date": "2026-11-18T12:41:00+00:00",
-      "description": "Google Ads has added a new exemption to its political content policy for \"Commercial exceptions to US Election Ads.\" This essentially exempts ads that feature candidates solely for government programs or commercial products, without political references, from US Election Ads verification.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Microsoft Advertising Announces Biggest Upgrade To Bidding Models",
-      "link": "https://www.seroundtable.com/microsoft-advertising-bidding-models-update-42567.html",
-      "date": "2026-11-18T12:31:00+00:00",
-      "description": "Microsoft announced the \"biggest upgrade\" to bidding models in a decade within Microsoft Advertising. Microsoft wrote, \"we're continuously listening to customer feedback to understand the ways we can make our bidding deliver better results for advertisers, and now we're rolling out the biggest upgrade to bidding models in a decade.\"",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Ads PMax Setup Now With Channel Prioritization & Promo Mode",
-      "link": "https://www.seroundtable.com/google-ads-pmax-setup-update-42561.html",
-      "date": "2026-11-18T12:21:00+00:00",
-      "description": "Google Ads has added two features to the Performance Max campaign set up screen for Channel Prioritization and Promo Mode. While Channel Prioritization and Promo Mode are not new, it is reportedly new within this campaign set up screen.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Google Explains How To Avoid CDN Migration SEO Problems via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/google-explains-how-to-avoid-cdn-migration-seo-problems/597888/",
       "date": "2026-11-18T12:16:03+00:00",
@@ -335,18 +383,6 @@
         "SEO",
         "AI Search",
         "Ads"
-      ]
-    },
-    {
-      "title": "Google Hotel Campaigns Migrating To Search Campaigns For Travel",
-      "link": "https://www.seroundtable.com/google-hotel-campaigns-migration-42566.html",
-      "date": "2026-11-18T12:11:00+00:00",
-      "description": "While Google is migrating travel campaigns to the Search campaigns for Travel now, Google will be migrating Hotel campaigns will or is migrating to new Search campaigns for Travel this quarter, Q4 2026.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -378,42 +414,6 @@
       "link": "https://www.searchenginejournal.com/date-confirmed-rating-meets-expectations-comments-none/597709/",
       "date": "2026-11-17T18:01:21+00:00",
       "description": "What did the core update change for your site? Nobody outside Google can say. Here’s the question worth asking instead. The post Date: Confirmed, Rating: Meets Expectations, Comments: None appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "A Trusted Optimizely Script Carried Malware To 178 Organizations via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/optimizely-signup-flaw-malware/597839/",
-      "date": "2026-11-17T17:32:02+00:00",
-      "description": "An attacker added harmful code to customer projects in a widely used A/B testing tool. Teams can check code, account access and their security headers. The post A Trusted Optimizely Script Carried Malware To 178 Organizations appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "AI Visibility Data: Avoid 4 Traps & Prioritize The Right Work",
-      "link": "https://www.searchenginejournal.com/ai-visibility-data-traps-transperfectdigital-spa/597627/",
-      "date": "2026-11-17T16:11:24+00:00",
-      "description": "Navigate the complexities of AI visibility. Learn what to measure and how to leverage data for better AI performance. The post AI Visibility Data: Avoid 4 Traps &#038; Prioritize The Right Work appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Patrick Reinhart On The Golden Metric In AI Search: Brand Recommendations via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/patrick-reinhart-on-the-golden-metric-in-ai-search-brand-recommendations/597056/",
-      "date": "2026-11-17T13:00:47+00:00",
-      "description": "Your brand got cited, but did AI recommend you? Patrick Reinhart of Conductor shares what enterprise teams should measure and fix first. The post Patrick Reinhart On The Golden Metric In AI Search: Brand Recommendations appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
