@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-19T18:40:43.036537+00:00",
+  "updatedAt": "2026-11-20T00:55:54.490490+00:00",
   "items": [
+    {
+      "title": "21 Alternative Search Engines You Can Use Instead of Google via @sejournal, @lorenbaker",
+      "link": "https://www.searchenginejournal.com/21-alternative-search-engines-you-can-use-instead-of-google/596605/",
+      "date": "2026-11-19T20:00:05+00:00",
+      "description": "Compare 21 Google alternatives for everyday search, private search, AI answers, specialist research, and regional results. The post 21 Alternative Search Engines You Can Use Instead of Google appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google Search Officially Rolls Out Collapsible Sidebar",
+      "link": "https://www.seroundtable.com/google-search-rolls-out-ai-mode-sidebar-42580.html",
+      "date": "2026-11-19T19:38:00+00:00",
+      "description": "Google is now officially rolling out what it calls the \"collapsible sidebar\" within Google Search. We spotted this a few weeks ago and we called it then the AI Mode sidebar in Google Search. Robby Stein from Google said \"New on the Google desktop homepage globally: we're rolling out a collapsible sidebar to easily find & jump back into your recent AI searches.\"",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Google’s Next Update Won’t Touch The Index, And Nobody Will Announce It via @sejournal, @DuaneForrester",
       "link": "https://www.searchenginejournal.com/googles-next-update-wont-touch-the-index-and-nobody-will-announce-it/597481/",
@@ -170,10 +194,10 @@
       ]
     },
     {
-      "title": "Microsoft Rolls Out Its Biggest Bidding Upgrade In A Decade via @sejournal, @brookeosmundson",
+      "title": "Microsoft Rebuilds Its Smart Bidding Prediction Models, Rolling Out Automatically via @sejournal, @brookeosmundson",
       "link": "https://www.searchenginejournal.com/microsoft-rolls-out-its-biggest-bidding-upgrade-in-a-decade/597963/",
       "date": "2026-11-18T18:19:49+00:00",
-      "description": "Microsoft Advertising is automatically updating its bidding models, reporting faster target adjustments, smoother budget pacing, and best practices for CPA and ROAS campaigns. The post Microsoft Rolls Out Its Biggest Bidding Upgrade In A Decade appeared first on Search Engine Journal .",
+      "description": "Microsoft Advertising is automatically updating its bidding models, reporting faster target adjustments, smoother budget pacing, and best practices for CPA and ROAS campaigns. The post Microsoft Rebuilds Its Smart Bidding Prediction Models, Rolling Out Automatically appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -326,18 +350,6 @@
       ]
     },
     {
-      "title": "Google AI Overviews With Unfaded Citation Block",
-      "link": "https://www.seroundtable.com/google-ai-overviews-with-unfaded-citations-42563.html",
-      "date": "2026-11-18T01:36:00+00:00",
-      "description": "Google seems to have rolled out an update to the AI Overviews on the Google Search page where the citation cards or blocks on the right side are not faded out. Instead, the citations are fully visible, and you don't need to click into the AI Overview to view them fully.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "6.9% Of ChatGPT Conversations Showed Purchase Intent In U.S. Panel via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/chatgpt-purchase-intent-us-panel/597857/",
       "date": "2026-11-17T21:42:30+00:00",
@@ -402,18 +414,6 @@
       "link": "https://www.searchenginejournal.com/patrick-reinhart-on-the-golden-metric-in-ai-search-brand-recommendations/597056/",
       "date": "2026-11-17T13:00:47+00:00",
       "description": "Your brand got cited, but did AI recommend you? Patrick Reinhart of Conductor shares what enterprise teams should measure and fix first. The post Patrick Reinhart On The Golden Metric In AI Search: Brand Recommendations appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Branded Query Data Is Now In The Google Search Console API via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/google-branded-multimodal-search-console-api/597693/",
-      "date": "2026-11-17T08:00:55+00:00",
-      "description": "The Search Analytics API now supports branded query classification, multimodal search data, and filters for several countries or devices in one request. The post Branded Query Data Is Now In The Google Search Console API appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
