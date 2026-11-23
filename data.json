@@ -1,6 +1,186 @@
 {
-  "updatedAt": "2026-11-23T10:47:35.062915+00:00",
+  "updatedAt": "2026-11-23T22:39:15.790502+00:00",
   "items": [
+    {
+      "title": "I Blind-Tested 3 Gemini Models On Real SEO Questions – Neon Won 5 Of 6 via @sejournal, @marie_haynes",
+      "link": "https://www.searchenginejournal.com/blind-test-of-gemini-4-neon-vs-hydrogen-vs-3-8-flash-on-real-seo-questions-here-is-what-won-and-what-it-costs/598384/",
+      "date": "2026-11-23T20:00:33+00:00",
+      "description": "Here's how Marie Haynes blind-tested Gemini 4 Neon, Hydrogen, and 3.8 Flash on six SEO questions, plus what each model really costs per prompt. The post I Blind-Tested 3 Gemini Models On Real SEO Questions – Neon Won 5 Of 6 appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google Documents Previously Undocumented Crawlers & Fetchers",
+      "link": "https://www.seroundtable.com/googlebots-additions-42604.html",
+      "date": "2026-11-23T19:20:00+00:00",
+      "description": "Google has updated a few of its help documents to add what it calls \"additional existing crawlers and user-triggered fetchers.\" The existing, previously undocumented, Google crawlers and fetchers include Google-analytics-postbacks, Google-Calendar-Importer, GoogleDocs, Google-Edu, pageburst, PlayStore-Google, AppEngine-Google, Google-Apps-Script, Google-Cloud-Tasks, GoogleImageProxy, Google Web Preview, and Chrome-Lighthouse.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Says Back Button Hijacking Policy Covers Social Visits via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-back-button-hijacking-policy-social-visits/598592/",
+      "date": "2026-11-23T18:00:23+00:00",
+      "description": "Google says the back button hijacking policy applies to visits from social media and other channels, and that sites can keep using ad platform code. The post Google Says Back Button Hijacking Policy Covers Social Visits appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google: Connect Apps To Search In Return For Personal Responses",
+      "link": "https://www.seroundtable.com/google-personal-intelligence-push-42603.html",
+      "date": "2026-11-23T17:42:00+00:00",
+      "description": "Robby Stein, VP of Product, Google Search, posted on the Google blog A more tailored Google Search that's uniquely yours. In short, he said he wants you to \"connect more of your apps to Personal Intelligence\" so that Google AI Mode can provide a \"more tailored Google Search.\"",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Posts FAQs on Back Button Hijacking Spam",
+      "link": "https://www.seroundtable.com/google-faqs-back-button-hijacking-42601.html",
+      "date": "2026-11-23T15:08:00+00:00",
+      "description": "Google has added an FAQs section on the back button hijacking spam policy within the spam policies document. Currently, there are five questions and answers in this document and they include:",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "The Final Ad Checklist Before BFCM – What To Fix Now & What To Leave via @sejournal, @tonyadam",
+      "link": "https://www.searchenginejournal.com/the-final-ad-checklist-before-bfcm-what-to-fix-now-what-to-leave/597701/",
+      "date": "2026-11-23T15:00:32+00:00",
+      "description": "Keep Black Friday ads running with final checks on budgets, purchase tracking, billing, and offers before the holiday rush. The post The Final Ad Checklist Before BFCM – What To Fix Now &#038; What To Leave appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Daily Search Forum Recap: November 23, 2026",
+      "link": "https://www.seroundtable.com/recap-11-23-2026-42597.html",
+      "date": "2026-11-23T15:00:00+00:00",
+      "description": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google has something it calls StarSearch...",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Publishes Guidance For Google-Agent Crawler via @sejournal, @martinibuster",
+      "link": "https://www.searchenginejournal.com/google-publishes-guidance-for-google-agent-crawler/598526/",
+      "date": "2026-11-23T13:12:32+00:00",
+      "description": "Google explains how website owners and SEOs can identify legitimate Google-Agent requests and prevent security systems from blocking them. The post Google Publishes Guidance For Google-Agent Crawler appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "35 AI Prompts & Examples For SEO (Updated November 2026) via @sejournal, @theshelleywalsh",
+      "link": "https://www.searchenginejournal.com/ai-prompts-examples-for-seo-2026/596734/",
+      "date": "2026-11-23T13:00:17+00:00",
+      "description": "Use these SEO prompts with verified data, native AI tools, and connected sources to get deeper insights from tool data. The post 35 AI Prompts &#038; Examples For SEO (Updated November 2026) appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google AI Mode Dive Deeper Is Now Live",
+      "link": "https://www.seroundtable.com/google-ai-mode-dive-deeper-feature-live-42589.html",
+      "date": "2026-11-23T12:51:00+00:00",
+      "description": "Several weeks ago, Google announced an update to AI Mode named \"Dive deeper.\" Dive deeper makes the \"links that we show at the end of some AI responses more engaging and prominent, with image thumbnails and a more clickable design,\" Google wrote. And now it seems to be live in AI Mode, not just Google Discover.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Search Profiles With LinkedIn Support",
+      "link": "https://www.seroundtable.com/google-search-profiles-linkedin-support-42586.html",
+      "date": "2026-11-23T12:41:00+00:00",
+      "description": "Google has made it easier to manage your LinkedIn profile in Google Search Profiles by adding it as an option to the list of social network platforms that you can connect. Previously, Google would automatically add LinkedIn to Search Profiles on its own but now you can try to add it manually if you want.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Bing Reverting Naming AI Overviews Back To Copilot Search",
+      "link": "https://www.seroundtable.com/bing-ai-overviews-to-copilot-search-42584.html",
+      "date": "2026-11-23T12:31:00+00:00",
+      "description": "A couple of months ago, Microsoft renamed the Copilot Search answer box in Bing Search to AI Overviews and has been using the AI Overviews in its blog posts and communications since. But now, Bing is also testing reverting that and going back to using Copilot Answers instead of using AI Overviews.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Ads Purchase Signal Annotations Documentation",
+      "link": "https://www.seroundtable.com/google-ads-purchase-signal-annotations-42587.html",
+      "date": "2026-11-23T12:21:00+00:00",
+      "description": "Google has published a new Google Ads help document on purchase signal annotations. That is the feature you sometimes see in the search ads that have labels like \"100+ sold last 30 days.\" These are aimed at highlighting ads with high-demand items by showcasing purchase volume.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "ChatGPT Product Results May Now Be Influenced By OpenAI Partnerships",
+      "link": "https://www.seroundtable.com/chatgpt-product-results-may-be-influenced-by-openai-partnerships-42588.html",
+      "date": "2026-11-23T12:11:00+00:00",
+      "description": "OpenAI updated its Shopping with ChatGPT Search help documentation to update the line that says \"Product results are selected independently by ChatGPT and are not ads, nor influenced by any OpenAI partnerships.\" It now says, \"Product results are not ads; how products and merchants are selected is described below.\" In short, OpenAI removed the disclaimer that these shopping results are independent of and not influenced by any OpenAI partnerships.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Bing Thanksgiving Turkey Trot In Search Results",
+      "link": "https://www.seroundtable.com/bing-thanksgiving-turkey-trot-42596.html",
+      "date": "2026-11-23T12:05:00+00:00",
+      "description": "Microsoft Bing has a cute easter egg when you search for Thanksgiving in the Bing Search results. A turkey crosses the screen as leaves fall from the trees.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Check Your Nov. 18 Rank Data Before Blaming The Core Update via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/check-your-nov-18-rank-data-before-blaming-the-core-update/598449/",
@@ -146,66 +326,6 @@
       ]
     },
     {
-      "title": "Google, ChatGPT & Others AI Engines Provide Coupon Codes",
-      "link": "https://www.seroundtable.com/google-chatgpt-coupon-codes-42581.html",
-      "date": "2026-11-20T12:51:00+00:00",
-      "description": "Tis the season for holiday shopping and everyone wants to get a good deal, so you head over to your favorite search or AI engine and ask about coupon codes or promo codes available from that merchant. Google provides them in AI Overviews, ChatGPT provides them in its answers, so do the others - you don't have to go to the coupon websites to get them, you just copy them from the AI response.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "ChatGPT Card Design",
-      "link": "https://www.seroundtable.com/card-design-on-chatgpt-42576.html",
-      "date": "2026-11-20T12:41:00+00:00",
-      "description": "OpenAI may be testing a new card-like design in the ChatGPT interface that previews the different functionality available to users in ChatGPT.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Expands & Clarifies Sexual Content Advertising Policy Examples",
-      "link": "https://www.seroundtable.com/google-expands-sexual-content-advertising-policy-42548.html",
-      "date": "2026-11-20T12:31:00+00:00",
-      "description": "Google has again updated its sexual content policy for Google Ads, like it did just last month. This time it added more detailed examples of both prohibited and permitted content across nudity, partial nudity, sexual merchandise, and sexual entertainment.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Bing & Microsoft Ads - Made With AI Label",
-      "link": "https://www.seroundtable.com/bing-ads-made-with-ai-label-42579.html",
-      "date": "2026-11-20T12:21:00+00:00",
-      "description": "Microsoft is now showing a new label on some of its ads across Microsoft Advertising and Bing Search named \"Made with AI.\" The label is appended to the image on the ad, at the corner of the image, and says \"Made with AI.\"",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "The .seo Top-Level Domain (TLD) May Be Coming Soon",
-      "link": "https://www.seroundtable.com/seo-tld-42582.html",
-      "date": "2026-11-20T12:11:00+00:00",
-      "description": "A new top-level domain (TLD) or generic domain extension for .seo may be coming soon. It was applied for by XYZ under ICANN's new gTLD round and then confirmed on the final list following String Confirmation Day in October 2026. It is not yet generally available for standard public registration.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "21 Alternative Search Engines You Can Use Instead of Google via @sejournal, @lorenbaker",
       "link": "https://www.searchenginejournal.com/21-alternative-search-engines-you-can-use-instead-of-google/596605/",
       "date": "2026-11-19T20:00:05+00:00",
@@ -215,18 +335,6 @@
         "SEO",
         "AI Search",
         "Ads"
-      ]
-    },
-    {
-      "title": "Google Search Officially Rolls Out Collapsible Sidebar",
-      "link": "https://www.seroundtable.com/google-search-rolls-out-ai-mode-sidebar-42580.html",
-      "date": "2026-11-19T19:38:00+00:00",
-      "description": "Google is now officially rolling out what it calls the \"collapsible sidebar\" within Google Search. We spotted this a few weeks ago and we called it then the AI Mode sidebar in Google Search. Robby Stein from Google said \"New on the Google desktop homepage globally: we're rolling out a collapsible sidebar to easily find & jump back into your recent AI searches.\"",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -242,18 +350,6 @@
       ]
     },
     {
-      "title": "Microsoft Confirms Ads Are In AI Overviews On Bing Search",
-      "link": "https://www.seroundtable.com/microsoft-ads-in-ai-overviews-on-bing-42578.html",
-      "date": "2026-11-19T15:24:00+00:00",
-      "description": "Microsoft has just confirmed that it is now shows ads in AI Overviews in Bing Search. We started seeing ads in Bing AI Overviews about three weeks ago, and Microsoft has now confirmed this on the Microsoft Advertising blog.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Your WordPress Sitemap Isn’t Broken – Chrome 158 Has Dropped XSLT via @sejournal, @TaylorDanRW",
       "link": "https://www.searchenginejournal.com/your-wordpress-sitemap-isnt-broken-chrome-158-has-dropped-xslt/597549/",
       "date": "2026-11-19T15:00:06+00:00",
@@ -263,18 +359,6 @@
         "SEO",
         "AI Search",
         "Ads"
-      ]
-    },
-    {
-      "title": "Daily Search Forum Recap: November 19, 2026",
-      "link": "https://www.seroundtable.com/recap-11-19-2026-42575.html",
-      "date": "2026-11-19T15:00:00+00:00",
-      "description": "Here is a recap of what happened in the search forums today...",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -299,30 +383,6 @@
         "SEO",
         "AI Search",
         "Ads"
-      ]
-    },
-    {
-      "title": "Google Search What People Are Saying AI-Generated Emojis",
-      "link": "https://www.seroundtable.com/google-ai-generated-emojis-42569.html",
-      "date": "2026-11-19T12:51:00+00:00",
-      "description": "Google seems to be placing emojis in the AI-generated \"What people are saying\" box in Google Search. Google does show emojis in its search results, but these emojis are not coming from the website it is referencing, but rather from Google Search and its AI-generated descriptions.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Hotel Search Listings With Continue On Google To Book",
-      "link": "https://www.seroundtable.com/google-hotel-continue-on-google-42568.html",
-      "date": "2026-11-19T12:41:00+00:00",
-      "description": "Google seems to be rolling out hotel booking directly on Google in Google Search but through AI Mode. So when you search on Google and Google shows you the hotels, you can now click on a button that says \"Continue on Google\" and it then takes you through the AI Mode hotel booking feature to book using your Google account.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -354,66 +414,6 @@
       "link": "https://www.searchenginejournal.com/microsoft-rolls-out-its-biggest-bidding-upgrade-in-a-decade/597963/",
       "date": "2026-11-18T18:19:49+00:00",
       "description": "Microsoft Advertising is automatically updating its bidding models, reporting faster target adjustments, smoother budget pacing, and best practices for CPA and ROAS campaigns. The post Microsoft Rebuilds Its Smart Bidding Prediction Models, Rolling Out Automatically appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "How I’m Approaching AI Search (And How You Should To)",
-      "link": "https://www.searchenginejournal.com/how-im-approaching-ai-search-and-how-you-should-to/597775/",
-      "date": "2026-11-18T18:00:01+00:00",
-      "description": "Citation tactics miss the point. Build a brand worth recommending and a business that benefits whether the citation comes or not. The post How I’m Approaching AI Search (And How You Should To) appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "How To Find The Questions Your Customers Ask AI (And Your Keyword Tools Miss)",
-      "link": "https://www.searchenginejournal.com/how-to-find-the-questions-your-customers-ask-ai-and-your-keyword-tools-miss/596522/",
-      "date": "2026-11-18T15:00:12+00:00",
-      "description": "Turn sales calls, support tickets, and forum threads into a content plan built around the questions your customers ask AI. The post How To Find The Questions Your Customers Ask AI (And Your Keyword Tools Miss) appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Your Schema Markup Has a New Job. Is It Ready? via @sejournal, @marthavanberkel",
-      "link": "https://www.searchenginejournal.com/schema-markup-ai-search-schemapp/596440/",
-      "date": "2026-11-18T14:54:34+00:00",
-      "description": "AI is changing how customers discover and evaluate brands. Enterprises need to think beyond rich results and develop the business context they publish for machines. The post Your Schema Markup Has a New Job. Is It Ready? appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Rank Math SEO WordPress Plugin Hit By 16 Vulnerabilities In 2026 via @sejournal, @martinibuster",
-      "link": "https://www.searchenginejournal.com/rank-math-seo-wordpress-plugin-hit-by-16-vulnerabilities-in-2026/597932/",
-      "date": "2026-11-18T13:55:11+00:00",
-      "description": "Sixteen Rank Math SEO vulnerabilities in one year raise questions about how so many security exploits made it into a plugin used by millions. The post Rank Math SEO WordPress Plugin Hit By 16 Vulnerabilities In 2026 appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Google Ads AI Max Is Making More Decisions For You – 6 Settings To Audit Now via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/google-ads-ai-max-is-making-more-decisions-for-you-heres-what-to-audit-now/596972/",
-      "date": "2026-11-18T13:00:42+00:00",
-      "description": "Audit Google Ads AI Max settings to catch unwanted searches, review generated ad copy, and keep landing pages aligned with campaign goals. The post Google Ads AI Max Is Making More Decisions For You – 6 Settings To Audit Now appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
