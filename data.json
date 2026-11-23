@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-11-22T21:16:46.510713+00:00",
+  "updatedAt": "2026-11-23T01:48:33.140538+00:00",
   "items": [
+    {
+      "title": "Google StarSearch, AIGC, Zero-History Discovery, Feed Ranking & More",
+      "link": "https://www.seroundtable.com/google-starsearch-42594.html",
+      "date": "2026-11-23T00:30:00+00:00",
+      "description": "Google has posted a new job listing for a Senior Software Engineer, Discover Feed Recommendations. And in that job listing, it lists a number of interesting Google Search tidbits, including something called \"StarSearch,\" as well as AIGC, Zero-History Discovery, Feed Ranking, and more.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "You Can Connect ChatGPT Business Hub With ChatGPT Ad Account",
+      "link": "https://www.seroundtable.com/chatgpt-business-hub-ad-account-42592.html",
+      "date": "2026-11-22T23:24:00+00:00",
+      "description": "Did you know that you can connect your ChatGPT Ads account in your new ChatGPT Business Hub? There is a button at the top of the ChatGPT Business Hub that says, \"Connect an ad account,\" and adds, \"This will let you promote your business and reach more customers across ChatGPT.\"",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Search Profiles Is Rolling Out Globally",
+      "link": "https://www.seroundtable.com/google-search-profiles-global-42591.html",
+      "date": "2026-11-22T22:33:00+00:00",
+      "description": "Google seems to have rolled out Search Profiles globally, this has not yet been announced but now folks outside of the United States, Canada and India can now claim their profile without having to go through VPNs to pretend they are in those countries.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "WordPress Random Redirects, Branded API Data & CDN Advice – SEO Pulse via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/seo-pulse-wordpress-random-redirects-branded-api-data-cdn-advice/598173/",
@@ -270,42 +306,6 @@
       "link": "https://www.seroundtable.com/google-hotel-continue-on-google-42568.html",
       "date": "2026-11-19T12:41:00+00:00",
       "description": "Google seems to be rolling out hotel booking directly on Google in Google Search but through AI Mode. So when you search on Google and Google shows you the hotels, you can now click on a button that says \"Continue on Google\" and it then takes you through the AI Mode hotel booking feature to book using your Google account.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Search Tests \"Show Original Results\" Button",
-      "link": "https://www.seroundtable.com/google-search-show-original-results-button-42574.html",
-      "date": "2026-11-19T12:31:00+00:00",
-      "description": "Google Search is testing a new button in the search results named \"Show original results.\" It seems this button does something similar to the \"Search instead for\" link, where Google will auto correct or adapt your query when it thinks you have a typo in your query or you meant to search for something else.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Data Feed Validation Tool Has Been Turned Down",
-      "link": "https://www.seroundtable.com/google-data-feed-validation-tool-gone-42572.html",
-      "date": "2026-11-19T12:21:00+00:00",
-      "description": "Google has \"turned down\" its Data Feed validation tool and has removed references to it from the Book actions (Book) structured data help documentation. I am not sure when this tool surfaced but likely sometime between October 2016 and December 2017 alongside the broader Actions on Google developer platform.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Images Results With Lens To AI Mode Feature",
-      "link": "https://www.seroundtable.com/google-images-lens-to-ai-mode-42570.html",
-      "date": "2026-11-19T12:11:00+00:00",
-      "description": "Google image search results now let you click a Google Lens button, which takes you into an AI Overview follow-up query or even an AI Mode follow-up query. This is different from when Google added the Google Lens button to image search results.",
       "source": "Search Engine Roundtable",
       "tags": [
         "Google",
