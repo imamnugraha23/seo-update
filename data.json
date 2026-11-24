@@ -1,6 +1,30 @@
 {
-  "updatedAt": "2026-11-23T22:39:15.790502+00:00",
+  "updatedAt": "2026-11-24T06:26:24.256982+00:00",
   "items": [
+    {
+      "title": "New Google Business Profiles Controls For Appointments & Dinner Reservations",
+      "link": "https://www.seroundtable.com/google-business-profiles-appt-book-dinner-reserve-42605.html",
+      "date": "2026-11-24T00:29:00+00:00",
+      "description": "Google has added self-serve control to appointment bookings and dining reservations on your Google Business Profile. This is the same as what Google added for restaurant ordering services a month ago, and it now also works for appointment bookings and dining reservations.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Reddit’s AEO Tool Recommendations Have A Promoter Problem via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/check-whos-posting-before-you-trust-reddit-on-aeo-tools/598641/",
+      "date": "2026-11-23T22:52:42+00:00",
+      "description": "An analysis of subreddits flagged most users weighing in on AEO tools as likely promoters. Among the rest, accuracy was the top feature complaint. The post Reddit&#8217;s AEO Tool Recommendations Have A Promoter Problem appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
     {
       "title": "I Blind-Tested 3 Gemini Models On Real SEO Questions – Neon Won 5 Of 6 via @sejournal, @marie_haynes",
       "link": "https://www.searchenginejournal.com/blind-test-of-gemini-4-neon-vs-hydrogen-vs-3-8-flash-on-real-seo-questions-here-is-what-won-and-what-it-costs/598384/",
@@ -302,18 +326,6 @@
       ]
     },
     {
-      "title": "Search News Buzz Video Recap: Google November Core Update Status, FBI Alert On SEO Poisoning, Bing & ChatGPT Web Only Links, Microsoft Ads Bid Upgrade",
-      "link": "https://www.seroundtable.com/video-11-20-2026-42577.html",
-      "date": "2026-11-20T13:01:00+00:00",
-      "description": "This week, we covered an update on the Google November 2026 core update. The FBI issued an alert on SEO poisoning and how it infected many with malware. Google Search Console's Search Analytics API added...",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Most AI Citations That Disappeared Came Back, Study Finds via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/ai-citations-what-to-check-before-reacting-to-a-lost-one/598166/",
       "date": "2026-11-20T13:00:00+00:00",
@@ -402,18 +414,6 @@
       "link": "https://www.searchenginejournal.com/technical-seo/robots-txt-guide-best-practices-for-search-ai-crawlers/",
       "date": "2026-11-18T20:00:31+00:00",
       "description": "Learn how to configure robots.txt, avoid crawl and indexing mistakes, and manage AI training, search crawlers, and user-requested visits separately. The post Robots.txt Guide – Best Practices For Search &#038; AI Crawlers appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Microsoft Rebuilds Its Smart Bidding Prediction Models, Rolling Out Automatically via @sejournal, @brookeosmundson",
-      "link": "https://www.searchenginejournal.com/microsoft-rolls-out-its-biggest-bidding-upgrade-in-a-decade/597963/",
-      "date": "2026-11-18T18:19:49+00:00",
-      "description": "Microsoft Advertising is automatically updating its bidding models, reporting faster target adjustments, smoother budget pacing, and best practices for CPA and ROAS campaigns. The post Microsoft Rebuilds Its Smart Bidding Prediction Models, Rolling Out Automatically appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
