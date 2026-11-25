@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-11-24T18:21:06.199346+00:00",
+  "updatedAt": "2026-11-25T02:48:03.274357+00:00",
   "items": [
+    {
+      "title": "Google Documents Advance Notice For Significant Ranking Updates via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-documents-advance-notice-for-significant-ranking-updates/598773/",
+      "date": "2026-11-24T22:06:57+00:00",
+      "description": "New Search documentation explains when sites get advance notice of significant ranking updates, how to send feedback on them, and a new UK appeal route. The post Google Documents Advance Notice For Significant Ranking Updates appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google On How Links Are Selected & Shown In AI Overviews & AI Mode",
+      "link": "https://www.seroundtable.com/google-ai-overviews-ai-mode-link-selection-42617.html",
+      "date": "2026-11-24T21:41:00+00:00",
+      "description": "As part of the updated documentation and Google Search ranking hub we covered a new document named Attribution and factuality in Search generative AI features. This document is chock-full of information on how Google selects which links to show in AI Mode, AI Overviews and other Search generative AI features.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "What A Billboard Network Knows About Measuring Search Ads That PPC Teams Forgot via @sejournal, @gregjarboe",
+      "link": "https://www.searchenginejournal.com/what-a-billboard-network-knows-about-measuring-search-ads-that-ppc-teams-forgot/597854/",
+      "date": "2026-11-24T20:00:04+00:00",
+      "description": "Billboard advertisers use holdout tests to measure lift. Borrow their playbook to see which Google Ads campaigns drive extra sales before you set budgets. The post What A Billboard Network Knows About Measuring Search Ads That PPC Teams Forgot appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
     {
       "title": "New Google Search Ranking Hub, Ranking Principles, Feedback & AI Training Control",
       "link": "https://www.seroundtable.com/google-search-ranking-hub-42616.html",
@@ -194,10 +230,10 @@
       ]
     },
     {
-      "title": "Reddit’s AEO Tool Recommendations Have A Promoter Problem via @sejournal, @MattGSouthern",
+      "title": "Report Flags Most Reddit Users Rating AEO Tools As Likely Promoters via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/check-whos-posting-before-you-trust-reddit-on-aeo-tools/598641/",
       "date": "2026-11-23T22:52:42+00:00",
-      "description": "An analysis of subreddits flagged most users weighing in on AEO tools as likely promoters. Among the rest, accuracy was the top feature complaint. The post Reddit&#8217;s AEO Tool Recommendations Have A Promoter Problem appeared first on Search Engine Journal .",
+      "description": "An analysis of subreddits flagged most users weighing in on AEO tools as likely promoters. Among the rest, accuracy was the top feature complaint. The post Report Flags Most Reddit Users Rating AEO Tools As Likely Promoters appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -275,18 +311,6 @@
         "SEO",
         "AI Search",
         "Ads"
-      ]
-    },
-    {
-      "title": "Daily Search Forum Recap: November 23, 2026",
-      "link": "https://www.seroundtable.com/recap-11-23-2026-42597.html",
-      "date": "2026-11-23T15:00:00+00:00",
-      "description": "Here is a recap of what happened in the search forums today, through the eyes of the Search Engine Roundtable and other search forums on the web. Google has something it calls StarSearch...",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
@@ -390,30 +414,6 @@
       "link": "https://www.searchenginejournal.com/ai-citations-what-to-check-before-reacting-to-a-lost-one/598166/",
       "date": "2026-11-20T13:00:00+00:00",
       "description": "Most AI citations that disappear later come back. Here are four things to check about a lost citation before you decide to change a page. The post Most AI Citations That Disappeared Came Back, Study Finds appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "21 Alternative Search Engines You Can Use Instead of Google via @sejournal, @lorenbaker",
-      "link": "https://www.searchenginejournal.com/21-alternative-search-engines-you-can-use-instead-of-google/596605/",
-      "date": "2026-11-19T20:00:05+00:00",
-      "description": "Compare 21 Google alternatives for everyday search, private search, AI answers, specialist research, and regional results. The post 21 Alternative Search Engines You Can Use Instead of Google appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Google’s Next Update Won’t Touch The Index, And Nobody Will Announce It via @sejournal, @DuaneForrester",
-      "link": "https://www.searchenginejournal.com/googles-next-update-wont-touch-the-index-and-nobody-will-announce-it/597481/",
-      "date": "2026-11-19T18:00:31+00:00",
-      "description": "Stop matching traffic drops to update dates. Sample what AI assistants say about your company on a schedule and track which facts drift. The post Google’s Next Update Won’t Touch The Index, And Nobody Will Announce It appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
