@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-11-25T02:48:03.274357+00:00",
+  "updatedAt": "2026-11-25T12:57:30.302499+00:00",
   "items": [
+    {
+      "title": "Google On Inventory Pages Per Geographic Region: Fewer Pages Better",
+      "link": "https://www.seroundtable.com/google-geographic-inventory-pages-42607.html",
+      "date": "2026-11-25T12:21:00+00:00",
+      "description": "Google's John Mueller gave advice on how to handle inventory pages for each geographic area that you might have. Instead of creating a page for each product and geographic area with its inventory, create a single product page and show the inventory levels for that product in each location, without creating a new page for each location.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google AdSense Opt-Out, Messaging & Privacy Updates",
+      "link": "https://www.seroundtable.com/google-adsense-updates-42550.html",
+      "date": "2026-11-25T12:11:00+00:00",
+      "description": "Google AdSense posted a few updates related to regulatory changes around opt-out controls, messaging and privacy regulations for the ad product. I figured I'd group them into one post and sum it up.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
+    {
+      "title": "Google Snoopy Thanksgiving Prep 2026 Doodle",
+      "link": "https://www.seroundtable.com/google-thanksgiving-prep-2026-doodle-logo-42618.html",
+      "date": "2026-11-25T12:05:00+00:00",
+      "description": "Tomorrow is Thanksgiving in the United States and Google is getting ready with a new Thanksgiving 2026 prep Doodle or logo. You can see the characters from Snoopy preparing the Thanksgiving table outside in this animated Doodle.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "Google Documents Advance Notice For Significant Ranking Updates via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/google-documents-advance-notice-for-significant-ranking-updates/598773/",
@@ -122,10 +158,10 @@
       ]
     },
     {
-      "title": "What Bing’s AI Actually Cites: 883,000 Citations Analyzed via @sejournal, @dodgejd",
+      "title": "Bing’s AI Cites Support Pages, PDFs & Staff Bios – 883,313 Citations Analyzed via @sejournal, @dodgejd",
       "link": "https://www.searchenginejournal.com/what-bings-ai-actually-cites-883000-citations-analyzed/595708/",
       "date": "2026-11-24T13:00:08+00:00",
-      "description": "An analysis of 883,000 Bing AI citations shows overlooked PDFs, app pages, and support content earn citations and deserve a place in content audits. The post What Bing’s AI Actually Cites: 883,000 Citations Analyzed appeared first on Search Engine Journal .",
+      "description": "An analysis of 883,000 Bing AI citations shows overlooked PDFs, app pages, and support content earn citations and deserve a place in content audits. The post Bing’s AI Cites Support Pages, PDFs &amp; Staff Bios – 883,313 Citations Analyzed appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -254,18 +290,6 @@
       ]
     },
     {
-      "title": "Google Documents Previously Undocumented Crawlers & Fetchers",
-      "link": "https://www.seroundtable.com/googlebots-additions-42604.html",
-      "date": "2026-11-23T19:20:00+00:00",
-      "description": "Google has updated a few of its help documents to add what it calls \"additional existing crawlers and user-triggered fetchers.\" The existing, previously undocumented, Google crawlers and fetchers include Google-analytics-postbacks, Google-Calendar-Importer, GoogleDocs, Google-Edu, pageburst, PlayStore-Google, AppEngine-Google, Google-Apps-Script, Google-Cloud-Tasks, GoogleImageProxy, Google Web Preview, and Chrome-Lighthouse.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Google Says Back Button Hijacking Policy Covers Social Visits via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/google-back-button-hijacking-policy-social-visits/598592/",
       "date": "2026-11-23T18:00:23+00:00",
@@ -275,30 +299,6 @@
         "SEO",
         "AI Search",
         "Ads"
-      ]
-    },
-    {
-      "title": "Google: Connect Apps To Search In Return For Personal Responses",
-      "link": "https://www.seroundtable.com/google-personal-intelligence-push-42603.html",
-      "date": "2026-11-23T17:42:00+00:00",
-      "description": "Robby Stein, VP of Product, Google Search, posted on the Google blog A more tailored Google Search that's uniquely yours. In short, he said he wants you to \"connect more of your apps to Personal Intelligence\" so that Google AI Mode can provide a \"more tailored Google Search.\"",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
-      "title": "Google Posts FAQs on Back Button Hijacking Spam",
-      "link": "https://www.seroundtable.com/google-faqs-back-button-hijacking-42601.html",
-      "date": "2026-11-23T15:08:00+00:00",
-      "description": "Google has added an FAQs section on the back button hijacking spam policy within the spam policies document. Currently, there are five questions and answers in this document and they include:",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
       ]
     },
     {
