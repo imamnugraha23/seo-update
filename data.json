@@ -1,6 +1,42 @@
 {
-  "updatedAt": "2026-11-25T22:33:35.839120+00:00",
+  "updatedAt": "2026-11-26T04:25:29.749203+00:00",
   "items": [
+    {
+      "title": "OpenAI Isn’t Planning Prompt-Level Reports For ChatGPT Ads via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/openai-isnt-planning-prompt-level-reports-for-chatgpt-ads/599126/",
+      "date": "2026-11-26T04:15:54+00:00",
+      "description": "OpenAI says ChatGPT advertisers can see aggregate results but won’t get reports showing the prompts or intent behind their ads. The post OpenAI Isn&#8217;t Planning Prompt-Level Reports For ChatGPT Ads appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "Google Adds Pageburst & 11 Other Existing Bots To Its Crawler Docs via @sejournal, @MattGSouthern",
+      "link": "https://www.searchenginejournal.com/google-adds-pageburst-11-other-existing-bots-to-its-crawler-docs/599120/",
+      "date": "2026-11-26T03:22:22+00:00",
+      "description": "Google's crawler docs now list pageburst, which renders pages for Google Ads and ignores robots.txt, plus more existing user agents to check in server logs. The post Google Adds Pageburst &#038; 11 Other Existing Bots To Its Crawler Docs appeared first on Search Engine Journal .",
+      "source": "Search Engine Journal",
+      "tags": [
+        "SEO",
+        "AI Search",
+        "Ads"
+      ]
+    },
+    {
+      "title": "ChatGPT Ads New Call-To-Actions, Business Agents Beyond US, More Audience Metrics & More",
+      "link": "https://www.seroundtable.com/chatgpt-ads-updates-42623.html",
+      "date": "2026-11-25T22:40:00+00:00",
+      "description": "OpenAI just sent out a product update on ChatGPT Ads announcing that Business Agents expand outside the U.S., new learn more call-to-action added to single image ads, more audience metrics in Ads Manager and the Ads API, ability to hide product feed sale prices when a promotion ends and new policy center details in Ads Manager.",
+      "source": "Search Engine Roundtable",
+      "tags": [
+        "Google",
+        "SEO",
+        "Technical"
+      ]
+    },
     {
       "title": "AI Shopping Agents Bought A Fake Deal 37% Of The Time – Claude Opus Never Did via @sejournal, @slobodanmanic",
       "link": "https://www.searchenginejournal.com/ai-shopping-agents-bought-a-fake-deal-37-of-the-time-claude-opus-never-did/598682/",
@@ -134,10 +170,10 @@
       ]
     },
     {
-      "title": "Google Documents Advance Notice For Significant Ranking Updates via @sejournal, @MattGSouthern",
+      "title": "Google Explains How To Send Feedback On A Core Update via @sejournal, @MattGSouthern",
       "link": "https://www.searchenginejournal.com/google-documents-advance-notice-for-significant-ranking-updates/598773/",
       "date": "2026-11-24T22:06:57+00:00",
-      "description": "New Search documentation explains when sites get advance notice of significant ranking updates, how to send feedback on them, and a new UK appeal route. The post Google Documents Advance Notice For Significant Ranking Updates appeared first on Search Engine Journal .",
+      "description": "New Search documentation explains when sites get advance notice of significant ranking updates, how to send feedback on them, and a new UK appeal route. The post Google Explains How To Send Feedback On A Core Update appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -158,10 +194,10 @@
       ]
     },
     {
-      "title": "What A Billboard Network Knows About Measuring Search Ads That PPC Teams Forgot via @sejournal, @gregjarboe",
+      "title": "A Billboard CEO Says AI Makes Ads Cheaper, Not Better – 3 Tests For Google Ads via @sejournal, @gregjarboe",
       "link": "https://www.searchenginejournal.com/what-a-billboard-network-knows-about-measuring-search-ads-that-ppc-teams-forgot/597854/",
       "date": "2026-11-24T20:00:04+00:00",
-      "description": "Billboard advertisers use holdout tests to measure lift. Borrow their playbook to see which Google Ads campaigns drive extra sales before you set budgets. The post What A Billboard Network Knows About Measuring Search Ads That PPC Teams Forgot appeared first on Search Engine Journal .",
+      "description": "Billboard advertisers use holdout tests to measure lift. Borrow their playbook to see which Google Ads campaigns drive extra sales before you set budgets. The post A Billboard CEO Says AI Makes Ads Cheaper, Not Better – 3 Tests For Google Ads appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
@@ -290,18 +326,6 @@
       ]
     },
     {
-      "title": "Google: People Don't Just Want AI, They Want AI & The Web",
-      "link": "https://www.seroundtable.com/google-people-want-ai-and-web-42602.html",
-      "date": "2026-11-24T12:31:00+00:00",
-      "description": "Elizabeth Reid, VP of Search at Google, was interviewed again and in this interview, she said that Google sees that \"people don't want purely AI, they want AI and the web.\" She then goes on to explain this with examples of how some websites are easily replaceable with AI, while others are not.",
-      "source": "Search Engine Roundtable",
-      "tags": [
-        "Google",
-        "SEO",
-        "Technical"
-      ]
-    },
-    {
       "title": "Google’s Expansion Of Personal Intelligence Will Change SEO via @sejournal, @martinibuster",
       "link": "https://www.searchenginejournal.com/googles-expansion-of-personal-intelligence-will-change-seo/598724/",
       "date": "2026-11-24T11:55:13+00:00",
@@ -390,30 +414,6 @@
       "link": "https://www.searchenginejournal.com/check-your-nov-18-rank-data-before-blaming-the-core-update/598449/",
       "date": "2026-11-23T09:00:04+00:00",
       "description": "A rank tracker received about a tenth of its usual Google results for hours during the core update, with a sign-in page among the blocks. The post Check Your Nov. 18 Rank Data Before Blaming The Core Update appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Google’s Branded API Data, CDN Advice & Ask Maps Calls – SEO Pulse via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/seo-pulse-wordpress-random-redirects-branded-api-data-cdn-advice/598173/",
-      "date": "2026-11-21T13:00:00+00:00",
-      "description": "This week's SEO Pulse covers WordPress's random redirect, branded data in Search Console API, Google's CDN guidance, and who controls access for bots and agents. The post Google&#8217;s Branded API Data, CDN Advice &amp; Ask Maps Calls – SEO Pulse appeared first on Search Engine Journal .",
-      "source": "Search Engine Journal",
-      "tags": [
-        "SEO",
-        "AI Search",
-        "Ads"
-      ]
-    },
-    {
-      "title": "Salesforce CEO Says ‘Goodbye SEO.’ Salesforce’s SEO Guide Disagrees via @sejournal, @MattGSouthern",
-      "link": "https://www.searchenginejournal.com/salesforce-ceo-goodbye-seo-salesforce-seo-guide/598343/",
-      "date": "2026-11-20T20:20:52+00:00",
-      "description": "Marc Benioff promoted Palmata by saying goodbye to SEO, while Salesforce’s own guide says SEO remains the foundation. The post Salesforce CEO Says &#8216;Goodbye SEO.&#8217; Salesforce&#8217;s SEO Guide Disagrees appeared first on Search Engine Journal .",
       "source": "Search Engine Journal",
       "tags": [
         "SEO",
